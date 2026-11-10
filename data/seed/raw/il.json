@@ -1,0 +1,348 @@
+{
+  "nation": "il",
+  "source": "images/IL.png",
+  "items": [
+    {
+      "rank": 4,
+      "section": "research",
+      "name": "M-51",
+      "value": "1"
+    },
+    {
+      "rank": 4,
+      "section": "research",
+      "name": "AMX-13",
+      "value": "1"
+    },
+    {
+      "rank": 4,
+      "section": "research",
+      "name": "TCM-20",
+      "value": "x"
+    },
+    {
+      "rank": 4,
+      "section": "research",
+      "name": "M109",
+      "value": "x"
+    },
+    {
+      "rank": 4,
+      "section": "research",
+      "name": "Magach 1",
+      "value": "1"
+    },
+    {
+      "rank": 4,
+      "section": "research",
+      "name": "Magach 2",
+      "value": "1"
+    },
+    {
+      "rank": 4,
+      "section": "research",
+      "name": "AML-90",
+      "value": "1"
+    },
+    {
+      "rank": 4,
+      "section": "research",
+      "name": "ZSU-57-2",
+      "value": "x"
+    },
+    {
+      "rank": 4,
+      "section": "research",
+      "name": "Rochev",
+      "value": "x"
+    },
+    {
+      "rank": 4,
+      "section": "research",
+      "name": "Zachlam Tager",
+      "value": "0.5"
+    },
+    {
+      "rank": 4,
+      "section": "research",
+      "name": "Sho't",
+      "value": "0.8"
+    },
+    {
+      "rank": 4,
+      "section": "research",
+      "name": "Hovet",
+      "value": "x"
+    },
+    {
+      "rank": 4,
+      "section": "premium",
+      "name": "M-51 (W)",
+      "value": "x"
+    },
+    {
+      "rank": 4,
+      "section": "premium",
+      "name": "Sholef",
+      "value": "0.5"
+    },
+    {
+      "rank": 5,
+      "section": "research",
+      "name": "Magach 3",
+      "value": "1"
+    },
+    {
+      "rank": 5,
+      "section": "research",
+      "name": "Magach 6",
+      "value": "x"
+    },
+    {
+      "rank": 5,
+      "section": "research",
+      "name": "Tiran 4",
+      "value": "1"
+    },
+    {
+      "rank": 5,
+      "section": "research",
+      "name": "Tiran 4S",
+      "value": "1"
+    },
+    {
+      "rank": 5,
+      "section": "research",
+      "name": "ZSU-23-4V",
+      "value": "x"
+    },
+    {
+      "rank": 5,
+      "section": "research",
+      "name": "Bardelas/60mm HVMS",
+      "value": "x"
+    },
+    {
+      "rank": 5,
+      "section": "research",
+      "name": "Magach 6A",
+      "value": "1"
+    },
+    {
+      "rank": 5,
+      "section": "research",
+      "name": "Magach 5",
+      "value": "1"
+    },
+    {
+      "rank": 5,
+      "section": "research",
+      "name": "Sho't Kal Alef",
+      "value": "0.8"
+    },
+    {
+      "rank": 5,
+      "section": "premium",
+      "name": "Magach 3 (ERA)",
+      "value": "x"
+    },
+    {
+      "rank": 6,
+      "section": "research",
+      "name": "Magach 6R",
+      "value": "1"
+    },
+    {
+      "rank": 6,
+      "section": "research",
+      "name": "Magach 6B",
+      "value": "1"
+    },
+    {
+      "rank": 6,
+      "section": "research",
+      "name": "Magach Hydra",
+      "value": "1"
+    },
+    {
+      "rank": 6,
+      "section": "research",
+      "name": "Sho't Kal Gimel",
+      "value": "1"
+    },
+    {
+      "rank": 6,
+      "section": "research",
+      "name": "Tiran 6",
+      "value": "1"
+    },
+    {
+      "rank": 6,
+      "section": "research",
+      "name": "Machbet",
+      "value": "x"
+    },
+    {
+      "rank": 6,
+      "section": "research",
+      "name": "Giraf",
+      "value": "0.5"
+    },
+    {
+      "rank": 6,
+      "section": "research",
+      "name": "Magach 6M",
+      "value": "1"
+    },
+    {
+      "rank": 6,
+      "section": "research",
+      "name": "Magach 6C",
+      "value": "x"
+    },
+    {
+      "rank": 6,
+      "section": "research",
+      "name": "Merkava Mk.1",
+      "value": "0.5"
+    },
+    {
+      "rank": 6,
+      "section": "research",
+      "name": "Imp.Chaparral",
+      "value": "x"
+    },
+    {
+      "rank": 6,
+      "section": "research",
+      "name": "Gal Batash",
+      "value": "1"
+    },
+    {
+      "rank": 6,
+      "section": "research",
+      "name": "Magach 7C",
+      "value": "x"
+    },
+    {
+      "rank": 6,
+      "section": "research",
+      "name": "Merkava Mk.1B",
+      "value": "1"
+    },
+    {
+      "rank": 6,
+      "section": "research",
+      "name": "Merkava Mk.2B",
+      "value": "1"
+    },
+    {
+      "rank": 6,
+      "section": "premium",
+      "name": "Sho't Kal Dalet",
+      "value": "1"
+    },
+    {
+      "rank": 6,
+      "section": "premium",
+      "name": "Magach 6B Gal",
+      "value": "1"
+    },
+    {
+      "rank": 6,
+      "section": "premium",
+      "name": "Merkava Mk.2D",
+      "value": "x"
+    },
+    {
+      "rank": 7,
+      "section": "research",
+      "name": "Sabra Mk.I",
+      "value": "x"
+    },
+    {
+      "rank": 7,
+      "section": "research",
+      "name": "Merkava Mk.3B",
+      "value": "1"
+    },
+    {
+      "rank": 7,
+      "section": "research",
+      "name": "Merkava Mk.3C",
+      "value": "1"
+    },
+    {
+      "rank": 7,
+      "section": "research",
+      "name": "Osa-AKM",
+      "value": "x"
+    },
+    {
+      "rank": 7,
+      "section": "research",
+      "name": "Hunter AFV",
+      "value": "x"
+    },
+    {
+      "rank": 7,
+      "section": "research",
+      "name": "Tor-M1",
+      "value": "x"
+    },
+    {
+      "rank": 7,
+      "section": "research",
+      "name": "Eitan (P)",
+      "value": "0.5"
+    },
+    {
+      "rank": 7,
+      "section": "research",
+      "name": "Namer 30",
+      "value": "0.5"
+    },
+    {
+      "rank": 7,
+      "section": "research",
+      "name": "Namer Tsrikhon",
+      "value": "0.5"
+    },
+    {
+      "rank": 7,
+      "section": "premium",
+      "name": "Ra'am Sagol",
+      "value": "1"
+    },
+    {
+      "rank": 8,
+      "section": "research",
+      "name": "Leopard 2HEL",
+      "value": "x"
+    },
+    {
+      "rank": 8,
+      "section": "research",
+      "name": "Merkava Mk.4B",
+      "value": "1"
+    },
+    {
+      "rank": 8,
+      "section": "research",
+      "name": "Merkava Mk.4 LIC",
+      "value": "x"
+    },
+    {
+      "rank": 8,
+      "section": "research",
+      "name": "SPYDER",
+      "value": "x"
+    },
+    {
+      "rank": 8,
+      "section": "research",
+      "name": "Merkava Mk.4M",
+      "value": "1"
+    }
+  ]
+}

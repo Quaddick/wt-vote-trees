@@ -1,0 +1,19 @@
+services:
+  wtv:
+    build: .
+    image: wt-vote-trees
+    container_name: wt-vote-trees
+    restart: unless-stopped
+    init: true
+    # Только localhost: снаружи сайт открывается через nginx (см. docs/DEPLOY.md).
+    ports:
+      - "127.0.0.1:8080:8080"
+    # Значения берутся из файла .env рядом с этим файлом; нет .env — сайт только на просмотр.
+    environment:
+      ADMIN_PASSWORD: ${ADMIN_PASSWORD:-}
+      SESSION_SECRET: ${SESSION_SECRET:-}
+      # Адрес nginx, которому можно верить в X-Forwarded-For; пусто — заголовок не читается (docs/DEPLOY.md).
+      TRUSTED_PROXIES: ${TRUSTED_PROXIES:-}
+    # Значения и история — в ./data/runtime на хосте.
+    volumes:
+      - ./data:/app/data

@@ -1,0 +1,588 @@
+{
+  "nation": "sw",
+  "source": "images/SW.png",
+  "items": [
+    {
+      "rank": 1,
+      "section": "research",
+      "name": "Strv m/31",
+      "value": "1"
+    },
+    {
+      "rank": 1,
+      "section": "research",
+      "name": "Strv m/38",
+      "value": "1"
+    },
+    {
+      "rank": 1,
+      "section": "research",
+      "name": "Pvlvv fm/42",
+      "value": "0.5"
+    },
+    {
+      "rank": 1,
+      "section": "research",
+      "name": "Ikv 72",
+      "value": "0.5"
+    },
+    {
+      "rank": 1,
+      "section": "research",
+      "name": "Vickers Mk.E",
+      "value": "0.2"
+    },
+    {
+      "rank": 1,
+      "section": "research",
+      "name": "BT-42",
+      "value": "0.5"
+    },
+    {
+      "rank": 1,
+      "section": "research",
+      "name": "Strv m/40L",
+      "value": "1"
+    },
+    {
+      "rank": 1,
+      "section": "research",
+      "name": "Sav m/43 (1944)",
+      "value": "0.5"
+    },
+    {
+      "rank": 1,
+      "section": "research",
+      "name": "T-28",
+      "value": "1"
+    },
+    {
+      "rank": 1,
+      "section": "premium",
+      "name": "Strv m/39",
+      "value": "1"
+    },
+    {
+      "rank": 1,
+      "section": "premium",
+      "name": "Strv m/39 TD",
+      "value": "1"
+    },
+    {
+      "rank": 1,
+      "section": "premium",
+      "name": "T-26E",
+      "value": "x"
+    },
+    {
+      "rank": 1,
+      "section": "premium",
+      "name": "Pbil m/40",
+      "value": "1"
+    },
+    {
+      "rank": 2,
+      "section": "research",
+      "name": "Strv m/41 S-II",
+      "value": "1"
+    },
+    {
+      "rank": 2,
+      "section": "research",
+      "name": "Lago I",
+      "value": "1"
+    },
+    {
+      "rank": 2,
+      "section": "research",
+      "name": "Pbv 301",
+      "value": "0.5"
+    },
+    {
+      "rank": 2,
+      "section": "research",
+      "name": "Spj fm/43-44",
+      "value": "0.2"
+    },
+    {
+      "rank": 2,
+      "section": "research",
+      "name": "Pvkv III",
+      "value": "1"
+    },
+    {
+      "rank": 2,
+      "section": "research",
+      "name": "Strv m/42 EH",
+      "value": "1"
+    },
+    {
+      "rank": 2,
+      "section": "research",
+      "name": "Lvtdgb m/40",
+      "value": "0.5"
+    },
+    {
+      "rank": 2,
+      "section": "research",
+      "name": "Sav m/43 (1946)",
+      "value": "0.5"
+    },
+    {
+      "rank": 2,
+      "section": "premium",
+      "name": "Strv m/41 S-I",
+      "value": "x"
+    },
+    {
+      "rank": 2,
+      "section": "premium",
+      "name": "T-50",
+      "value": "x"
+    },
+    {
+      "rank": 2,
+      "section": "premium",
+      "name": "Ikv 73",
+      "value": "1"
+    },
+    {
+      "rank": 3,
+      "section": "research",
+      "name": "M24DK",
+      "value": "1"
+    },
+    {
+      "rank": 3,
+      "section": "research",
+      "name": "Pvkv IV",
+      "value": "1"
+    },
+    {
+      "rank": 3,
+      "section": "research",
+      "name": "L-62 ANTI II",
+      "value": "0.5"
+    },
+    {
+      "rank": 3,
+      "section": "research",
+      "name": "Pvkv m/43 (1946)",
+      "value": "0.5"
+    },
+    {
+      "rank": 3,
+      "section": "research",
+      "name": "Ikv 103",
+      "value": "0.5"
+    },
+    {
+      "rank": 3,
+      "section": "research",
+      "name": "T-34",
+      "value": "1"
+    },
+    {
+      "rank": 3,
+      "section": "research",
+      "name": "Pz.IV",
+      "value": "1"
+    },
+    {
+      "rank": 3,
+      "section": "research",
+      "name": "Pvkv II",
+      "value": "1"
+    },
+    {
+      "rank": 3,
+      "section": "research",
+      "name": "Strv m/42 DT",
+      "value": "1"
+    },
+    {
+      "rank": 3,
+      "section": "research",
+      "name": "Lvkv 42",
+      "value": "0.5"
+    },
+    {
+      "rank": 3,
+      "section": "research",
+      "name": "Pvkv m/43 (1963)",
+      "value": "0.5"
+    },
+    {
+      "rank": 3,
+      "section": "research",
+      "name": "PT-76",
+      "value": "1"
+    },
+    {
+      "rank": 3,
+      "section": "research",
+      "name": "Comet I",
+      "value": "1"
+    },
+    {
+      "rank": 3,
+      "section": "premium",
+      "name": "SAV 20.12.48",
+      "value": "0.5"
+    },
+    {
+      "rank": 3,
+      "section": "premium",
+      "name": "KV-1 m1942",
+      "value": "x"
+    },
+    {
+      "rank": 3,
+      "section": "premium",
+      "name": "Sherman III/IV",
+      "value": "1"
+    },
+    {
+      "rank": 4,
+      "section": "research",
+      "name": "Pbv 501",
+      "value": "1"
+    },
+    {
+      "rank": 4,
+      "section": "research",
+      "name": "Strv 74",
+      "value": "1"
+    },
+    {
+      "rank": 4,
+      "section": "research",
+      "name": "U-SH 204 GK",
+      "value": "0.2"
+    },
+    {
+      "rank": 4,
+      "section": "research",
+      "name": "Bkan 1C",
+      "value": "0.5"
+    },
+    {
+      "rank": 4,
+      "section": "research",
+      "name": "T-34-85",
+      "value": "1"
+    },
+    {
+      "rank": 4,
+      "section": "research",
+      "name": "Charioteer Mk VII",
+      "value": "1"
+    },
+    {
+      "rank": 4,
+      "section": "premium",
+      "name": "Kungstiger",
+      "value": "1"
+    },
+    {
+      "rank": 5,
+      "section": "research",
+      "name": "Ikv 91",
+      "value": "1"
+    },
+    {
+      "rank": 5,
+      "section": "research",
+      "name": "Strv 81",
+      "value": "0.8"
+    },
+    {
+      "rank": 5,
+      "section": "research",
+      "name": "ZSU-57-2",
+      "value": "1"
+    },
+    {
+      "rank": 5,
+      "section": "research",
+      "name": "Pvrbv 551",
+      "value": "0.5"
+    },
+    {
+      "rank": 5,
+      "section": "research",
+      "name": "T-54",
+      "value": "1"
+    },
+    {
+      "rank": 5,
+      "section": "research",
+      "name": "U-SH 405",
+      "value": "1"
+    },
+    {
+      "rank": 5,
+      "section": "research",
+      "name": "Strv 101",
+      "value": "0.8"
+    },
+    {
+      "rank": 5,
+      "section": "research",
+      "name": "Strv 103A",
+      "value": "1"
+    },
+    {
+      "rank": 5,
+      "section": "research",
+      "name": "VEAK 40",
+      "value": "x"
+    },
+    {
+      "rank": 5,
+      "section": "premium",
+      "name": "Strv 81 (RB 52)",
+      "value": "x"
+    },
+    {
+      "rank": 5,
+      "section": "premium",
+      "name": "VIDAR",
+      "value": "x"
+    },
+    {
+      "rank": 5,
+      "section": "premium",
+      "name": "Strv 103-0",
+      "value": "1"
+    },
+    {
+      "rank": 6,
+      "section": "research",
+      "name": "CV 90105 TML",
+      "value": "1"
+    },
+    {
+      "rank": 6,
+      "section": "research",
+      "name": "Strv 104",
+      "value": "1"
+    },
+    {
+      "rank": 6,
+      "section": "research",
+      "name": "Strv 103C",
+      "value": "1"
+    },
+    {
+      "rank": 6,
+      "section": "research",
+      "name": "ItPsV Leopard",
+      "value": "1"
+    },
+    {
+      "rank": 6,
+      "section": "research",
+      "name": "UDES 33",
+      "value": "0.5"
+    },
+    {
+      "rank": 6,
+      "section": "research",
+      "name": "Pbv 302 (BILL)",
+      "value": "0.5"
+    },
+    {
+      "rank": 6,
+      "section": "research",
+      "name": "T-55M",
+      "value": "1"
+    },
+    {
+      "rank": 6,
+      "section": "research",
+      "name": "Ikv 91-105",
+      "value": "1"
+    },
+    {
+      "rank": 6,
+      "section": "research",
+      "name": "Strv 105",
+      "value": "1"
+    },
+    {
+      "rank": 6,
+      "section": "research",
+      "name": "Lvrbv 701",
+      "value": "0.2"
+    },
+    {
+      "rank": 6,
+      "section": "research",
+      "name": "T-72M1",
+      "value": "1"
+    },
+    {
+      "rank": 6,
+      "section": "research",
+      "name": "CV 9030FIN",
+      "value": "1"
+    },
+    {
+      "rank": 6,
+      "section": "research",
+      "name": "Strf 9040B",
+      "value": "1"
+    },
+    {
+      "rank": 6,
+      "section": "premium",
+      "name": "Leopard 1A5NO2",
+      "value": "x"
+    },
+    {
+      "rank": 6,
+      "section": "premium",
+      "name": "BMP-2MD",
+      "value": "1"
+    },
+    {
+      "rank": 6,
+      "section": "premium",
+      "name": "CV 9035DK",
+      "value": "x"
+    },
+    {
+      "rank": 6,
+      "section": "premium",
+      "name": "AMV (BMP-3)",
+      "value": "0.7"
+    },
+    {
+      "rank": 7,
+      "section": "research",
+      "name": "Strf 9040C",
+      "value": "1"
+    },
+    {
+      "rank": 7,
+      "section": "research",
+      "name": "Strv 121",
+      "value": "1"
+    },
+    {
+      "rank": 7,
+      "section": "research",
+      "name": "Lvkv 9040C",
+      "value": "0.5"
+    },
+    {
+      "rank": 7,
+      "section": "research",
+      "name": "ASRAD-R",
+      "value": "x"
+    },
+    {
+      "rank": 7,
+      "section": "research",
+      "name": "Strf 9040 BILL",
+      "value": "0.5"
+    },
+    {
+      "rank": 7,
+      "section": "research",
+      "name": "Leopard 2A4",
+      "value": "1"
+    },
+    {
+      "rank": 7,
+      "section": "premium",
+      "name": "CV 90105",
+      "value": "1"
+    },
+    {
+      "rank": 7,
+      "section": "premium",
+      "name": "CT-CV 105HP",
+      "value": "1"
+    },
+    {
+      "rank": 7,
+      "section": "premium",
+      "name": "Christian II",
+      "value": "x"
+    },
+    {
+      "rank": 8,
+      "section": "research",
+      "name": "CV90120-T",
+      "value": "1"
+    },
+    {
+      "rank": 8,
+      "section": "research",
+      "name": "Strv 122A",
+      "value": "1"
+    },
+    {
+      "rank": 8,
+      "section": "research",
+      "name": "Strv 122B PLSS",
+      "value": "1"
+    },
+    {
+      "rank": 8,
+      "section": "research",
+      "name": "ItO 90M",
+      "value": "x"
+    },
+    {
+      "rank": 8,
+      "section": "research",
+      "name": "CV 90 Mk.IV",
+      "value": "0.5"
+    },
+    {
+      "rank": 8,
+      "section": "research",
+      "name": "Leopard 2A6",
+      "value": "1"
+    },
+    {
+      "rank": 8,
+      "section": "research",
+      "name": "Strv 122B+",
+      "value": "1"
+    },
+    {
+      "rank": 8,
+      "section": "research",
+      "name": "EldE 98",
+      "value": "x"
+    },
+    {
+      "rank": 8,
+      "section": "research",
+      "name": "NOMADS",
+      "value": "x"
+    },
+    {
+      "rank": 8,
+      "section": "research",
+      "name": "NASAMS 3 (TADS)",
+      "value": "x"
+    },
+    {
+      "rank": 8,
+      "section": "research",
+      "name": "NASAMS 3 (TEL)",
+      "value": "x"
+    },
+    {
+      "rank": 8,
+      "section": "premium",
+      "name": "T 80 U",
+      "value": "1"
+    }
+  ]
+}

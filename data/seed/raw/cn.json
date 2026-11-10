@@ -1,0 +1,600 @@
+{
+  "nation": "cn",
+  "source": "images/CN.png",
+  "items": [
+    {
+      "rank": 1,
+      "section": "research",
+      "name": "M8 LAC",
+      "value": "1"
+    },
+    {
+      "rank": 1,
+      "section": "research",
+      "name": "T-26",
+      "value": "x"
+    },
+    {
+      "rank": 1,
+      "section": "research",
+      "name": "Sd.Kfz.222",
+      "value": "1"
+    },
+    {
+      "rank": 1,
+      "section": "research",
+      "name": "M8 HMC",
+      "value": "0.5"
+    },
+    {
+      "rank": 1,
+      "section": "research",
+      "name": "Chi-Ha",
+      "value": "1"
+    },
+    {
+      "rank": 1,
+      "section": "research",
+      "name": "SU-76M",
+      "value": "0.5"
+    },
+    {
+      "rank": 1,
+      "section": "premium",
+      "name": "T-26 No.531",
+      "value": "x"
+    },
+    {
+      "rank": 2,
+      "section": "research",
+      "name": "M3A3 Stuart",
+      "value": "1"
+    },
+    {
+      "rank": 2,
+      "section": "research",
+      "name": "M5A1",
+      "value": "1"
+    },
+    {
+      "rank": 2,
+      "section": "research",
+      "name": "Chi-Ha Kai",
+      "value": "1"
+    },
+    {
+      "rank": 2,
+      "section": "research",
+      "name": "CCKW 353 (M45)",
+      "value": "x"
+    },
+    {
+      "rank": 2,
+      "section": "research",
+      "name": "LVT(A)(4) (ZiS-2)",
+      "value": "1"
+    },
+    {
+      "rank": 2,
+      "section": "research",
+      "name": "M4A4",
+      "value": "1"
+    },
+    {
+      "rank": 2,
+      "section": "research",
+      "name": "M10 GMC",
+      "value": "1"
+    },
+    {
+      "rank": 2,
+      "section": "premium",
+      "name": "M3A3 (1st PTG)",
+      "value": "x"
+    },
+    {
+      "rank": 2,
+      "section": "premium",
+      "name": "M4A4 (1st PTG)",
+      "value": "x"
+    },
+    {
+      "rank": 3,
+      "section": "research",
+      "name": "M24",
+      "value": "1"
+    },
+    {
+      "rank": 3,
+      "section": "research",
+      "name": "T-34 (1943)",
+      "value": "1"
+    },
+    {
+      "rank": 3,
+      "section": "research",
+      "name": "M4A1 (75) W",
+      "value": "1"
+    },
+    {
+      "rank": 3,
+      "section": "research",
+      "name": "M42",
+      "value": "x"
+    },
+    {
+      "rank": 3,
+      "section": "research",
+      "name": "M55",
+      "value": "x"
+    },
+    {
+      "rank": 3,
+      "section": "research",
+      "name": "Object 211",
+      "value": "1"
+    },
+    {
+      "rank": 3,
+      "section": "research",
+      "name": "PT-76",
+      "value": "1"
+    },
+    {
+      "rank": 3,
+      "section": "research",
+      "name": "T-34-85 (S-53)",
+      "value": "1"
+    },
+    {
+      "rank": 3,
+      "section": "research",
+      "name": "T-34-85 Gai",
+      "value": "1"
+    },
+    {
+      "rank": 3,
+      "section": "research",
+      "name": "Phòng không T-34",
+      "value": "0.4"
+    },
+    {
+      "rank": 3,
+      "section": "research",
+      "name": "ISU-152",
+      "value": "0.5"
+    },
+    {
+      "rank": 3,
+      "section": "research",
+      "name": "M36 GMC",
+      "value": "1"
+    },
+    {
+      "rank": 3,
+      "section": "research",
+      "name": "ISU-122",
+      "value": "0.5"
+    },
+    {
+      "rank": 3,
+      "section": "premium",
+      "name": "M41A3",
+      "value": "x"
+    },
+    {
+      "rank": 4,
+      "section": "research",
+      "name": "M18 GMC",
+      "value": "1"
+    },
+    {
+      "rank": 4,
+      "section": "research",
+      "name": "IS-2",
+      "value": "1"
+    },
+    {
+      "rank": 4,
+      "section": "research",
+      "name": "IS-2 (1944)",
+      "value": "1"
+    },
+    {
+      "rank": 4,
+      "section": "research",
+      "name": "ZSD63/PG87",
+      "value": "x"
+    },
+    {
+      "rank": 4,
+      "section": "research",
+      "name": "SU-100",
+      "value": "0.5"
+    },
+    {
+      "rank": 4,
+      "section": "research",
+      "name": "Type 63",
+      "value": "1"
+    },
+    {
+      "rank": 4,
+      "section": "research",
+      "name": "Type 62",
+      "value": "1"
+    },
+    {
+      "rank": 4,
+      "section": "research",
+      "name": "ZSL92",
+      "value": "0.5"
+    },
+    {
+      "rank": 4,
+      "section": "research",
+      "name": "PLZ83",
+      "value": "0.5"
+    },
+    {
+      "rank": 4,
+      "section": "premium",
+      "name": "M64",
+      "value": "1"
+    },
+    {
+      "rank": 4,
+      "section": "premium",
+      "name": "PLZ45",
+      "value": "x"
+    },
+    {
+      "rank": 4,
+      "section": "premium",
+      "name": "T-34-85 No.215",
+      "value": "x"
+    },
+    {
+      "rank": 4,
+      "section": "premium",
+      "name": "WZ141-1",
+      "value": "1"
+    },
+    {
+      "rank": 4,
+      "section": "premium",
+      "name": "IS-2 No.402",
+      "value": "x"
+    },
+    {
+      "rank": 5,
+      "section": "research",
+      "name": "ZTS63",
+      "value": "1"
+    },
+    {
+      "rank": 5,
+      "section": "research",
+      "name": "ZBD86",
+      "value": "0.5"
+    },
+    {
+      "rank": 5,
+      "section": "research",
+      "name": "M48A1",
+      "value": "1"
+    },
+    {
+      "rank": 5,
+      "section": "research",
+      "name": "PGZ88",
+      "value": "x"
+    },
+    {
+      "rank": 5,
+      "section": "research",
+      "name": "PLZ05",
+      "value": "0.5"
+    },
+    {
+      "rank": 5,
+      "section": "research",
+      "name": "Type 59",
+      "value": "1"
+    },
+    {
+      "rank": 5,
+      "section": "research",
+      "name": "Type 69",
+      "value": "0.5"
+    },
+    {
+      "rank": 5,
+      "section": "research",
+      "name": "WZ305",
+      "value": "x"
+    },
+    {
+      "rank": 5,
+      "section": "research",
+      "name": "M113A1 (TOW)",
+      "value": "0.5"
+    },
+    {
+      "rank": 5,
+      "section": "premium",
+      "name": "ZTZ59A",
+      "value": "1"
+    },
+    {
+      "rank": 5,
+      "section": "premium",
+      "name": "PLZ83-130",
+      "value": "0.5"
+    },
+    {
+      "rank": 5,
+      "section": "premium",
+      "name": "Type 69-IIa",
+      "value": "1"
+    },
+    {
+      "rank": 6,
+      "section": "research",
+      "name": "M41D",
+      "value": "1"
+    },
+    {
+      "rank": 6,
+      "section": "research",
+      "name": "ZTZ59D1",
+      "value": "1"
+    },
+    {
+      "rank": 6,
+      "section": "research",
+      "name": "PGZ09",
+      "value": "x"
+    },
+    {
+      "rank": 6,
+      "section": "research",
+      "name": "CM25",
+      "value": "0.5"
+    },
+    {
+      "rank": 6,
+      "section": "research",
+      "name": "PTZ89",
+      "value": "0.5"
+    },
+    {
+      "rank": 6,
+      "section": "research",
+      "name": "M60A3 TTS",
+      "value": "1"
+    },
+    {
+      "rank": 6,
+      "section": "research",
+      "name": "ZTZ88B",
+      "value": "x"
+    },
+    {
+      "rank": 6,
+      "section": "research",
+      "name": "ZTZ88A",
+      "value": "x"
+    },
+    {
+      "rank": 6,
+      "section": "research",
+      "name": "PGZ04A",
+      "value": "x"
+    },
+    {
+      "rank": 6,
+      "section": "research",
+      "name": "PTL02",
+      "value": "0.5"
+    },
+    {
+      "rank": 6,
+      "section": "research",
+      "name": "AFT09",
+      "value": "x"
+    },
+    {
+      "rank": 6,
+      "section": "research",
+      "name": "CM11",
+      "value": "1"
+    },
+    {
+      "rank": 6,
+      "section": "research",
+      "name": "ZTZ96",
+      "value": "1"
+    },
+    {
+      "rank": 6,
+      "section": "research",
+      "name": "CM34",
+      "value": "1"
+    },
+    {
+      "rank": 6,
+      "section": "premium",
+      "name": "Object 122MT \"MC\"",
+      "value": "1"
+    },
+    {
+      "rank": 6,
+      "section": "premium",
+      "name": "T-62 N545",
+      "value": "x"
+    },
+    {
+      "rank": 6,
+      "section": "premium",
+      "name": "WMA301",
+      "value": "0.8"
+    },
+    {
+      "rank": 6,
+      "section": "premium",
+      "name": "T-69 II G",
+      "value": "0.8"
+    },
+    {
+      "rank": 7,
+      "section": "research",
+      "name": "MBT-2000",
+      "value": "1"
+    },
+    {
+      "rank": 7,
+      "section": "research",
+      "name": "ZTZ96A",
+      "value": "1"
+    },
+    {
+      "rank": 7,
+      "section": "research",
+      "name": "Antelope",
+      "value": "x"
+    },
+    {
+      "rank": 7,
+      "section": "research",
+      "name": "ZLT11",
+      "value": "1"
+    },
+    {
+      "rank": 7,
+      "section": "research",
+      "name": "ZTZ99-II",
+      "value": "1"
+    },
+    {
+      "rank": 7,
+      "section": "research",
+      "name": "ZTZ99-III",
+      "value": "1"
+    },
+    {
+      "rank": 7,
+      "section": "research",
+      "name": "Tor-M1",
+      "value": "x"
+    },
+    {
+      "rank": 7,
+      "section": "research",
+      "name": "HQ17",
+      "value": "x"
+    },
+    {
+      "rank": 7,
+      "section": "research",
+      "name": "ZBD04A",
+      "value": "1"
+    },
+    {
+      "rank": 7,
+      "section": "premium",
+      "name": "ZTZ96A (P)",
+      "value": "x"
+    },
+    {
+      "rank": 7,
+      "section": "premium",
+      "name": "T-80UD/BE",
+      "value": "1"
+    },
+    {
+      "rank": 7,
+      "section": "premium",
+      "name": "QN506",
+      "value": "0.8"
+    },
+    {
+      "rank": 7,
+      "section": "premium",
+      "name": "Al-Khalid-I",
+      "value": "1"
+    },
+    {
+      "rank": 7,
+      "section": "premium",
+      "name": "VT5",
+      "value": "1"
+    },
+    {
+      "rank": 7,
+      "section": "premium",
+      "name": "MBT-2000",
+      "value": "1"
+    },
+    {
+      "rank": 7,
+      "section": "premium",
+      "name": "ZTZ96B",
+      "value": "x"
+    },
+    {
+      "rank": 8,
+      "section": "research",
+      "name": "VT4",
+      "value": "0.5"
+    },
+    {
+      "rank": 8,
+      "section": "research",
+      "name": "WZ1001(E) LCT",
+      "value": "1"
+    },
+    {
+      "rank": 8,
+      "section": "research",
+      "name": "CS/SA5",
+      "value": "x"
+    },
+    {
+      "rank": 8,
+      "section": "research",
+      "name": "VT4A1",
+      "value": "1"
+    },
+    {
+      "rank": 8,
+      "section": "research",
+      "name": "ZTZ99A",
+      "value": "1"
+    },
+    {
+      "rank": 8,
+      "section": "research",
+      "name": "FK-2000",
+      "value": "x"
+    },
+    {
+      "rank": 8,
+      "section": "research",
+      "name": "M1A2T",
+      "value": "x"
+    },
+    {
+      "rank": 8,
+      "section": "research",
+      "name": "HQ11",
+      "value": "x"
+    },
+    {
+      "rank": 8,
+      "section": "premium",
+      "name": "Oplot-M",
+      "value": "0.5"
+    }
+  ]
+}

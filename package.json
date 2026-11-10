@@ -1,0 +1,38 @@
+{
+  "name": "wt-vote-trees",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build && tsc -p tsconfig.server.json",
+    "start": "tsx server/main.ts",
+    "test": "vitest run",
+    "check": "tsc --noEmit && vitest run",
+    "e2e": "playwright test",
+    "catalog": "tsx scripts/catalog/build-catalog.ts",
+    "seed": "tsx scripts/seed/match.ts",
+    "seed:tiles": "tsx scripts/seed/tiles.ts"
+  },
+  "dependencies": {
+    "@preact/signals": "^2.11.4",
+    "preact": "^11.2.0",
+    "tsx": "^4.23.15"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.29.13",
+    "@playwright/test": "^1.65.0",
+    "@preact/preset-vite": "^2.10.6",
+    "@testing-library/preact": "^3.2.6",
+    "@types/node": "^22.20.5",
+    "jsdom": "^29.1.1",
+    "node-html-parser": "^9.0.7",
+    "sharp": "^0.35.5",
+    "typescript": "^7.0.2",
+    "vite": "^8.3.6",
+    "vitest": "^5.1.0"
+  }
+}

@@ -1,0 +1,650 @@
+{
+  "nation": "fr",
+  "source": "images/FR.png",
+  "items": [
+    {
+      "rank": 1,
+      "section": "research",
+      "name": "AMC.34 YR",
+      "value": "0.2"
+    },
+    {
+      "rank": 1,
+      "section": "research",
+      "name": "H.35",
+      "value": "0.2"
+    },
+    {
+      "rank": 1,
+      "section": "research",
+      "name": "FCM.36",
+      "value": "0.2"
+    },
+    {
+      "rank": 1,
+      "section": "research",
+      "name": "St-Chamond",
+      "value": "0.2"
+    },
+    {
+      "rank": 1,
+      "section": "research",
+      "name": "R.35 (SA38)",
+      "value": "0.2"
+    },
+    {
+      "rank": 1,
+      "section": "research",
+      "name": "P.7.T AA",
+      "value": "x"
+    },
+    {
+      "rank": 1,
+      "section": "research",
+      "name": "AMR.35 ZT3",
+      "value": "0.2"
+    },
+    {
+      "rank": 1,
+      "section": "research",
+      "name": "AMD.35",
+      "value": "1"
+    },
+    {
+      "rank": 1,
+      "section": "research",
+      "name": "H.39",
+      "value": "0.2"
+    },
+    {
+      "rank": 1,
+      "section": "research",
+      "name": "D2",
+      "value": "0.5"
+    },
+    {
+      "rank": 1,
+      "section": "research",
+      "name": "Lorraine 37L",
+      "value": "0.2"
+    },
+    {
+      "rank": 1,
+      "section": "research",
+      "name": "AMC.35 (ACG.1)",
+      "value": "0.5"
+    },
+    {
+      "rank": 1,
+      "section": "research",
+      "name": "S.35",
+      "value": "0.5"
+    },
+    {
+      "rank": 1,
+      "section": "research",
+      "name": "SAu 40",
+      "value": "0.5"
+    },
+    {
+      "rank": 1,
+      "section": "premium",
+      "name": "H.39 \"Cambronne\"",
+      "value": "0.5"
+    },
+    {
+      "rank": 1,
+      "section": "premium",
+      "name": "AMD.35 (SA35)",
+      "value": "1"
+    },
+    {
+      "rank": 1,
+      "section": "premium",
+      "name": "2C bis",
+      "value": "0.5"
+    },
+    {
+      "rank": 2,
+      "section": "research",
+      "name": "AMD.35 (PaK)",
+      "value": "1"
+    },
+    {
+      "rank": 2,
+      "section": "research",
+      "name": "M3A3 Stuart",
+      "value": "1"
+    },
+    {
+      "rank": 2,
+      "section": "research",
+      "name": "B1 bis",
+      "value": "0.5"
+    },
+    {
+      "rank": 2,
+      "section": "research",
+      "name": "2C",
+      "value": "0.5"
+    },
+    {
+      "rank": 2,
+      "section": "research",
+      "name": "CCKW 353 AA",
+      "value": "0.5"
+    },
+    {
+      "rank": 2,
+      "section": "research",
+      "name": "M4A3 (105)",
+      "value": "0.5"
+    },
+    {
+      "rank": 2,
+      "section": "research",
+      "name": "Crusader Mk.II",
+      "value": "1"
+    },
+    {
+      "rank": 2,
+      "section": "research",
+      "name": "M4A1",
+      "value": "1"
+    },
+    {
+      "rank": 2,
+      "section": "research",
+      "name": "VTT DCA",
+      "value": "x"
+    },
+    {
+      "rank": 2,
+      "section": "research",
+      "name": "M10 GMC",
+      "value": "1"
+    },
+    {
+      "rank": 2,
+      "section": "premium",
+      "name": "B1 ter",
+      "value": "1"
+    },
+    {
+      "rank": 2,
+      "section": "premium",
+      "name": "LVT-4/40",
+      "value": "0.5"
+    },
+    {
+      "rank": 2,
+      "section": "premium",
+      "name": "AMX-13-M24",
+      "value": "1"
+    },
+    {
+      "rank": 3,
+      "section": "research",
+      "name": "AMX-13 (FL11)",
+      "value": "1"
+    },
+    {
+      "rank": 3,
+      "section": "research",
+      "name": "M4A4",
+      "value": "1"
+    },
+    {
+      "rank": 3,
+      "section": "research",
+      "name": "ARL-44 (ACL-1)",
+      "value": "0.5"
+    },
+    {
+      "rank": 3,
+      "section": "research",
+      "name": "AMX-13 DCA 40",
+      "value": "0.5"
+    },
+    {
+      "rank": 3,
+      "section": "research",
+      "name": "M44",
+      "value": "0.5"
+    },
+    {
+      "rank": 3,
+      "section": "research",
+      "name": "M55",
+      "value": "x"
+    },
+    {
+      "rank": 3,
+      "section": "research",
+      "name": "E.B.R. (1951)",
+      "value": "1"
+    },
+    {
+      "rank": 3,
+      "section": "research",
+      "name": "M4A4 (SA50)",
+      "value": "1"
+    },
+    {
+      "rank": 3,
+      "section": "research",
+      "name": "ARL-44",
+      "value": "0.5"
+    },
+    {
+      "rank": 3,
+      "section": "research",
+      "name": "M4A3E2",
+      "value": "1"
+    },
+    {
+      "rank": 3,
+      "section": "research",
+      "name": "TPK 6.41",
+      "value": "0.3"
+    },
+    {
+      "rank": 3,
+      "section": "research",
+      "name": "M36B2",
+      "value": "1"
+    },
+    {
+      "rank": 3,
+      "section": "premium",
+      "name": "M4A1 (FL10)",
+      "value": "x"
+    },
+    {
+      "rank": 3,
+      "section": "premium",
+      "name": "Lorraine 155 Mle.50",
+      "value": "x"
+    },
+    {
+      "rank": 3,
+      "section": "premium",
+      "name": "ARL-44 Bayard",
+      "value": "x"
+    },
+    {
+      "rank": 4,
+      "section": "research",
+      "name": "ELC bis",
+      "value": "1"
+    },
+    {
+      "rank": 4,
+      "section": "research",
+      "name": "M26",
+      "value": "1"
+    },
+    {
+      "rank": 4,
+      "section": "research",
+      "name": "AMX M4",
+      "value": "1"
+    },
+    {
+      "rank": 4,
+      "section": "research",
+      "name": "AMX-10P",
+      "value": "0.3"
+    },
+    {
+      "rank": 4,
+      "section": "research",
+      "name": "CA Lorraine",
+      "value": "0.5"
+    },
+    {
+      "rank": 4,
+      "section": "research",
+      "name": "AMX-13",
+      "value": "1"
+    },
+    {
+      "rank": 4,
+      "section": "research",
+      "name": "AuF1",
+      "value": "0.5"
+    },
+    {
+      "rank": 4,
+      "section": "premium",
+      "name": "Panther \"Dauphiné\"",
+      "value": "1"
+    },
+    {
+      "rank": 4,
+      "section": "premium",
+      "name": "ELC 901",
+      "value": "x"
+    },
+    {
+      "rank": 4,
+      "section": "premium",
+      "name": "AMX-13 (SS.11)",
+      "value": "1"
+    },
+    {
+      "rank": 4,
+      "section": "premium",
+      "name": "E.B.R. (1954)",
+      "value": "1"
+    },
+    {
+      "rank": 4,
+      "section": "premium",
+      "name": "M46",
+      "value": "1"
+    },
+    {
+      "rank": 5,
+      "section": "research",
+      "name": "AML-90",
+      "value": "1"
+    },
+    {
+      "rank": 5,
+      "section": "research",
+      "name": "AMX-13-90",
+      "value": "1"
+    },
+    {
+      "rank": 5,
+      "section": "research",
+      "name": "Lorraine 40t",
+      "value": "1"
+    },
+    {
+      "rank": 5,
+      "section": "research",
+      "name": "Char 25t",
+      "value": "1"
+    },
+    {
+      "rank": 5,
+      "section": "research",
+      "name": "AMX-50 (TOA100)",
+      "value": "1"
+    },
+    {
+      "rank": 5,
+      "section": "research",
+      "name": "AMX-50 Foch",
+      "value": "0.7"
+    },
+    {
+      "rank": 5,
+      "section": "research",
+      "name": "AMX-10M",
+      "value": "0.5"
+    },
+    {
+      "rank": 5,
+      "section": "research",
+      "name": "DF105",
+      "value": "0.5"
+    },
+    {
+      "rank": 5,
+      "section": "research",
+      "name": "AMX-30 (1972)",
+      "value": "1"
+    },
+    {
+      "rank": 5,
+      "section": "research",
+      "name": "AMX-50 Surbaissé",
+      "value": "1"
+    },
+    {
+      "rank": 5,
+      "section": "premium",
+      "name": "Somua SM",
+      "value": "x"
+    },
+    {
+      "rank": 5,
+      "section": "premium",
+      "name": "E.B.R. (1963)",
+      "value": "1"
+    },
+    {
+      "rank": 5,
+      "section": "premium",
+      "name": "CLOVIS",
+      "value": "x"
+    },
+    {
+      "rank": 5,
+      "section": "premium",
+      "name": "AMX-50 Surblindé",
+      "value": "x"
+    },
+    {
+      "rank": 5,
+      "section": "premium",
+      "name": "AMX-30",
+      "value": "x"
+    },
+    {
+      "rank": 5,
+      "section": "premium",
+      "name": "AMX-50 (TO90/930)",
+      "value": "x"
+    },
+    {
+      "rank": 6,
+      "section": "research",
+      "name": "MARS 15",
+      "value": "1"
+    },
+    {
+      "rank": 6,
+      "section": "research",
+      "name": "AMX-13 (HOT)",
+      "value": "0.5"
+    },
+    {
+      "rank": 6,
+      "section": "research",
+      "name": "AMX-30B2",
+      "value": "1"
+    },
+    {
+      "rank": 6,
+      "section": "research",
+      "name": "AMX-30B2 BRENUS",
+      "value": "1"
+    },
+    {
+      "rank": 6,
+      "section": "research",
+      "name": "AMX-32 (105)",
+      "value": "1"
+    },
+    {
+      "rank": 6,
+      "section": "research",
+      "name": "AMX-32",
+      "value": "1"
+    },
+    {
+      "rank": 6,
+      "section": "research",
+      "name": "AMX-30 S DCA",
+      "value": "0.5"
+    },
+    {
+      "rank": 6,
+      "section": "research",
+      "name": "AMX-30 ACRA",
+      "value": "0.5"
+    },
+    {
+      "rank": 6,
+      "section": "research",
+      "name": "AMX-10RC",
+      "value": "1"
+    },
+    {
+      "rank": 6,
+      "section": "research",
+      "name": "SK-105A2",
+      "value": "1"
+    },
+    {
+      "rank": 6,
+      "section": "research",
+      "name": "Leopard 1A5BE",
+      "value": "1"
+    },
+    {
+      "rank": 6,
+      "section": "research",
+      "name": "SANTAL",
+      "value": "x"
+    },
+    {
+      "rank": 6,
+      "section": "research",
+      "name": "MEPHISTO",
+      "value": "1"
+    },
+    {
+      "rank": 6,
+      "section": "research",
+      "name": "VBCI",
+      "value": "0.5"
+    },
+    {
+      "rank": 6,
+      "section": "premium",
+      "name": "AMX-30 Super",
+      "value": "x"
+    },
+    {
+      "rank": 6,
+      "section": "premium",
+      "name": "VBCI-2 (MCT30)",
+      "value": "1"
+    },
+    {
+      "rank": 7,
+      "section": "research",
+      "name": "Vextra 105",
+      "value": "1"
+    },
+    {
+      "rank": 7,
+      "section": "research",
+      "name": "MSC",
+      "value": "1"
+    },
+    {
+      "rank": 7,
+      "section": "research",
+      "name": "AMX-40",
+      "value": "1"
+    },
+    {
+      "rank": 7,
+      "section": "research",
+      "name": "Roland 1",
+      "value": "x"
+    },
+    {
+      "rank": 7,
+      "section": "research",
+      "name": "EBRC Jaguar",
+      "value": "0.5"
+    },
+    {
+      "rank": 7,
+      "section": "research",
+      "name": "Leopard 2A4NL",
+      "value": "x"
+    },
+    {
+      "rank": 7,
+      "section": "premium",
+      "name": "CV 9035NL",
+      "value": "x"
+    },
+    {
+      "rank": 7,
+      "section": "premium",
+      "name": "Leopard 2 (OTCo)",
+      "value": "x"
+    },
+    {
+      "rank": 8,
+      "section": "research",
+      "name": "Leclerc",
+      "value": "1"
+    },
+    {
+      "rank": 8,
+      "section": "research",
+      "name": "Leclerc S2",
+      "value": "0.5"
+    },
+    {
+      "rank": 8,
+      "section": "research",
+      "name": "Leopard 2A5NL",
+      "value": "x"
+    },
+    {
+      "rank": 8,
+      "section": "research",
+      "name": "ItO 90M",
+      "value": "x"
+    },
+    {
+      "rank": 8,
+      "section": "research",
+      "name": "FSAF SAMP/T (Mamba) (TADS)",
+      "value": "x",
+      "doubt": "name truncated on screenshot (\"FSAF SAMP/T (Mamb\"); upper card of the group = TADS by catalog order"
+    },
+    {
+      "rank": 8,
+      "section": "research",
+      "name": "FSAF SAMP/T (Mamba) (TEL)",
+      "value": "x",
+      "doubt": "name truncated on screenshot (\"FSAF SAMP/T (Mamb\"); lower card of the group = TEL by catalog order"
+    },
+    {
+      "rank": 8,
+      "section": "research",
+      "name": "Leclerc SXXI",
+      "value": "x"
+    },
+    {
+      "rank": 8,
+      "section": "research",
+      "name": "Leopard 2A6NL",
+      "value": "x"
+    },
+    {
+      "rank": 8,
+      "section": "research",
+      "name": "Leclerc AZUR",
+      "value": "1"
+    },
+    {
+      "rank": 8,
+      "section": "research",
+      "name": "EMBT",
+      "value": "x"
+    }
+  ]
+}

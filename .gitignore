@@ -1,0 +1,12 @@
+.env
+.env.*
+!.env.example
+node_modules/
+__pycache__/
+.DS_Store
+dist/
+test-results/
+playwright-report/
+data/seed/tiles/
+data/runtime/
+scripts/catalog/.cache/

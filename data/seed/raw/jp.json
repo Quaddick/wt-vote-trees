@@ -1,0 +1,528 @@
+{
+  "nation": "jp",
+  "source": "images/jp.png",
+  "items": [
+    {
+      "rank": 1,
+      "section": "research",
+      "name": "Ha-Go",
+      "value": "0.7"
+    },
+    {
+      "rank": 1,
+      "section": "research",
+      "name": "I-Go Ko",
+      "value": "0.7"
+    },
+    {
+      "rank": 1,
+      "section": "research",
+      "name": "Ho-Ro",
+      "value": "0.5"
+    },
+    {
+      "rank": 1,
+      "section": "research",
+      "name": "Type 94",
+      "value": "0.5"
+    },
+    {
+      "rank": 1,
+      "section": "research",
+      "name": "Ke-Ni",
+      "value": "0.7"
+    },
+    {
+      "rank": 1,
+      "section": "research",
+      "name": "Chi-Ha",
+      "value": "0.7"
+    },
+    {
+      "rank": 1,
+      "section": "research",
+      "name": "Ro-Go Exp.",
+      "value": "0.5"
+    },
+    {
+      "rank": 1,
+      "section": "research",
+      "name": "Ta-Se",
+      "value": "0.5"
+    },
+    {
+      "rank": 1,
+      "section": "research",
+      "name": "Ka-Mi",
+      "value": "0.7"
+    },
+    {
+      "rank": 1,
+      "section": "research",
+      "name": "Ho-I",
+      "value": "1"
+    },
+    {
+      "rank": 1,
+      "section": "research",
+      "name": "Ho-Ni II",
+      "value": "x"
+    },
+    {
+      "rank": 1,
+      "section": "premium",
+      "name": "Ha-Go Commander",
+      "value": "0.7"
+    },
+    {
+      "rank": 1,
+      "section": "premium",
+      "name": "Ka-Chi",
+      "value": "1"
+    },
+    {
+      "rank": 1,
+      "section": "premium",
+      "name": "Ro-Go",
+      "value": "0.7"
+    },
+    {
+      "rank": 2,
+      "section": "research",
+      "name": "Chi-Ha Kai",
+      "value": "1"
+    },
+    {
+      "rank": 2,
+      "section": "research",
+      "name": "Ho-Ni I",
+      "value": "0.5"
+    },
+    {
+      "rank": 2,
+      "section": "research",
+      "name": "Ho-Ni III",
+      "value": "0.5"
+    },
+    {
+      "rank": 2,
+      "section": "research",
+      "name": "M16 MGMC",
+      "value": "x"
+    },
+    {
+      "rank": 2,
+      "section": "research",
+      "name": "Chi-He",
+      "value": "1"
+    },
+    {
+      "rank": 2,
+      "section": "research",
+      "name": "Chi-Ha LG",
+      "value": "0.5"
+    },
+    {
+      "rank": 2,
+      "section": "research",
+      "name": "So-Ki",
+      "value": "x"
+    },
+    {
+      "rank": 2,
+      "section": "premium",
+      "name": "Chi-Ha Short Gun",
+      "value": "0.5"
+    },
+    {
+      "rank": 2,
+      "section": "premium",
+      "name": "Chi-Ha Kai TD",
+      "value": "x"
+    },
+    {
+      "rank": 2,
+      "section": "premium",
+      "name": "Chi-He (5th Regiment)",
+      "value": "x"
+    },
+    {
+      "rank": 3,
+      "section": "research",
+      "name": "M24",
+      "value": "1"
+    },
+    {
+      "rank": 3,
+      "section": "research",
+      "name": "Chi-Nu",
+      "value": "1"
+    },
+    {
+      "rank": 3,
+      "section": "research",
+      "name": "Na-To",
+      "value": "0.5"
+    },
+    {
+      "rank": 3,
+      "section": "research",
+      "name": "M19A1",
+      "value": "x"
+    },
+    {
+      "rank": 3,
+      "section": "research",
+      "name": "Chi-To",
+      "value": "1"
+    },
+    {
+      "rank": 3,
+      "section": "research",
+      "name": "Chi-To Late",
+      "value": "1"
+    },
+    {
+      "rank": 3,
+      "section": "research",
+      "name": "M44",
+      "value": "0.5"
+    },
+    {
+      "rank": 3,
+      "section": "research",
+      "name": "M42",
+      "value": "x"
+    },
+    {
+      "rank": 3,
+      "section": "premium",
+      "name": "Chi-Nu II",
+      "value": "1"
+    },
+    {
+      "rank": 4,
+      "section": "research",
+      "name": "M4A3 (76) W",
+      "value": "1"
+    },
+    {
+      "rank": 4,
+      "section": "research",
+      "name": "Chi-Ri",
+      "value": "1"
+    },
+    {
+      "rank": 4,
+      "section": "research",
+      "name": "M36",
+      "value": "1"
+    },
+    {
+      "rank": 4,
+      "section": "research",
+      "name": "SUB-I-II",
+      "value": "0.5"
+    },
+    {
+      "rank": 4,
+      "section": "research",
+      "name": "M41A1",
+      "value": "0.5"
+    },
+    {
+      "rank": 4,
+      "section": "research",
+      "name": "ST-A1",
+      "value": "1"
+    },
+    {
+      "rank": 4,
+      "section": "research",
+      "name": "ST-A2",
+      "value": "1"
+    },
+    {
+      "rank": 4,
+      "section": "research",
+      "name": "Type 75 SPH",
+      "value": "0.5"
+    },
+    {
+      "rank": 4,
+      "section": "research",
+      "name": "Type 60 SPRG (C)",
+      "value": "1"
+    },
+    {
+      "rank": 4,
+      "section": "research",
+      "name": "Type 60 ATM",
+      "value": "0.4"
+    },
+    {
+      "rank": 4,
+      "section": "research",
+      "name": "Type 61",
+      "value": "1"
+    },
+    {
+      "rank": 4,
+      "section": "research",
+      "name": "ST-A3",
+      "value": "1"
+    },
+    {
+      "rank": 4,
+      "section": "premium",
+      "name": "Heavy Tank No.6",
+      "value": "x"
+    },
+    {
+      "rank": 4,
+      "section": "premium",
+      "name": "Type 61 (B)",
+      "value": "x"
+    },
+    {
+      "rank": 4,
+      "section": "premium",
+      "name": "Ho-Ri Prototype",
+      "value": "x"
+    },
+    {
+      "rank": 5,
+      "section": "research",
+      "name": "Type 87 RCV (P)",
+      "value": "1"
+    },
+    {
+      "rank": 5,
+      "section": "research",
+      "name": "M47",
+      "value": "1"
+    },
+    {
+      "rank": 5,
+      "section": "research",
+      "name": "Type 99",
+      "value": "0.5"
+    },
+    {
+      "rank": 5,
+      "section": "research",
+      "name": "M163",
+      "value": "x"
+    },
+    {
+      "rank": 5,
+      "section": "research",
+      "name": "STB-2",
+      "value": "1"
+    },
+    {
+      "rank": 5,
+      "section": "research",
+      "name": "Type 74 (C)",
+      "value": "0.5"
+    },
+    {
+      "rank": 5,
+      "section": "premium",
+      "name": "Type 75 MLRS",
+      "value": "0.5"
+    },
+    {
+      "rank": 5,
+      "section": "premium",
+      "name": "Ho-Ri Production",
+      "value": "1"
+    },
+    {
+      "rank": 5,
+      "section": "premium",
+      "name": "Type 74 Red Star",
+      "value": "x"
+    },
+    {
+      "rank": 6,
+      "section": "research",
+      "name": "Type 87 RCV",
+      "value": "1"
+    },
+    {
+      "rank": 6,
+      "section": "research",
+      "name": "Type 89",
+      "value": "1"
+    },
+    {
+      "rank": 6,
+      "section": "research",
+      "name": "Type 74 (E)",
+      "value": "0.5"
+    },
+    {
+      "rank": 6,
+      "section": "research",
+      "name": "Type 74 (F)",
+      "value": "0.5"
+    },
+    {
+      "rank": 6,
+      "section": "research",
+      "name": "Type 16 (P)",
+      "value": "1"
+    },
+    {
+      "rank": 6,
+      "section": "research",
+      "name": "Type 87",
+      "value": "0.5"
+    },
+    {
+      "rank": 6,
+      "section": "research",
+      "name": "BTR-3E1",
+      "value": "0.5"
+    },
+    {
+      "rank": 6,
+      "section": "research",
+      "name": "M60A3 TTS",
+      "value": "0.5"
+    },
+    {
+      "rank": 6,
+      "section": "research",
+      "name": "Stingray",
+      "value": "0.5"
+    },
+    {
+      "rank": 6,
+      "section": "premium",
+      "name": "Type 74 (G)",
+      "value": "1"
+    },
+    {
+      "rank": 6,
+      "section": "premium",
+      "name": "Type 16 (FPS)",
+      "value": "1"
+    },
+    {
+      "rank": 7,
+      "section": "research",
+      "name": "Type 24 ICV (P)",
+      "value": "0.5"
+    },
+    {
+      "rank": 7,
+      "section": "research",
+      "name": "Type 90",
+      "value": "1"
+    },
+    {
+      "rank": 7,
+      "section": "research",
+      "name": "Type 90 (B)",
+      "value": "1"
+    },
+    {
+      "rank": 7,
+      "section": "research",
+      "name": "Type 16",
+      "value": "1"
+    },
+    {
+      "rank": 7,
+      "section": "research",
+      "name": "Type 93",
+      "value": "x"
+    },
+    {
+      "rank": 7,
+      "section": "research",
+      "name": "TKX (P)",
+      "value": "1"
+    },
+    {
+      "rank": 7,
+      "section": "research",
+      "name": "Harimau",
+      "value": "x"
+    },
+    {
+      "rank": 7,
+      "section": "research",
+      "name": "Type 81 (C)",
+      "value": "x"
+    },
+    {
+      "rank": 7,
+      "section": "premium",
+      "name": "Type 25 RCV (P)",
+      "value": "x"
+    },
+    {
+      "rank": 7,
+      "section": "premium",
+      "name": "Type 90 (B) \"Fuji\"",
+      "value": "1"
+    },
+    {
+      "rank": 7,
+      "section": "premium",
+      "name": "Type 90 (B)",
+      "value": "1"
+    },
+    {
+      "rank": 8,
+      "section": "research",
+      "name": "Leopard 2RI",
+      "value": "x"
+    },
+    {
+      "rank": 8,
+      "section": "research",
+      "name": "Type 10",
+      "value": "1"
+    },
+    {
+      "rank": 8,
+      "section": "research",
+      "name": "TKX",
+      "value": "1"
+    },
+    {
+      "rank": 8,
+      "section": "research",
+      "name": "Tan-SAM Kai (TADS)",
+      "value": "x"
+    },
+    {
+      "rank": 8,
+      "section": "research",
+      "name": "Tan-SAM Kai (TEL)",
+      "value": "x"
+    },
+    {
+      "rank": 8,
+      "section": "research",
+      "name": "Type 03 (TADS)",
+      "value": "x"
+    },
+    {
+      "rank": 8,
+      "section": "research",
+      "name": "Type 03 (TEL)",
+      "value": "x"
+    },
+    {
+      "rank": 8,
+      "section": "research",
+      "name": "BM Oplot-T",
+      "value": "0.5"
+    }
+  ]
+}

@@ -1,0 +1,1083 @@
+{
+  "nation": "germ",
+  "source": "images/DE.png",
+  "items": [
+    {
+      "rank": 1,
+      "section": "research",
+      "name": "Garford-Beute",
+      "value": "0.2"
+    },
+    {
+      "rank": 1,
+      "section": "research",
+      "name": "Pz.35(t)",
+      "value": "1"
+    },
+    {
+      "rank": 1,
+      "section": "research",
+      "name": "Pz.38(t) A",
+      "value": "1"
+    },
+    {
+      "rank": 1,
+      "section": "research",
+      "name": "Pz.38(t) F",
+      "value": "1"
+    },
+    {
+      "rank": 1,
+      "section": "research",
+      "name": "Pz.38(t) n.A.",
+      "value": "1"
+    },
+    {
+      "rank": 1,
+      "section": "research",
+      "name": "Beutepanzer IV",
+      "value": "0.2"
+    },
+    {
+      "rank": 1,
+      "section": "research",
+      "name": "Pz.III E",
+      "value": "1"
+    },
+    {
+      "rank": 1,
+      "section": "research",
+      "name": "Pz.III B",
+      "value": "1"
+    },
+    {
+      "rank": 1,
+      "section": "research",
+      "name": "Pz.III F",
+      "value": "1"
+    },
+    {
+      "rank": 1,
+      "section": "research",
+      "name": "Pz.III J",
+      "value": "1"
+    },
+    {
+      "rank": 1,
+      "section": "research",
+      "name": "A7V",
+      "value": "0.2"
+    },
+    {
+      "rank": 1,
+      "section": "research",
+      "name": "Pz.IV C",
+      "value": "1"
+    },
+    {
+      "rank": 1,
+      "section": "research",
+      "name": "Pz.II C",
+      "value": "1"
+    },
+    {
+      "rank": 1,
+      "section": "research",
+      "name": "Pz.II F",
+      "value": "1"
+    },
+    {
+      "rank": 1,
+      "section": "research",
+      "name": "Pz.IV E",
+      "value": "1"
+    },
+    {
+      "rank": 1,
+      "section": "research",
+      "name": "Pz.IV F1",
+      "value": "1"
+    },
+    {
+      "rank": 1,
+      "section": "research",
+      "name": "Flakpanzer I",
+      "value": "0.5"
+    },
+    {
+      "rank": 1,
+      "section": "research",
+      "name": "Flakpanzer 38",
+      "value": "0.5"
+    },
+    {
+      "rank": 1,
+      "section": "research",
+      "name": "Sd.Kfz.222",
+      "value": "0.5"
+    },
+    {
+      "rank": 1,
+      "section": "research",
+      "name": "Sd.Kfz. 6/2",
+      "value": "0.5"
+    },
+    {
+      "rank": 1,
+      "section": "research",
+      "name": "15cm sIG 33 B Sfl",
+      "value": "0.5"
+    },
+    {
+      "rank": 1,
+      "section": "research",
+      "name": "Sd.Kfz.221 (s.Pz.B.41)",
+      "value": "1"
+    },
+    {
+      "rank": 1,
+      "section": "research",
+      "name": "Panzerjäger I",
+      "value": "0.5"
+    },
+    {
+      "rank": 1,
+      "section": "research",
+      "name": "Sd.Kfz.251/9",
+      "value": "0.5"
+    },
+    {
+      "rank": 1,
+      "section": "research",
+      "name": "Marder III",
+      "value": "0.5"
+    },
+    {
+      "rank": 1,
+      "section": "research",
+      "name": "StuG III A",
+      "value": "1"
+    },
+    {
+      "rank": 1,
+      "section": "premium",
+      "name": "Pz.II C TD",
+      "value": "1"
+    },
+    {
+      "rank": 1,
+      "section": "premium",
+      "name": "Sd.Kfz.251/10",
+      "value": "1"
+    },
+    {
+      "rank": 1,
+      "section": "premium",
+      "name": "Pz.II C (DAK)",
+      "value": "1"
+    },
+    {
+      "rank": 1,
+      "section": "premium",
+      "name": "Sd.Kfz.234/1",
+      "value": "1"
+    },
+    {
+      "rank": 1,
+      "section": "premium",
+      "name": "Nb.Fz.",
+      "value": "1"
+    },
+    {
+      "rank": 1,
+      "section": "premium",
+      "name": "Sd.Kfz.234/3",
+      "value": "1"
+    },
+    {
+      "rank": 1,
+      "section": "premium",
+      "name": "Sd.Kfz. 140/1",
+      "value": "1"
+    },
+    {
+      "rank": 1,
+      "section": "premium",
+      "name": "P204(f) KwK 38",
+      "value": "1"
+    },
+    {
+      "rank": 2,
+      "section": "research",
+      "name": "P204(f) KwK 39/1",
+      "value": "1"
+    },
+    {
+      "rank": 2,
+      "section": "research",
+      "name": "Sd.Kfz.234/2",
+      "value": "1"
+    },
+    {
+      "rank": 2,
+      "section": "research",
+      "name": "Dicker Max",
+      "value": "0.5"
+    },
+    {
+      "rank": 2,
+      "section": "research",
+      "name": "Sturer Emil",
+      "value": "0.5"
+    },
+    {
+      "rank": 2,
+      "section": "research",
+      "name": "Pz.III J1",
+      "value": "1"
+    },
+    {
+      "rank": 2,
+      "section": "research",
+      "name": "Pz.III L",
+      "value": "1"
+    },
+    {
+      "rank": 2,
+      "section": "research",
+      "name": "Pz.III M",
+      "value": "1"
+    },
+    {
+      "rank": 2,
+      "section": "research",
+      "name": "Pz.IV F2",
+      "value": "1"
+    },
+    {
+      "rank": 2,
+      "section": "research",
+      "name": "Pz.IV G",
+      "value": "1"
+    },
+    {
+      "rank": 2,
+      "section": "research",
+      "name": "Pz.IV H",
+      "value": "1"
+    },
+    {
+      "rank": 2,
+      "section": "research",
+      "name": "Pz.IV J",
+      "value": "1"
+    },
+    {
+      "rank": 2,
+      "section": "research",
+      "name": "Sd.Kfz.251/21",
+      "value": "0.5"
+    },
+    {
+      "rank": 2,
+      "section": "research",
+      "name": "Marder III H",
+      "value": "0.5"
+    },
+    {
+      "rank": 2,
+      "section": "research",
+      "name": "StuH 42 G",
+      "value": "0.5"
+    },
+    {
+      "rank": 2,
+      "section": "research",
+      "name": "StuG III F",
+      "value": "1"
+    },
+    {
+      "rank": 2,
+      "section": "research",
+      "name": "Hummel",
+      "value": "0.5"
+    },
+    {
+      "rank": 2,
+      "section": "research",
+      "name": "M44",
+      "value": "0.5"
+    },
+    {
+      "rank": 2,
+      "section": "research",
+      "name": "M55",
+      "value": "0.5"
+    },
+    {
+      "rank": 2,
+      "section": "premium",
+      "name": "15 cm Pz.W.42",
+      "value": "1"
+    },
+    {
+      "rank": 2,
+      "section": "premium",
+      "name": "Pz.Sfl.Ic",
+      "value": "1"
+    },
+    {
+      "rank": 2,
+      "section": "premium",
+      "name": "Pz.III J1 TD",
+      "value": "1"
+    },
+    {
+      "rank": 2,
+      "section": "premium",
+      "name": "Sd.Kfz.251/22",
+      "value": "1"
+    },
+    {
+      "rank": 2,
+      "section": "premium",
+      "name": "Pz.III N",
+      "value": "1"
+    },
+    {
+      "rank": 2,
+      "section": "premium",
+      "name": "Sd.Kfz.234/2 TD",
+      "value": "1"
+    },
+    {
+      "rank": 2,
+      "section": "premium",
+      "name": "Sd.Kfz.234/2 \"Biene\"",
+      "value": "1"
+    },
+    {
+      "rank": 3,
+      "section": "research",
+      "name": "8,8 cm Flak 37 Sfl.",
+      "value": "1"
+    },
+    {
+      "rank": 3,
+      "section": "research",
+      "name": "Nashorn",
+      "value": "0.5"
+    },
+    {
+      "rank": 3,
+      "section": "research",
+      "name": "Waffenträger",
+      "value": "1"
+    },
+    {
+      "rank": 3,
+      "section": "research",
+      "name": "Tiger H1",
+      "value": "1"
+    },
+    {
+      "rank": 3,
+      "section": "research",
+      "name": "Tiger E",
+      "value": "1"
+    },
+    {
+      "rank": 3,
+      "section": "research",
+      "name": "VK 3002 (M)",
+      "value": "1"
+    },
+    {
+      "rank": 3,
+      "section": "research",
+      "name": "Panther D",
+      "value": "1"
+    },
+    {
+      "rank": 3,
+      "section": "research",
+      "name": "Ostwind",
+      "value": "0.5"
+    },
+    {
+      "rank": 3,
+      "section": "research",
+      "name": "Wirbelwind",
+      "value": "0.5"
+    },
+    {
+      "rank": 3,
+      "section": "research",
+      "name": "Ostwind II",
+      "value": "0.5"
+    },
+    {
+      "rank": 3,
+      "section": "research",
+      "name": "StuG III G",
+      "value": "1"
+    },
+    {
+      "rank": 3,
+      "section": "research",
+      "name": "Jagdpanzer IV",
+      "value": "1"
+    },
+    {
+      "rank": 3,
+      "section": "research",
+      "name": "Jagdpanzer 38(t)",
+      "value": "1"
+    },
+    {
+      "rank": 3,
+      "section": "research",
+      "name": "Panzer IV/70(V)",
+      "value": "1"
+    },
+    {
+      "rank": 3,
+      "section": "premium",
+      "name": "KW II 754 (r)",
+      "value": "0.5"
+    },
+    {
+      "rank": 3,
+      "section": "premium",
+      "name": "M4 748 (a)",
+      "value": "1"
+    },
+    {
+      "rank": 3,
+      "section": "premium",
+      "name": "Pz.Bef.Wg.IV J",
+      "value": "1"
+    },
+    {
+      "rank": 3,
+      "section": "premium",
+      "name": "KV-IB",
+      "value": "x"
+    },
+    {
+      "rank": 3,
+      "section": "premium",
+      "name": "Pz.Kpfw. Churchill",
+      "value": "0.5"
+    },
+    {
+      "rank": 3,
+      "section": "premium",
+      "name": "Sd.Kfz.234/4",
+      "value": "1"
+    },
+    {
+      "rank": 3,
+      "section": "premium",
+      "name": "T 34 747 (r)",
+      "value": "1"
+    },
+    {
+      "rank": 3,
+      "section": "premium",
+      "name": "VK 45.01 (P)",
+      "value": "1"
+    },
+    {
+      "rank": 3,
+      "section": "premium",
+      "name": "Brummbär",
+      "value": "1"
+    },
+    {
+      "rank": 3,
+      "section": "premium",
+      "name": "VFW",
+      "value": "1"
+    },
+    {
+      "rank": 3,
+      "section": "premium",
+      "name": "Tiger Ost",
+      "value": "x"
+    },
+    {
+      "rank": 3,
+      "section": "premium",
+      "name": "Tiger West",
+      "value": "x"
+    },
+    {
+      "rank": 3,
+      "section": "premium",
+      "name": "Ostwind Ost",
+      "value": "x"
+    },
+    {
+      "rank": 3,
+      "section": "premium",
+      "name": "Panzer IV/70(A)",
+      "value": "1"
+    },
+    {
+      "rank": 3,
+      "section": "premium",
+      "name": "KW I C 756 (r)",
+      "value": "1"
+    },
+    {
+      "rank": 3,
+      "section": "premium",
+      "name": "Tiger",
+      "value": "x"
+    },
+    {
+      "rank": 4,
+      "section": "research",
+      "name": "M109G",
+      "value": "0.5"
+    },
+    {
+      "rank": 4,
+      "section": "research",
+      "name": "leKPz M41",
+      "value": "1"
+    },
+    {
+      "rank": 4,
+      "section": "research",
+      "name": "Tiger II (Nr.1-50)",
+      "value": "1"
+    },
+    {
+      "rank": 4,
+      "section": "research",
+      "name": "Tiger II",
+      "value": "1"
+    },
+    {
+      "rank": 4,
+      "section": "research",
+      "name": "Panther A",
+      "value": "1"
+    },
+    {
+      "rank": 4,
+      "section": "research",
+      "name": "Panther G",
+      "value": "1"
+    },
+    {
+      "rank": 4,
+      "section": "research",
+      "name": "Panther F",
+      "value": "1"
+    },
+    {
+      "rank": 4,
+      "section": "research",
+      "name": "Zerstörer 45",
+      "value": "x"
+    },
+    {
+      "rank": 4,
+      "section": "research",
+      "name": "Kugelblitz",
+      "value": "x"
+    },
+    {
+      "rank": 4,
+      "section": "research",
+      "name": "Jagdpanther G1",
+      "value": "1"
+    },
+    {
+      "rank": 4,
+      "section": "research",
+      "name": "JPz 4-5",
+      "value": "1"
+    },
+    {
+      "rank": 4,
+      "section": "research",
+      "name": "Ferdinand",
+      "value": "1"
+    },
+    {
+      "rank": 4,
+      "section": "research",
+      "name": "Jagdtiger",
+      "value": "0.5"
+    },
+    {
+      "rank": 4,
+      "section": "premium",
+      "name": "Pz.Bef.Wg.VI P",
+      "value": "1"
+    },
+    {
+      "rank": 4,
+      "section": "premium",
+      "name": "Ersatz M10",
+      "value": "x"
+    },
+    {
+      "rank": 4,
+      "section": "premium",
+      "name": "38 cm Sturmmörser",
+      "value": "0.4"
+    },
+    {
+      "rank": 4,
+      "section": "premium",
+      "name": "Flakpanzer 341",
+      "value": "1"
+    },
+    {
+      "rank": 4,
+      "section": "premium",
+      "name": "Bfw. Jagdpanther G1",
+      "value": "1"
+    },
+    {
+      "rank": 4,
+      "section": "premium",
+      "name": "SPz 12-3 LGS",
+      "value": "1"
+    },
+    {
+      "rank": 4,
+      "section": "premium",
+      "name": "Elefant",
+      "value": "1"
+    },
+    {
+      "rank": 4,
+      "section": "premium",
+      "name": "Tiger II (Sla.16)",
+      "value": "1"
+    },
+    {
+      "rank": 4,
+      "section": "premium",
+      "name": "Panther II",
+      "value": "1"
+    },
+    {
+      "rank": 4,
+      "section": "premium",
+      "name": "Tiger II (10.5 cm Kw.K)",
+      "value": "1"
+    },
+    {
+      "rank": 4,
+      "section": "premium",
+      "name": "Jagdpanther G2",
+      "value": "1"
+    },
+    {
+      "rank": 4,
+      "section": "premium",
+      "name": "Ru 251",
+      "value": "1"
+    },
+    {
+      "rank": 5,
+      "section": "research",
+      "name": "Marder A1-",
+      "value": "0.5"
+    },
+    {
+      "rank": 5,
+      "section": "research",
+      "name": "SPz BMP-1",
+      "value": "0.5"
+    },
+    {
+      "rank": 5,
+      "section": "research",
+      "name": "Marder 1A3",
+      "value": "0.5"
+    },
+    {
+      "rank": 5,
+      "section": "research",
+      "name": "DF105",
+      "value": "0.5"
+    },
+    {
+      "rank": 5,
+      "section": "research",
+      "name": "M48A2 C",
+      "value": "1"
+    },
+    {
+      "rank": 5,
+      "section": "research",
+      "name": "Leopard I",
+      "value": "1"
+    },
+    {
+      "rank": 5,
+      "section": "research",
+      "name": "Wiesel 1A4",
+      "value": "0.5"
+    },
+    {
+      "rank": 5,
+      "section": "research",
+      "name": "Luchs A2",
+      "value": "0.5"
+    },
+    {
+      "rank": 5,
+      "section": "research",
+      "name": "PzH 2000",
+      "value": "0.5"
+    },
+    {
+      "rank": 5,
+      "section": "research",
+      "name": "Raketenautomat",
+      "value": "0.5"
+    },
+    {
+      "rank": 5,
+      "section": "research",
+      "name": "RakJPz 2",
+      "value": "0.5"
+    },
+    {
+      "rank": 5,
+      "section": "premium",
+      "name": "mKPz M47 G",
+      "value": "1"
+    },
+    {
+      "rank": 5,
+      "section": "premium",
+      "name": "E-100",
+      "value": "1"
+    },
+    {
+      "rank": 5,
+      "section": "premium",
+      "name": "CLOVIS",
+      "value": "x"
+    },
+    {
+      "rank": 5,
+      "section": "premium",
+      "name": "Maus",
+      "value": "1"
+    },
+    {
+      "rank": 5,
+      "section": "premium",
+      "name": "Turm III",
+      "value": "1"
+    },
+    {
+      "rank": 6,
+      "section": "research",
+      "name": "TAM",
+      "value": "1"
+    },
+    {
+      "rank": 6,
+      "section": "research",
+      "name": "JaPz.K A2",
+      "value": "1"
+    },
+    {
+      "rank": 6,
+      "section": "research",
+      "name": "Begleitpanzer 57",
+      "value": "0.5"
+    },
+    {
+      "rank": 6,
+      "section": "research",
+      "name": "M48A2 G A2",
+      "value": "1"
+    },
+    {
+      "rank": 6,
+      "section": "research",
+      "name": "KPz-70",
+      "value": "1"
+    },
+    {
+      "rank": 6,
+      "section": "research",
+      "name": "M48 Super",
+      "value": "1"
+    },
+    {
+      "rank": 6,
+      "section": "research",
+      "name": "T-72M1",
+      "value": "1"
+    },
+    {
+      "rank": 6,
+      "section": "research",
+      "name": "Leopard A1A1",
+      "value": "1"
+    },
+    {
+      "rank": 6,
+      "section": "research",
+      "name": "Leopard 1A5",
+      "value": "1"
+    },
+    {
+      "rank": 6,
+      "section": "research",
+      "name": "Gepard",
+      "value": "0.5"
+    },
+    {
+      "rank": 6,
+      "section": "research",
+      "name": "Ozelot",
+      "value": "x"
+    },
+    {
+      "rank": 6,
+      "section": "research",
+      "name": "Gepard 1A2",
+      "value": "x"
+    },
+    {
+      "rank": 6,
+      "section": "research",
+      "name": "RakJPz 2 (HOT)",
+      "value": "0.5"
+    },
+    {
+      "rank": 6,
+      "section": "research",
+      "name": "Jaguar 2",
+      "value": "0.5"
+    },
+    {
+      "rank": 6,
+      "section": "premium",
+      "name": "TAM 2IP",
+      "value": "x"
+    },
+    {
+      "rank": 6,
+      "section": "premium",
+      "name": "VT1-2",
+      "value": "1"
+    },
+    {
+      "rank": 6,
+      "section": "premium",
+      "name": "Leopard 1 MPI",
+      "value": "1"
+    },
+    {
+      "rank": 6,
+      "section": "premium",
+      "name": "Class 3 (P)",
+      "value": "1"
+    },
+    {
+      "rank": 6,
+      "section": "premium",
+      "name": "C2A1",
+      "value": "1"
+    },
+    {
+      "rank": 6,
+      "section": "premium",
+      "name": "R400",
+      "value": "1"
+    },
+    {
+      "rank": 7,
+      "section": "research",
+      "name": "Radkampfwagen 90",
+      "value": "1"
+    },
+    {
+      "rank": 7,
+      "section": "research",
+      "name": "TAM 2C",
+      "value": "1"
+    },
+    {
+      "rank": 7,
+      "section": "research",
+      "name": "Puma",
+      "value": "1"
+    },
+    {
+      "rank": 7,
+      "section": "research",
+      "name": "Puma VJTF",
+      "value": "0.5"
+    },
+    {
+      "rank": 7,
+      "section": "research",
+      "name": "Leopard 2K",
+      "value": "1"
+    },
+    {
+      "rank": 7,
+      "section": "research",
+      "name": "Leopard 2A4",
+      "value": "1"
+    },
+    {
+      "rank": 7,
+      "section": "research",
+      "name": "FlaRakPz 1",
+      "value": "x"
+    },
+    {
+      "rank": 7,
+      "section": "research",
+      "name": "Osa-AK",
+      "value": "x"
+    },
+    {
+      "rank": 7,
+      "section": "research",
+      "name": "Strela-10M",
+      "value": "x"
+    },
+    {
+      "rank": 7,
+      "section": "research",
+      "name": "Wiesel 1A2",
+      "value": "0.5"
+    },
+    {
+      "rank": 7,
+      "section": "research",
+      "name": "sWaTrgInf",
+      "value": "0.5"
+    },
+    {
+      "rank": 7,
+      "section": "premium",
+      "name": "Boxer MGS",
+      "value": "1"
+    },
+    {
+      "rank": 7,
+      "section": "premium",
+      "name": "Leopard 2AV",
+      "value": "1"
+    },
+    {
+      "rank": 7,
+      "section": "premium",
+      "name": "Vilkas",
+      "value": "0.5"
+    },
+    {
+      "rank": 7,
+      "section": "premium",
+      "name": "PT-16/T14 mod.",
+      "value": "1"
+    },
+    {
+      "rank": 7,
+      "section": "premium",
+      "name": "Leopard 2A4M",
+      "value": "1",
+      "id": "germ_leopard_2a4m_can"
+    },
+    {
+      "rank": 7,
+      "section": "premium",
+      "name": "Leopard 2 (PzBtl 123)",
+      "value": "1"
+    },
+    {
+      "rank": 7,
+      "section": "premium",
+      "name": "Leopard 2A4M",
+      "value": "1",
+      "doubt": "два «Leopard 2A4M» в премиум-блоке ранга VII (в каталоге тоже два), у обоих 1",
+      "id": "germ_leopard_2a4m_can_sm"
+    },
+    {
+      "rank": 7,
+      "section": "premium",
+      "name": "Puma u14",
+      "value": "x"
+    },
+    {
+      "rank": 8,
+      "section": "research",
+      "name": "EMBT",
+      "value": "1"
+    },
+    {
+      "rank": 8,
+      "section": "research",
+      "name": "Leopard 2A5",
+      "value": "1"
+    },
+    {
+      "rank": 8,
+      "section": "research",
+      "name": "Leopard 2A6",
+      "value": "1"
+    },
+    {
+      "rank": 8,
+      "section": "research",
+      "name": "Leopard 2 PSO",
+      "value": "1"
+    },
+    {
+      "rank": 8,
+      "section": "research",
+      "name": "Leopard 2A7V",
+      "value": "1"
+    },
+    {
+      "rank": 8,
+      "section": "research",
+      "name": "FlaRakRad",
+      "value": "x"
+    },
+    {
+      "rank": 8,
+      "section": "research",
+      "name": "IRIS-T SLM (TADS)",
+      "value": "x"
+    },
+    {
+      "rank": 8,
+      "section": "research",
+      "name": "IRIS-T SLM (TEL)",
+      "value": "x"
+    },
+    {
+      "rank": 8,
+      "section": "premium",
+      "name": "Leopard 2PL",
+      "value": "1"
+    },
+    {
+      "rank": 8,
+      "section": "premium",
+      "name": "Leopard 2A5",
+      "value": "x"
+    }
+  ]
+}

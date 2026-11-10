@@ -1,0 +1,357 @@
+/* Режим правки: в цветах страницы (src/styles.css). */
+.ed-btn {
+  flex: none;
+  background: transparent;
+  border: 1px solid var(--card-border);
+  border-radius: 6px;
+  padding: 6px 10px;
+  cursor: pointer;
+  white-space: nowrap;
+}
+
+.ed-btn:hover:not(:disabled) {
+  background: var(--card-hi);
+}
+
+.ed-btn:disabled {
+  opacity: 0.5;
+  cursor: default;
+}
+
+.ed-btn[aria-pressed='true'] {
+  background: var(--card-hi);
+  border-color: var(--accent);
+  color: var(--accent);
+}
+
+.ed-btn--primary {
+  background: var(--accent);
+  border-color: var(--accent);
+  color: #0b1d26;
+  font-weight: 700;
+}
+
+.ed-btn--primary:hover:not(:disabled) {
+  background: #9cc6e6;
+}
+
+.ed-login {
+  margin-left: auto;
+}
+
+.ed-bar {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin-left: auto;
+}
+
+.ed-badge {
+  padding: 3px 8px;
+  border-radius: 4px;
+  background: var(--value);
+  color: #1c2329;
+  font-size: 12px;
+  font-weight: 700;
+  white-space: nowrap;
+}
+
+.ed-count {
+  font-size: 12px;
+  color: var(--accent);
+  white-space: nowrap;
+}
+
+.ed-undo {
+  flex: none;
+  background: transparent;
+  border: 1px solid var(--card-border);
+  border-radius: 4px;
+  padding: 2px 6px;
+  font-size: 11px;
+  cursor: pointer;
+  color: var(--muted);
+}
+
+.ed-undo:hover:not(:disabled) {
+  color: var(--text);
+  border-color: var(--accent);
+}
+
+/* панель значения — снизу по центру, над деревом */
+.ed-sheet {
+  position: fixed;
+  z-index: 45;
+  left: 50%;
+  bottom: 12px;
+  transform: translateX(-50%);
+  width: min(560px, calc(100vw - 16px));
+  padding: 10px 12px 12px;
+  background: var(--panel);
+  border: 1px solid var(--accent);
+  border-radius: 8px;
+  box-shadow: 0 10px 36px rgb(0 0 0 / 0.6);
+}
+
+.ed-sheet-head {
+  display: flex;
+  align-items: baseline;
+  gap: 10px;
+  margin-bottom: 8px;
+}
+
+.ed-sheet-title {
+  font-weight: 700;
+  min-width: 0;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.ed-sheet-br,
+.ed-sheet-now {
+  font-weight: 400;
+  font-size: 12px;
+  color: var(--muted);
+}
+
+.ed-sheet-close {
+  margin-left: auto;
+  background: transparent;
+  border: 0;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+.ed-presets {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+}
+
+.ed-preset {
+  min-width: 48px;
+  padding: 8px 10px;
+  background: var(--card);
+  border: 1px solid var(--card-border);
+  border-radius: 6px;
+  cursor: pointer;
+  color: var(--value);
+  font-size: 16px;
+  font-weight: 800;
+  text-shadow: 0 1px 2px #000;
+}
+
+.ed-preset:hover {
+  background: var(--card-hi);
+}
+
+.ed-preset[aria-pressed='true'] {
+  border-color: var(--value);
+  box-shadow: 0 0 0 1px var(--value);
+}
+
+.ed-preset--block {
+  color: var(--cross);
+}
+
+.ed-preset--block[aria-pressed='true'] {
+  border-color: var(--cross);
+  box-shadow: 0 0 0 1px var(--cross);
+}
+
+.ed-custom {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 6px;
+  margin-top: 8px;
+}
+
+.ed-custom-input,
+.ed-field input {
+  background: var(--bg-deep);
+  color: var(--text);
+  border: 1px solid var(--card-border);
+  border-radius: 6px;
+  padding: 7px 9px;
+  font: inherit;
+}
+
+.ed-custom-input {
+  width: 90px;
+}
+
+.ed-custom-input[aria-invalid='true'],
+.ed-field input[aria-invalid='true'] {
+  border-color: var(--cross);
+}
+
+.ed-error {
+  flex-basis: 100%;
+  margin: 4px 0 0;
+  color: #ff8a80;
+  font-size: 13px;
+}
+
+.ed-hint {
+  margin: 8px 0 0;
+  color: var(--muted);
+  font-size: 12px;
+}
+
+/* окна входа и загрузки (подложка — .overlay из styles.css) */
+.ed-dialog {
+  width: min(380px, 100%);
+  padding: 16px 18px;
+  background: var(--panel);
+  border: 1px solid var(--card-border);
+  border-radius: 8px;
+  box-shadow: 0 12px 40px rgb(0 0 0 / 0.6);
+}
+
+.ed-dialog-title {
+  margin: 0 0 12px;
+  font-size: 16px;
+}
+
+.ed-field {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  font-size: 13px;
+  color: var(--muted);
+}
+
+.ed-field input {
+  font-size: 15px;
+}
+
+.ed-file {
+  margin: 0;
+  color: var(--muted);
+  font-size: 12px;
+  word-break: break-all;
+}
+
+.ed-summary {
+  margin: 8px 0 0;
+  font-size: 15px;
+  font-weight: 700;
+}
+
+.ed-actions {
+  display: flex;
+  justify-content: flex-end;
+  gap: 8px;
+  margin-top: 14px;
+}
+
+.ed-toast {
+  position: fixed;
+  z-index: 60;
+  left: 50%;
+  top: calc(var(--header-h) + 10px);
+  transform: translateX(-50%);
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  max-width: calc(100vw - 16px);
+  padding: 9px 12px;
+  border-radius: 6px;
+  background: #3a2326;
+  border: 1px solid var(--cross);
+  box-shadow: 0 8px 28px rgb(0 0 0 / 0.55);
+}
+
+.ed-toast--info {
+  background: #22343f;
+  border-color: var(--accent);
+}
+
+.ed-toast-close {
+  background: transparent;
+  border: 0;
+  cursor: pointer;
+}
+
+/* меню «⋯» — только на телефоне, на широком экране кнопки видны в строке */
+.ed-more {
+  position: relative;
+  display: none;
+  margin-left: auto;
+}
+
+.ed-menu {
+  position: absolute;
+  z-index: 30;
+  top: calc(100% + 4px);
+  right: 0;
+  display: flex;
+  flex-direction: column;
+  min-width: 190px;
+  padding: 4px;
+  background: var(--panel);
+  border: 1px solid var(--card-border);
+  border-radius: 6px;
+  box-shadow: 0 8px 24px rgb(0 0 0 / 0.5);
+}
+
+.ed-menu-item {
+  padding: 11px 12px;
+  background: transparent;
+  border: 0;
+  border-radius: 4px;
+  text-align: left;
+  cursor: pointer;
+}
+
+.ed-menu-item:hover,
+.ed-menu-item:focus-visible {
+  background: var(--card-hi);
+}
+
+@media (max-width: 767px) {
+  .top-row:has(.ed-bar) {
+    flex-wrap: wrap;
+  }
+
+  .ed-bar {
+    width: 100%;
+    margin-left: 0;
+    flex-wrap: nowrap;
+  }
+
+  .ed-btn {
+    padding: 7px 10px;
+  }
+
+  .ed-wide {
+    display: none;
+  }
+
+  .ed-more {
+    display: block;
+  }
+
+  .ed-undo {
+    padding: 7px 10px;
+    font-size: 12px;
+  }
+
+  /* шапка на телефоне не закреплена — тост под полосой наций */
+  .ed-toast {
+    top: 54px;
+  }
+
+  .ed-sheet {
+    bottom: 0;
+    width: 100vw;
+    border-radius: 10px 10px 0 0;
+  }
+
+  .ed-preset {
+    flex: 1 0 18%;
+  }
+}

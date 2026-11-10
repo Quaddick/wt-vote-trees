@@ -1,0 +1,654 @@
+{
+  "nation": "it",
+  "source": "images/IT.png",
+  "items": [
+    {
+      "rank": 1,
+      "section": "research",
+      "name": "AB 41",
+      "value": "1"
+    },
+    {
+      "rank": 1,
+      "section": "research",
+      "name": "L6/40",
+      "value": "0.5"
+    },
+    {
+      "rank": 1,
+      "section": "research",
+      "name": "AS 42",
+      "value": "0.5"
+    },
+    {
+      "rank": 1,
+      "section": "research",
+      "name": "L3/33 CC",
+      "value": "0.5"
+    },
+    {
+      "rank": 1,
+      "section": "research",
+      "name": "Csaba",
+      "value": "0.5"
+    },
+    {
+      "rank": 1,
+      "section": "research",
+      "name": "M11/39",
+      "value": "1"
+    },
+    {
+      "rank": 1,
+      "section": "research",
+      "name": "M13/40 (I)",
+      "value": "0.5"
+    },
+    {
+      "rank": 1,
+      "section": "research",
+      "name": "M13/40 (III)",
+      "value": "0.5"
+    },
+    {
+      "rank": 1,
+      "section": "research",
+      "name": "47/32 L40",
+      "value": "0.5"
+    },
+    {
+      "rank": 1,
+      "section": "research",
+      "name": "AS 42/47",
+      "value": "1"
+    },
+    {
+      "rank": 1,
+      "section": "research",
+      "name": "M14/41",
+      "value": "0.5"
+    },
+    {
+      "rank": 1,
+      "section": "research",
+      "name": "Lancia 3Ro (100/17)",
+      "value": "0.5"
+    },
+    {
+      "rank": 1,
+      "section": "premium",
+      "name": "L6/40 (31 Rgt.)",
+      "value": "x"
+    },
+    {
+      "rank": 1,
+      "section": "premium",
+      "name": "Toldi IIA",
+      "value": "0.5"
+    },
+    {
+      "rank": 1,
+      "section": "premium",
+      "name": "M13/40 (II)",
+      "value": "1"
+    },
+    {
+      "rank": 2,
+      "section": "research",
+      "name": "AB 43",
+      "value": "1"
+    },
+    {
+      "rank": 2,
+      "section": "research",
+      "name": "M15/42",
+      "value": "1"
+    },
+    {
+      "rank": 2,
+      "section": "research",
+      "name": "Pz.III N",
+      "value": "1"
+    },
+    {
+      "rank": 2,
+      "section": "research",
+      "name": "CM52",
+      "value": "x"
+    },
+    {
+      "rank": 2,
+      "section": "research",
+      "name": "75/18 M41",
+      "value": "0.5"
+    },
+    {
+      "rank": 2,
+      "section": "research",
+      "name": "75/32 M41",
+      "value": "0.5"
+    },
+    {
+      "rank": 2,
+      "section": "research",
+      "name": "75/34 M42",
+      "value": "0.5"
+    },
+    {
+      "rank": 2,
+      "section": "research",
+      "name": "Turan I",
+      "value": "1"
+    },
+    {
+      "rank": 2,
+      "section": "research",
+      "name": "M3A3",
+      "value": "1"
+    },
+    {
+      "rank": 2,
+      "section": "research",
+      "name": "P40",
+      "value": "1"
+    },
+    {
+      "rank": 2,
+      "section": "research",
+      "name": "105/25 M43",
+      "value": "0.5"
+    },
+    {
+      "rank": 2,
+      "section": "research",
+      "name": "75/34 M43",
+      "value": "0.5"
+    },
+    {
+      "rank": 2,
+      "section": "research",
+      "name": "Zrinyi II",
+      "value": "0.5"
+    },
+    {
+      "rank": 2,
+      "section": "premium",
+      "name": "M14/41 (47/40)",
+      "value": "x"
+    },
+    {
+      "rank": 2,
+      "section": "premium",
+      "name": "Turan II",
+      "value": "1"
+    },
+    {
+      "rank": 2,
+      "section": "premium",
+      "name": "Celere Sahariano",
+      "value": "1"
+    },
+    {
+      "rank": 2,
+      "section": "premium",
+      "name": "P40 \"G.C. Leoncello\"",
+      "value": "1"
+    },
+    {
+      "rank": 3,
+      "section": "research",
+      "name": "M24",
+      "value": "1"
+    },
+    {
+      "rank": 3,
+      "section": "research",
+      "name": "Sherman V",
+      "value": "1"
+    },
+    {
+      "rank": 3,
+      "section": "research",
+      "name": "M42 Contraereo",
+      "value": "x"
+    },
+    {
+      "rank": 3,
+      "section": "research",
+      "name": "M44",
+      "value": "0.5"
+    },
+    {
+      "rank": 3,
+      "section": "research",
+      "name": "M55",
+      "value": "x"
+    },
+    {
+      "rank": 3,
+      "section": "research",
+      "name": "Turan III",
+      "value": "1"
+    },
+    {
+      "rank": 3,
+      "section": "research",
+      "name": "Breda 501",
+      "value": "1"
+    },
+    {
+      "rank": 3,
+      "section": "research",
+      "name": "Sherman Ic",
+      "value": "1"
+    },
+    {
+      "rank": 3,
+      "section": "research",
+      "name": "90/53 M41M",
+      "value": "0.5"
+    },
+    {
+      "rank": 3,
+      "section": "research",
+      "name": "StuG III G",
+      "value": "1"
+    },
+    {
+      "rank": 3,
+      "section": "research",
+      "name": "75/46 M43",
+      "value": "1"
+    },
+    {
+      "rank": 3,
+      "section": "premium",
+      "name": "M43 \"G.C.Leoncello\"",
+      "value": "1"
+    },
+    {
+      "rank": 3,
+      "section": "premium",
+      "name": "Zrinyi I",
+      "value": "1"
+    },
+    {
+      "rank": 3,
+      "section": "premium",
+      "name": "Sherman I Composito",
+      "value": "1"
+    },
+    {
+      "rank": 3,
+      "section": "premium",
+      "name": "Breda 90/53",
+      "value": "0.5"
+    },
+    {
+      "rank": 3,
+      "section": "premium",
+      "name": "Pz.IV G",
+      "value": "x"
+    },
+    {
+      "rank": 4,
+      "section": "research",
+      "name": "M18",
+      "value": "1"
+    },
+    {
+      "rank": 4,
+      "section": "research",
+      "name": "Sherman Vc",
+      "value": "1"
+    },
+    {
+      "rank": 4,
+      "section": "research",
+      "name": "Leopard 40/70",
+      "value": "0.5"
+    },
+    {
+      "rank": 4,
+      "section": "research",
+      "name": "M36B1",
+      "value": "1"
+    },
+    {
+      "rank": 4,
+      "section": "research",
+      "name": "2S1",
+      "value": "0.5"
+    },
+    {
+      "rank": 4,
+      "section": "research",
+      "name": "AUBL/74",
+      "value": "1"
+    },
+    {
+      "rank": 4,
+      "section": "research",
+      "name": "FIAT 6614",
+      "value": "1"
+    },
+    {
+      "rank": 4,
+      "section": "research",
+      "name": "M26A1",
+      "value": "1"
+    },
+    {
+      "rank": 4,
+      "section": "research",
+      "name": "R3 T20 FA-HS",
+      "value": "0.5"
+    },
+    {
+      "rank": 4,
+      "section": "research",
+      "name": "M109G",
+      "value": "0.5"
+    },
+    {
+      "rank": 4,
+      "section": "research",
+      "name": "Palmaria",
+      "value": "0.5"
+    },
+    {
+      "rank": 4,
+      "section": "premium",
+      "name": "Tigris",
+      "value": "1"
+    },
+    {
+      "rank": 4,
+      "section": "premium",
+      "name": "FIAT 6616UB",
+      "value": "x"
+    },
+    {
+      "rank": 4,
+      "section": "premium",
+      "name": "M26 \"D.C.Ariete\"",
+      "value": "x"
+    },
+    {
+      "rank": 5,
+      "section": "research",
+      "name": "C13 T90",
+      "value": "1"
+    },
+    {
+      "rank": 5,
+      "section": "research",
+      "name": "M47 (105/55)",
+      "value": "1"
+    },
+    {
+      "rank": 5,
+      "section": "research",
+      "name": "ZSU-57-2",
+      "value": "1"
+    },
+    {
+      "rank": 5,
+      "section": "research",
+      "name": "PzH 2000",
+      "value": "x"
+    },
+    {
+      "rank": 5,
+      "section": "research",
+      "name": "BTR-80A",
+      "value": "1"
+    },
+    {
+      "rank": 5,
+      "section": "research",
+      "name": "R3 T106 FA",
+      "value": "1"
+    },
+    {
+      "rank": 5,
+      "section": "research",
+      "name": "OF-40",
+      "value": "1"
+    },
+    {
+      "rank": 5,
+      "section": "research",
+      "name": "Leopard 1A2",
+      "value": "1"
+    },
+    {
+      "rank": 5,
+      "section": "research",
+      "name": "ZSU-23-4V",
+      "value": "0.5"
+    },
+    {
+      "rank": 5,
+      "section": "premium",
+      "name": "PzH 2000HU",
+      "value": "x"
+    },
+    {
+      "rank": 5,
+      "section": "premium",
+      "name": "FIROS 6",
+      "value": "0.5"
+    },
+    {
+      "rank": 5,
+      "section": "premium",
+      "name": "M60A1 \"D.C.Ariete\"",
+      "value": "x"
+    },
+    {
+      "rank": 5,
+      "section": "premium",
+      "name": "AUBL/74 HVG",
+      "value": "1"
+    },
+    {
+      "rank": 6,
+      "section": "research",
+      "name": "VCC-80/60",
+      "value": "1"
+    },
+    {
+      "rank": 6,
+      "section": "research",
+      "name": "OF-40 Mk.2A",
+      "value": "1"
+    },
+    {
+      "rank": 6,
+      "section": "research",
+      "name": "SIDAM 25",
+      "value": "x"
+    },
+    {
+      "rank": 6,
+      "section": "research",
+      "name": "M113A1 (TOW)",
+      "value": "0.5"
+    },
+    {
+      "rank": 6,
+      "section": "research",
+      "name": "T-72M1",
+      "value": "1"
+    },
+    {
+      "rank": 6,
+      "section": "research",
+      "name": "Centauro I 105",
+      "value": "1"
+    },
+    {
+      "rank": 6,
+      "section": "research",
+      "name": "Centauro I 105 R",
+      "value": "1"
+    },
+    {
+      "rank": 6,
+      "section": "research",
+      "name": "Leopard 1A5",
+      "value": "1"
+    },
+    {
+      "rank": 6,
+      "section": "research",
+      "name": "SIDAM 25 (Mistral)",
+      "value": "x"
+    },
+    {
+      "rank": 6,
+      "section": "research",
+      "name": "VBC (PT2)",
+      "value": "1"
+    },
+    {
+      "rank": 6,
+      "section": "premium",
+      "name": "OF-40 (MTCA)",
+      "value": "1"
+    },
+    {
+      "rank": 6,
+      "section": "premium",
+      "name": "C13/TUA",
+      "value": "x"
+    },
+    {
+      "rank": 6,
+      "section": "premium",
+      "name": "VRCC",
+      "value": "x"
+    },
+    {
+      "rank": 7,
+      "section": "research",
+      "name": "Centauro I 120",
+      "value": "1"
+    },
+    {
+      "rank": 7,
+      "section": "research",
+      "name": "Ariete (P)",
+      "value": "1"
+    },
+    {
+      "rank": 7,
+      "section": "research",
+      "name": "Osa-AKM",
+      "value": "x"
+    },
+    {
+      "rank": 7,
+      "section": "research",
+      "name": "Strela-10M",
+      "value": "x"
+    },
+    {
+      "rank": 7,
+      "section": "research",
+      "name": "Dardo",
+      "value": "1"
+    },
+    {
+      "rank": 7,
+      "section": "research",
+      "name": "VCC-80/30",
+      "value": "1"
+    },
+    {
+      "rank": 7,
+      "section": "research",
+      "name": "Leopard 2A4",
+      "value": "1"
+    },
+    {
+      "rank": 7,
+      "section": "research",
+      "name": "Ariete PSO",
+      "value": "1"
+    },
+    {
+      "rank": 7,
+      "section": "research",
+      "name": "Ariete",
+      "value": "1"
+    },
+    {
+      "rank": 7,
+      "section": "research",
+      "name": "OTOMATIC",
+      "value": "0.5"
+    },
+    {
+      "rank": 7,
+      "section": "research",
+      "name": "Freccia",
+      "value": "0.5"
+    },
+    {
+      "rank": 7,
+      "section": "research",
+      "name": "KF41",
+      "value": "0.5"
+    },
+    {
+      "rank": 7,
+      "section": "premium",
+      "name": "Centauro RGO",
+      "value": "x"
+    },
+    {
+      "rank": 7,
+      "section": "premium",
+      "name": "Freccia OWS 30",
+      "value": "x"
+    },
+    {
+      "rank": 7,
+      "section": "premium",
+      "name": "Ariete Certezza",
+      "value": "x"
+    },
+    {
+      "rank": 8,
+      "section": "research",
+      "name": "Centauro II (P)",
+      "value": "x"
+    },
+    {
+      "rank": 8,
+      "section": "research",
+      "name": "Ariete AMV",
+      "value": "1"
+    },
+    {
+      "rank": 8,
+      "section": "research",
+      "name": "FSAF SAMP/T (TADS)",
+      "value": "x"
+    },
+    {
+      "rank": 8,
+      "section": "research",
+      "name": "FSAF SAMP/T (TEL)",
+      "value": "x"
+    },
+    {
+      "rank": 8,
+      "section": "research",
+      "name": "Leopard 2A7HU",
+      "value": "1"
+    }
+  ]
+}

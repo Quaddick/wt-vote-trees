@@ -1,0 +1,879 @@
+{
+  "nation": "uk",
+  "source": "images/GB.png",
+  "items": [
+    {
+      "rank": 1,
+      "section": "research",
+      "name": "A13 Mk I",
+      "value": "1"
+    },
+    {
+      "rank": 1,
+      "section": "research",
+      "name": "A13 Mk II",
+      "value": "1"
+    },
+    {
+      "rank": 1,
+      "section": "research",
+      "name": "Stuart I",
+      "value": "1"
+    },
+    {
+      "rank": 1,
+      "section": "research",
+      "name": "Stuart III",
+      "value": "1"
+    },
+    {
+      "rank": 1,
+      "section": "research",
+      "name": "Tetrarch I",
+      "value": "1"
+    },
+    {
+      "rank": 1,
+      "section": "research",
+      "name": "Daimler Mk II",
+      "value": "1"
+    },
+    {
+      "rank": 1,
+      "section": "research",
+      "name": "Light AA Mk I",
+      "value": "x"
+    },
+    {
+      "rank": 1,
+      "section": "research",
+      "name": "Staghound AA",
+      "value": "x"
+    },
+    {
+      "rank": 1,
+      "section": "research",
+      "name": "Mark V",
+      "value": "0.2"
+    },
+    {
+      "rank": 1,
+      "section": "research",
+      "name": "SARC MkIVa",
+      "value": "1"
+    },
+    {
+      "rank": 1,
+      "section": "premium",
+      "name": "A13 Mk I (3rd R.T.R.)",
+      "value": "1"
+    },
+    {
+      "rank": 1,
+      "section": "premium",
+      "name": "A13 Mk II 1939",
+      "value": "1"
+    },
+    {
+      "rank": 1,
+      "section": "premium",
+      "name": "Independent",
+      "value": "x"
+    },
+    {
+      "rank": 1,
+      "section": "premium",
+      "name": "Alecto I",
+      "value": "x"
+    },
+    {
+      "rank": 2,
+      "section": "research",
+      "name": "Crusader II",
+      "value": "1"
+    },
+    {
+      "rank": 2,
+      "section": "research",
+      "name": "Crusader III",
+      "value": "1"
+    },
+    {
+      "rank": 2,
+      "section": "research",
+      "name": "Ram I",
+      "value": "1"
+    },
+    {
+      "rank": 2,
+      "section": "research",
+      "name": "Cromwell I",
+      "value": "1"
+    },
+    {
+      "rank": 2,
+      "section": "research",
+      "name": "Sherman II",
+      "value": "1"
+    },
+    {
+      "rank": 2,
+      "section": "research",
+      "name": "Valentine I",
+      "value": "0.7"
+    },
+    {
+      "rank": 2,
+      "section": "research",
+      "name": "Valentine XI",
+      "value": "0.7"
+    },
+    {
+      "rank": 2,
+      "section": "research",
+      "name": "Valentine IX",
+      "value": "0.7"
+    },
+    {
+      "rank": 2,
+      "section": "research",
+      "name": "Matilda III",
+      "value": "0.7"
+    },
+    {
+      "rank": 2,
+      "section": "research",
+      "name": "Churchill I",
+      "value": "0.7"
+    },
+    {
+      "rank": 2,
+      "section": "research",
+      "name": "Archer",
+      "value": "0.7"
+    },
+    {
+      "rank": 2,
+      "section": "research",
+      "name": "Gun Carrier (3-in)",
+      "value": "0.5"
+    },
+    {
+      "rank": 2,
+      "section": "research",
+      "name": "Achilles",
+      "value": "1"
+    },
+    {
+      "rank": 2,
+      "section": "research",
+      "name": "Crusader AA Mk I",
+      "value": "x"
+    },
+    {
+      "rank": 2,
+      "section": "research",
+      "name": "AEC AA",
+      "value": "x"
+    },
+    {
+      "rank": 2,
+      "section": "research",
+      "name": "SARC MkVI (2pdr)",
+      "value": "1"
+    },
+    {
+      "rank": 2,
+      "section": "research",
+      "name": "Harry Hopkins I",
+      "value": "1"
+    },
+    {
+      "rank": 2,
+      "section": "research",
+      "name": "SARC MkVI (6pdr)",
+      "value": "1"
+    },
+    {
+      "rank": 2,
+      "section": "premium",
+      "name": "Crusader \"The Saint\"",
+      "value": "1"
+    },
+    {
+      "rank": 2,
+      "section": "premium",
+      "name": "Grant I",
+      "value": "x"
+    },
+    {
+      "rank": 2,
+      "section": "premium",
+      "name": "AEC Mk II",
+      "value": "1"
+    },
+    {
+      "rank": 2,
+      "section": "premium",
+      "name": "Matilda Hedgehog",
+      "value": "0.7"
+    },
+    {
+      "rank": 2,
+      "section": "premium",
+      "name": "Ram II",
+      "value": "x"
+    },
+    {
+      "rank": 2,
+      "section": "premium",
+      "name": "Churchill AVRE Petard",
+      "value": "0.4"
+    },
+    {
+      "rank": 2,
+      "section": "premium",
+      "name": "A.C.I",
+      "value": "1"
+    },
+    {
+      "rank": 3,
+      "section": "research",
+      "name": "Cromwell V",
+      "value": "1"
+    },
+    {
+      "rank": 3,
+      "section": "research",
+      "name": "Sherman Firefly",
+      "value": "1"
+    },
+    {
+      "rank": 3,
+      "section": "research",
+      "name": "Challenger",
+      "value": "1"
+    },
+    {
+      "rank": 3,
+      "section": "research",
+      "name": "Comet I",
+      "value": "1"
+    },
+    {
+      "rank": 3,
+      "section": "research",
+      "name": "Churchill III",
+      "value": "0.7"
+    },
+    {
+      "rank": 3,
+      "section": "research",
+      "name": "Churchill NA75",
+      "value": "0.7"
+    },
+    {
+      "rank": 3,
+      "section": "research",
+      "name": "Churchill VII",
+      "value": "0.7"
+    },
+    {
+      "rank": 3,
+      "section": "research",
+      "name": "M44",
+      "value": "0.5"
+    },
+    {
+      "rank": 3,
+      "section": "research",
+      "name": "Avenger",
+      "value": "1"
+    },
+    {
+      "rank": 3,
+      "section": "research",
+      "name": "Ystervark",
+      "value": "x"
+    },
+    {
+      "rank": 3,
+      "section": "research",
+      "name": "Crusader AA Mk II",
+      "value": "x"
+    },
+    {
+      "rank": 3,
+      "section": "research",
+      "name": "Bosvark",
+      "value": "x"
+    },
+    {
+      "rank": 3,
+      "section": "research",
+      "name": "Concept 3",
+      "value": "1"
+    },
+    {
+      "rank": 3,
+      "section": "premium",
+      "name": "Cromwell V (RP-3)",
+      "value": "1"
+    },
+    {
+      "rank": 3,
+      "section": "premium",
+      "name": "Excelsior",
+      "value": "x"
+    },
+    {
+      "rank": 3,
+      "section": "premium",
+      "name": "Achilles (65 Rg.)",
+      "value": "1"
+    },
+    {
+      "rank": 3,
+      "section": "premium",
+      "name": "Churchill Crocodile",
+      "value": "0.7"
+    },
+    {
+      "rank": 3,
+      "section": "premium",
+      "name": "Firefly (Overlord)",
+      "value": "x"
+    },
+    {
+      "rank": 3,
+      "section": "premium",
+      "name": "Avenger (Overlord)",
+      "value": "x"
+    },
+    {
+      "rank": 3,
+      "section": "premium",
+      "name": "Crusader AA (Overlord)",
+      "value": "x"
+    },
+    {
+      "rank": 3,
+      "section": "premium",
+      "name": "Comet I \"Iron Duke IV\"",
+      "value": "1"
+    },
+    {
+      "rank": 3,
+      "section": "premium",
+      "name": "Sherman IC \"Trzyniec\"",
+      "value": "1"
+    },
+    {
+      "rank": 3,
+      "section": "premium",
+      "name": "TOG II",
+      "value": "1"
+    },
+    {
+      "rank": 3,
+      "section": "premium",
+      "name": "A.C.IV",
+      "value": "1"
+    },
+    {
+      "rank": 3,
+      "section": "premium",
+      "name": "QF 3.7 Ram",
+      "value": "0.5"
+    },
+    {
+      "rank": 4,
+      "section": "research",
+      "name": "Centurion Mk 1",
+      "value": "0.8"
+    },
+    {
+      "rank": 4,
+      "section": "research",
+      "name": "Conway",
+      "value": "0.8"
+    },
+    {
+      "rank": 4,
+      "section": "research",
+      "name": "Centurion Mk 3",
+      "value": "0.8"
+    },
+    {
+      "rank": 4,
+      "section": "research",
+      "name": "Charioteer Mk VII",
+      "value": "1"
+    },
+    {
+      "rank": 4,
+      "section": "research",
+      "name": "FV4202",
+      "value": "0.8"
+    },
+    {
+      "rank": 4,
+      "section": "research",
+      "name": "FV4005",
+      "value": "0.4"
+    },
+    {
+      "rank": 4,
+      "section": "research",
+      "name": "M109A1",
+      "value": "0.5"
+    },
+    {
+      "rank": 4,
+      "section": "research",
+      "name": "G6",
+      "value": "0.5"
+    },
+    {
+      "rank": 4,
+      "section": "research",
+      "name": "Tortoise",
+      "value": "0.5"
+    },
+    {
+      "rank": 4,
+      "section": "research",
+      "name": "AS90",
+      "value": "0.5"
+    },
+    {
+      "rank": 4,
+      "section": "research",
+      "name": "Skink",
+      "value": "x"
+    },
+    {
+      "rank": 4,
+      "section": "research",
+      "name": "Ratel 90",
+      "value": "1"
+    },
+    {
+      "rank": 4,
+      "section": "research",
+      "name": "Ratel 20",
+      "value": "0.7"
+    },
+    {
+      "rank": 4,
+      "section": "research",
+      "name": "Eland 90 Mk.7",
+      "value": "1"
+    },
+    {
+      "rank": 4,
+      "section": "premium",
+      "name": "GBT 155",
+      "value": "x"
+    },
+    {
+      "rank": 4,
+      "section": "premium",
+      "name": "Black Prince",
+      "value": "0.8"
+    },
+    {
+      "rank": 4,
+      "section": "premium",
+      "name": "Strv 81 (RB 52)",
+      "value": "x"
+    },
+    {
+      "rank": 4,
+      "section": "premium",
+      "name": "Centurion Mk.2",
+      "value": "1"
+    },
+    {
+      "rank": 4,
+      "section": "premium",
+      "name": "Centurion Action X",
+      "value": "0.8"
+    },
+    {
+      "rank": 5,
+      "section": "research",
+      "name": "Caernarvon",
+      "value": "0.8"
+    },
+    {
+      "rank": 5,
+      "section": "research",
+      "name": "Conqueror",
+      "value": "0.8"
+    },
+    {
+      "rank": 5,
+      "section": "research",
+      "name": "Centurion Mk 10",
+      "value": "0.8"
+    },
+    {
+      "rank": 5,
+      "section": "research",
+      "name": "Vickers Mk.1",
+      "value": "1"
+    },
+    {
+      "rank": 5,
+      "section": "research",
+      "name": "Swingfire",
+      "value": "0.5"
+    },
+    {
+      "rank": 5,
+      "section": "research",
+      "name": "Falcon",
+      "value": "0.4"
+    },
+    {
+      "rank": 5,
+      "section": "research",
+      "name": "Scimitar",
+      "value": "1"
+    },
+    {
+      "rank": 5,
+      "section": "research",
+      "name": "Fox",
+      "value": "1"
+    },
+    {
+      "rank": 5,
+      "section": "premium",
+      "name": "Centurion Mk.5 AVRE",
+      "value": "0.5"
+    },
+    {
+      "rank": 5,
+      "section": "premium",
+      "name": "Centurion Mk.5/1",
+      "value": "1"
+    },
+    {
+      "rank": 6,
+      "section": "research",
+      "name": "Chieftain Mk 3",
+      "value": "0.8"
+    },
+    {
+      "rank": 6,
+      "section": "research",
+      "name": "Chieftain Mk 5",
+      "value": "1"
+    },
+    {
+      "rank": 6,
+      "section": "research",
+      "name": "Chieftain Mk 10",
+      "value": "1"
+    },
+    {
+      "rank": 6,
+      "section": "research",
+      "name": "Chieftain 900",
+      "value": "1"
+    },
+    {
+      "rank": 6,
+      "section": "research",
+      "name": "Vickers Mk.3",
+      "value": "1"
+    },
+    {
+      "rank": 6,
+      "section": "research",
+      "name": "Olifant Mk.1A",
+      "value": "1"
+    },
+    {
+      "rank": 6,
+      "section": "research",
+      "name": "Olifant Mk.2",
+      "value": "1"
+    },
+    {
+      "rank": 6,
+      "section": "research",
+      "name": "Warrior",
+      "value": "1"
+    },
+    {
+      "rank": 6,
+      "section": "research",
+      "name": "ZT3A2",
+      "value": "1"
+    },
+    {
+      "rank": 6,
+      "section": "research",
+      "name": "Striker",
+      "value": "0.5"
+    },
+    {
+      "rank": 6,
+      "section": "research",
+      "name": "Chieftain Marksman",
+      "value": "0.4"
+    },
+    {
+      "rank": 6,
+      "section": "research",
+      "name": "ZA-35",
+      "value": "1"
+    },
+    {
+      "rank": 6,
+      "section": "research",
+      "name": "Rapier",
+      "value": "x"
+    },
+    {
+      "rank": 6,
+      "section": "research",
+      "name": "Vickers Mk.11",
+      "value": "1"
+    },
+    {
+      "rank": 6,
+      "section": "research",
+      "name": "Rooikat Mk.1D",
+      "value": "1"
+    },
+    {
+      "rank": 6,
+      "section": "research",
+      "name": "Badger",
+      "value": "0.5"
+    },
+    {
+      "rank": 6,
+      "section": "research",
+      "name": "VFM5",
+      "value": "0.5"
+    },
+    {
+      "rank": 6,
+      "section": "research",
+      "name": "Rooikat MTTD",
+      "value": "1"
+    },
+    {
+      "rank": 6,
+      "section": "premium",
+      "name": "Vijayanta",
+      "value": "x"
+    },
+    {
+      "rank": 6,
+      "section": "premium",
+      "name": "Scimitar Mk.2",
+      "value": "0.5"
+    },
+    {
+      "rank": 6,
+      "section": "premium",
+      "name": "Khalid",
+      "value": "x"
+    },
+    {
+      "rank": 6,
+      "section": "premium",
+      "name": "Sho't Kal Dalet",
+      "value": "1"
+    },
+    {
+      "rank": 6,
+      "section": "premium",
+      "name": "Rooikat 105",
+      "value": "1"
+    },
+    {
+      "rank": 6,
+      "section": "premium",
+      "name": "FV4030/3",
+      "value": "1"
+    },
+    {
+      "rank": 7,
+      "section": "research",
+      "name": "Challenger Mk.2",
+      "value": "1"
+    },
+    {
+      "rank": 7,
+      "section": "research",
+      "name": "Challenger Mk.3",
+      "value": "1"
+    },
+    {
+      "rank": 7,
+      "section": "research",
+      "name": "Challenger 2",
+      "value": "1"
+    },
+    {
+      "rank": 7,
+      "section": "research",
+      "name": "Challenger 2 (2F)",
+      "value": "1"
+    },
+    {
+      "rank": 7,
+      "section": "research",
+      "name": "Challenger 2 TES",
+      "value": "1"
+    },
+    {
+      "rank": 7,
+      "section": "research",
+      "name": "TTD",
+      "value": "1"
+    },
+    {
+      "rank": 7,
+      "section": "research",
+      "name": "Vickers Mk.7",
+      "value": "1"
+    },
+    {
+      "rank": 7,
+      "section": "research",
+      "name": "Arjun Mk 1",
+      "value": "x"
+    },
+    {
+      "rank": 7,
+      "section": "research",
+      "name": "Desert Warrior",
+      "value": "1"
+    },
+    {
+      "rank": 7,
+      "section": "research",
+      "name": "Stormer AD",
+      "value": "0.4"
+    },
+    {
+      "rank": 7,
+      "section": "research",
+      "name": "Osa-AK",
+      "value": "x"
+    },
+    {
+      "rank": 7,
+      "section": "research",
+      "name": "Stormer HVM",
+      "value": "x"
+    },
+    {
+      "rank": 7,
+      "section": "research",
+      "name": "Strela-10M",
+      "value": "x"
+    },
+    {
+      "rank": 7,
+      "section": "research",
+      "name": "Ajax",
+      "value": "1"
+    },
+    {
+      "rank": 7,
+      "section": "premium",
+      "name": "Challenger DS",
+      "value": "1"
+    },
+    {
+      "rank": 7,
+      "section": "premium",
+      "name": "Bhishma TWMP",
+      "value": "1"
+    },
+    {
+      "rank": 7,
+      "section": "premium",
+      "name": "Challenger 2 OES",
+      "value": "1",
+      "id": "uk_challenger_2_megatron"
+    },
+    {
+      "rank": 7,
+      "section": "premium",
+      "name": "CRV Block 2",
+      "value": "x"
+    },
+    {
+      "rank": 7,
+      "section": "premium",
+      "name": "Challenger 2 OES",
+      "value": "1",
+      "doubt": "два «Challenger 2 OES» в премиум-блоке ранга VII (в каталоге тоже два), второй со значком; у обоих 1",
+      "id": "uk_challenger_2_megatron_sm"
+    },
+    {
+      "rank": 7,
+      "section": "premium",
+      "name": "Challenger 2",
+      "value": "x"
+    },
+    {
+      "rank": 7,
+      "section": "premium",
+      "name": "M1A1 SA",
+      "value": "x"
+    },
+    {
+      "rank": 8,
+      "section": "research",
+      "name": "Challenger 3 TD",
+      "value": "1"
+    },
+    {
+      "rank": 8,
+      "section": "research",
+      "name": "Black Night",
+      "value": "1"
+    },
+    {
+      "rank": 8,
+      "section": "research",
+      "name": "Challenger 2E",
+      "value": "1"
+    },
+    {
+      "rank": 8,
+      "section": "research",
+      "name": "M1A2",
+      "value": "x"
+    },
+    {
+      "rank": 8,
+      "section": "research",
+      "name": "ADATS (M113)",
+      "value": "x"
+    },
+    {
+      "rank": 8,
+      "section": "research",
+      "name": "Sky Sabre (TADS)",
+      "value": "x"
+    },
+    {
+      "rank": 8,
+      "section": "research",
+      "name": "Sky Sabre (TEL)",
+      "value": "x"
+    }
+  ]
+}

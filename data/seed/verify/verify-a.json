@@ -1,0 +1,13 @@
+{
+  "checked": { "us": 154, "germ": 179, "ussr": 193, "uk": 145 },
+  "mismatches": [],
+  "notes": [
+    "Every raw row was checked against the 2x tiles. All fractional values (0.2/0.3/0.4/0.5/0.7/0.8) in ranks I-VIII were reread on the source cropped at 3-4x; no 0.3/0.8 or 0.2/0.3 confusions found.",
+    "ussr R1 premium: there is no BT-7M on the screenshot (the column ends at T-III); raw correctly leaves it out.",
+    "germ R7 premium: there are two Leopard 2A4M cards (the second has a dot marker), both 1.",
+    "uk R7 premium: there are two Challenger 2 OES cards (the second has a dot marker), both 1.",
+    "ussr R7 premium: there are two T-80U-E1 cards (the second is a red camouflage with a dot marker), both 1.",
+    "us R7: researchable M1A1=1 and M1A1 HC=1; premium M1A1=x (with a marker before the name) and M1A1 HC=1. All four match raw.",
+    "No cards on the screenshots are missing from raw, and no raw rows are duplicates beyond the doubled names listed above."
+  ]
+}

@@ -1,0 +1,3680 @@
+{
+  "us_m2a4": {
+    "c": 1
+  },
+  "us_m3_stuart": {
+    "c": 1
+  },
+  "us_m3a1_stuart": {
+    "c": 1
+  },
+  "us_m2_medium": {
+    "c": 1
+  },
+  "us_lvt_a_1": {
+    "c": 1
+  },
+  "us_m22_locust": {
+    "c": 1
+  },
+  "us_halftrack_m13": {
+    "b": true
+  },
+  "us_halftrack_m15": {
+    "b": true
+  },
+  "us_m2a2": {
+    "c": 0.4
+  },
+  "us_m8_scott": {
+    "c": 0.5
+  },
+  "us_halftrack_m3_75mm_gmc": {
+    "c": 0.5
+  },
+  "us_m2a4_1st_armor_div": {
+    "c": 1
+  },
+  "us_lvt_a_1_trb": {
+    "c": 1
+  },
+  "us_lvt_a_4": {
+    "c": 1
+  },
+  "us_m8_greyhound": {
+    "c": 1
+  },
+  "us_m3a1_stuart_usmc": {
+    "c": 1
+  },
+  "us_m5a1_stuart": {
+    "c": 1
+  },
+  "us_m3_lee": {
+    "c": 1
+  },
+  "us_m4a1_1942_sherman": {
+    "c": 1
+  },
+  "us_m4_sherman": {
+    "c": 1
+  },
+  "us_m4a2_sherman": {
+    "c": 1
+  },
+  "us_m7": {
+    "c": 1
+  },
+  "us_halftrack_m16": {
+    "b": true
+  },
+  "us_t77e1": {
+    "b": true
+  },
+  "us_m4a3_105_sherman": {
+    "c": 0.5
+  },
+  "us_m10": {
+    "c": 1
+  },
+  "us_m5a1_stuart_canadian_5st_arm": {
+    "c": 1
+  },
+  "us_lvt_4_zis_2": {
+    "c": 1
+  },
+  "us_mk1_grant": {
+    "b": true
+  },
+  "us_m5a1_stuart_td": {
+    "b": true
+  },
+  "us_lvt_a1_m24": {
+    "c": 1
+  },
+  "us_m8a1": {
+    "c": 1
+  },
+  "us_m4a5_ram_2": {
+    "c": 1
+  },
+  "us_t18_e2": {
+    "c": 1
+  },
+  "us_m4_sherman_promo": {
+    "b": true
+  },
+  "us_m24_chaffee": {
+    "c": 1
+  },
+  "us_m18_hellcat": {
+    "c": 1
+  },
+  "us_m4a1_76w_sherman": {
+    "c": 1
+  },
+  "us_m4a2_76w_sherman": {
+    "c": 1
+  },
+  "us_m4a3e8_76w_sherman": {
+    "c": 1
+  },
+  "us_m6a1": {
+    "c": 1
+  },
+  "us_t1e1": {
+    "c": 1
+  },
+  "us_m4a3e2_sherman_jumbo": {
+    "c": 1
+  },
+  "us_t1e1_90": {
+    "c": 1
+  },
+  "us_m19": {
+    "c": 0.3
+  },
+  "us_m42_duster": {
+    "c": 0.3
+  },
+  "us_m44": {
+    "c": 0.5
+  },
+  "us_m55": {
+    "c": 0.5
+  },
+  "us_m36": {
+    "c": 1
+  },
+  "us_m36b2": {
+    "c": 1
+  },
+  "us_m24_chaffee_tl": {
+    "b": true
+  },
+  "us_m4_sherman_calliope": {
+    "c": 0.7
+  },
+  "us_t14": {
+    "c": 1
+  },
+  "us_t55e1": {
+    "c": 1
+  },
+  "us_m4a3e2_sherman_jumbo_cobra_king": {
+    "c": 1
+  },
+  "us_t86": {
+    "c": 1
+  },
+  "us_m4a3e8_76w_sherman_kit_3rank": {
+    "b": true
+  },
+  "us_m18_hellcat_kit_3rank": {
+    "b": true
+  },
+  "us_skink_aa_kit_3rank": {
+    "b": true
+  },
+  "us_m18_hellcat_black_cat": {
+    "c": 1
+  },
+  "us_m41_walker_bulldog": {
+    "c": 1
+  },
+  "us_t92": {
+    "c": 1
+  },
+  "us_m4_t26": {
+    "c": 1
+  },
+  "us_t25": {
+    "c": 1
+  },
+  "us_m26_pershing": {
+    "c": 1
+  },
+  "us_m46_patton": {
+    "c": 1
+  },
+  "us_m4a3e2_76w_sherman_jumbo": {
+    "c": 1
+  },
+  "us_t26e5": {
+    "c": 1
+  },
+  "us_t26e4_superpershing": {
+    "c": 1
+  },
+  "us_t34": {
+    "c": 1
+  },
+  "us_skink_aa": {
+    "b": true
+  },
+  "us_m109a1": {
+    "c": 0.5
+  },
+  "us_m56_scorpion": {
+    "c": 0.5
+  },
+  "us_m50_ontos": {
+    "c": 0.5
+  },
+  "us_m18_super_hellcat": {
+    "c": 1
+  },
+  "us_t28": {
+    "c": 0.3
+  },
+  "us_t20": {
+    "c": 1
+  },
+  "us_m551_76": {
+    "c": 1
+  },
+  "us_m26_t99": {
+    "b": true
+  },
+  "us_t30": {
+    "c": 1
+  },
+  "us_m26e1_pershing": {
+    "c": 1
+  },
+  "us_m6a2e1": {
+    "b": true
+  },
+  "us_m46_patton_73_armor_bat": {
+    "c": 1
+  },
+  "us_t29": {
+    "b": true
+  },
+  "us_m551": {
+    "c": 0.8
+  },
+  "us_m47_patton_ii": {
+    "c": 1
+  },
+  "us_m48a1_patton_iii": {
+    "c": 1
+  },
+  "us_m60": {
+    "c": 1
+  },
+  "us_t32": {
+    "c": 1
+  },
+  "us_t32e1": {
+    "c": 1
+  },
+  "us_m103": {
+    "c": 1
+  },
+  "us_m163_vulcan": {
+    "c": 0.3
+  },
+  "us_t95": {
+    "c": 1
+  },
+  "us_m728": {
+    "b": true
+  },
+  "us_t114": {
+    "b": true
+  },
+  "us_t54e2": {
+    "b": true
+  },
+  "us_magach_3": {
+    "b": true
+  },
+  "us_t54e1": {
+    "b": true
+  },
+  "us_t58": {
+    "b": true
+  },
+  "us_xm_800t": {
+    "c": 1
+  },
+  "us_stingray": {
+    "c": 0.5
+  },
+  "us_m1296_dragoon": {
+    "c": 1
+  },
+  "us_m60a1": {
+    "c": 1
+  },
+  "us_m60a1_rise_passive_era": {
+    "c": 1
+  },
+  "us_m60a3_tts": {
+    "c": 1
+  },
+  "us_t95e1": {
+    "c": 0.5
+  },
+  "us_xm_803": {
+    "c": 1
+  },
+  "us_mbt_70": {
+    "c": 1
+  },
+  "us_xm246": {
+    "c": 0.5
+  },
+  "us_m247": {
+    "c": 0.4
+  },
+  "us_mim_72_chaparral": {
+    "b": true
+  },
+  "us_m60a2": {
+    "c": 0.8
+  },
+  "us_m3_bradley": {
+    "c": 0.5
+  },
+  "us_m901_itv": {
+    "c": 0.5
+  },
+  "us_efv_p1": {
+    "c": 1
+  },
+  "us_m60a1_rise_mod": {
+    "b": true
+  },
+  "us_merkava_mk_1": {
+    "c": 1
+  },
+  "us_xm1_chrysler": {
+    "c": 1
+  },
+  "us_merkava_mk_2b_late": {
+    "c": 1
+  },
+  "us_xm1_gm": {
+    "c": 1
+  },
+  "us_xm_8": {
+    "c": 1
+  },
+  "us_m1128_mgs": {
+    "c": 1
+  },
+  "us_m10_booker_late": {
+    "c": 1
+  },
+  "us_hstv_l": {
+    "c": 1
+  },
+  "us_m60_120s": {
+    "c": 1
+  },
+  "us_m1a1_hc_abrams": {
+    "c": 1
+  },
+  "us_m1_abrams": {
+    "c": 1
+  },
+  "us_m1a1_abrams": {
+    "c": 1
+  },
+  "us_m1_ip_abrams": {
+    "c": 1
+  },
+  "us_m1a2_abrams": {
+    "c": 1
+  },
+  "us_lav_ad": {
+    "c": 0.4
+  },
+  "us_xm_975_roland": {
+    "b": true
+  },
+  "us_m3a3_bradley": {
+    "c": 0.5
+  },
+  "us_m1128_wolfpack": {
+    "c": 1
+  },
+  "us_ccvl": {
+    "b": true
+  },
+  "us_m1_abrams_kvt": {
+    "c": 1
+  },
+  "us_m60a3_slep": {
+    "b": true
+  },
+  "us_m1a1_abrams_yt_cup_2019": {
+    "b": true
+  },
+  "us_losat_ccv": {
+    "b": true
+  },
+  "us_m1a1_aim_abrams": {
+    "c": 0.5
+  },
+  "us_ags_teledyne": {
+    "c": 1
+  },
+  "us_m1a1_hc_usmc": {
+    "c": 1
+  },
+  "us_merkava_mk_3d": {
+    "b": true
+  },
+  "us_m1a1_hc_usmc_sm": {
+    "c": 1
+  },
+  "us_rdf_lt": {
+    "b": true
+  },
+  "us_m1a2_sep_abrams": {
+    "c": 1
+  },
+  "us_m1a2_sep2_abrams": {
+    "c": 1
+  },
+  "us_m1a2_sep2_abrams_trophy": {
+    "c": 0.8
+  },
+  "us_m1a2_sep3_abrams": {
+    "c": 0.5
+  },
+  "us_adats_bradley": {
+    "c": 0.5
+  },
+  "us_sl_amraam_fcs": {
+    "b": true
+  },
+  "us_sl_amraam_launcher": {
+    "b": true
+  },
+  "us_nasams_fcs": {
+    "b": true
+  },
+  "us_nasams_launcher": {
+    "b": true
+  },
+  "germ_garford_putilov": {
+    "c": 0.2
+  },
+  "germ_pzkpfw_35t": {
+    "c": 1
+  },
+  "germ_pzkpfw_38t_ausf_a": {
+    "c": 1
+  },
+  "germ_pzkpfw_38t_ausf_f": {
+    "c": 1
+  },
+  "germ_pzkpfw_38t_na": {
+    "c": 1
+  },
+  "germ_beutepanzer_mk_iv": {
+    "c": 0.2
+  },
+  "germ_pzkpfw_iii_ausf_e": {
+    "c": 1
+  },
+  "germ_pzkpfw_iii_ausf_b": {
+    "c": 1
+  },
+  "germ_pzkpfw_iii_ausf_f": {
+    "c": 1
+  },
+  "germ_pzkpfw_iii_ausf_j_l42": {
+    "c": 1
+  },
+  "germ_a7v": {
+    "c": 0.2
+  },
+  "germ_pzkpfw_iv_ausf_c": {
+    "c": 1
+  },
+  "germ_pzkpfw_ii_ausf_c": {
+    "c": 1
+  },
+  "germ_pzkpfw_ii_ausf_f": {
+    "c": 1
+  },
+  "germ_pzkpfw_iv_ausf_e": {
+    "c": 1
+  },
+  "germ_pzkpfw_iv_ausf_f": {
+    "c": 1
+  },
+  "germ_flakpanzer_i_ausf_a": {
+    "c": 0.5
+  },
+  "germ_flakpanzer_38t_gepard": {
+    "c": 0.5
+  },
+  "germ_sdkfz_222": {
+    "c": 0.5
+  },
+  "germ_sdkfz_6_2_flak36": {
+    "c": 0.5
+  },
+  "germ_sturmpanzer_ii": {
+    "c": 0.5
+  },
+  "germ_sdkfz_221_s_pz_b_41": {
+    "c": 1
+  },
+  "germ_panzerjager_1": {
+    "c": 0.5
+  },
+  "germ_sdkfz_251_9": {
+    "c": 0.5
+  },
+  "germ_pzkpfw_38t_marder_iii": {
+    "c": 0.5
+  },
+  "germ_stug_iii_ausf_a": {
+    "c": 1
+  },
+  "germ_pzkpfw_ii_ausf_c_td": {
+    "c": 1
+  },
+  "germ_sdkfz_251_10": {
+    "c": 1
+  },
+  "germ_pzkpfw_ii_ausf_c_dak": {
+    "c": 1
+  },
+  "germ_sdkfz_234_1": {
+    "c": 1
+  },
+  "germ_nbfz_vi": {
+    "c": 1
+  },
+  "germ_sdkfz_234_3": {
+    "c": 1
+  },
+  "germ_pzkpfw_38t_aufklarungspanzer": {
+    "c": 1
+  },
+  "germ_amd_35_kwk": {
+    "c": 1
+  },
+  "germ_amd_35_kwk39": {
+    "c": 1
+  },
+  "germ_sdkfz_234_2": {
+    "c": 1
+  },
+  "germ_pzsfl_iva_dickermax": {
+    "c": 0.5
+  },
+  "germ_pzsflk40_sturer_emil": {
+    "c": 0.5
+  },
+  "germ_pzkpfw_iii_ausf_j": {
+    "c": 1
+  },
+  "germ_pzkpfw_iii_ausf_l": {
+    "c": 1
+  },
+  "germ_pzkpfw_iii_ausf_m": {
+    "c": 1
+  },
+  "germ_pzkpfw_iv_ausf_f2": {
+    "c": 1
+  },
+  "germ_pzkpfw_iv_ausf_g": {
+    "c": 1
+  },
+  "germ_pzkpfw_iv_ausf_h": {
+    "c": 1
+  },
+  "germ_pzkpfw_iv_ausf_j": {
+    "c": 1
+  },
+  "germ_sdkfz_251_21": {
+    "c": 0.5
+  },
+  "germ_pzkpfw_38t_marder_iii_ausf_h": {
+    "c": 0.5
+  },
+  "germ_stuh_iii_ausf_g": {
+    "c": 0.5
+  },
+  "germ_stug_iii_ausf_f": {
+    "c": 1
+  },
+  "germ_hummel": {
+    "c": 0.5
+  },
+  "germ_m44": {
+    "c": 0.5
+  },
+  "germ_m55": {
+    "c": 0.5
+  },
+  "germ_panzerwerfer_42": {
+    "c": 1
+  },
+  "germ_pzkpfw_ii_ausf_h": {
+    "c": 1
+  },
+  "germ_pzkpfw_iii_ausf_j_td": {
+    "c": 1
+  },
+  "germ_sdkfz_251_22": {
+    "c": 1
+  },
+  "germ_pzkpfw_iii_ausf_n": {
+    "c": 1
+  },
+  "germ_sdkfz_234_2_td": {
+    "c": 1
+  },
+  "germ_sdkfz_234_2_mod": {
+    "c": 1
+  },
+  "germ_sdkfz_9_flak37": {
+    "c": 1
+  },
+  "germ_panzerjager_nashorn": {
+    "c": 0.5
+  },
+  "germ_waffentrager_krupp_steyr": {
+    "c": 1
+  },
+  "germ_pzkpfw_vi_ausf_h1_tiger": {
+    "c": 1
+  },
+  "germ_pzkpfw_vi_ausf_e_tiger": {
+    "c": 1
+  },
+  "germ_vk_3002m": {
+    "c": 1
+  },
+  "germ_pzkpfw_v_ausf_d_panther": {
+    "c": 1
+  },
+  "germ_flakpanzer_iv_ostwind": {
+    "c": 0.5
+  },
+  "germ_flakpanzer_iv_wirbelwind": {
+    "c": 0.5
+  },
+  "germ_flakpanzer_iv_ostwind_2": {
+    "c": 0.5
+  },
+  "germ_stug_iii_ausf_g": {
+    "c": 1
+  },
+  "germ_jgdpz_iv_l48": {
+    "c": 1
+  },
+  "germ_jgdpz_38t": {
+    "c": 1
+  },
+  "germ_pz_iv_l70": {
+    "c": 1
+  },
+  "germ_kv_2_754r": {
+    "c": 0.5
+  },
+  "us_m4a2_1944_germ": {
+    "c": 1
+  },
+  "germ_panzerbefelhswagen_iv_ausf_j": {
+    "c": 1
+  },
+  "germ_kv_1b_finland": {
+    "b": true
+  },
+  "germ_infanterie_kampfpanzer_churchill": {
+    "c": 0.5
+  },
+  "germ_sdkfz_234_4": {
+    "c": 1
+  },
+  "germ_t_34_747": {
+    "c": 1
+  },
+  "germ_pzkpfw_vi_tiger_p": {
+    "c": 1
+  },
+  "germ_sturmpanzer_iv_brummbar": {
+    "c": 1
+  },
+  "germ_vsw_flak_41": {
+    "c": 1
+  },
+  "germ_pzkpfw_vi_ausf_h1_tiger_east": {
+    "b": true
+  },
+  "germ_pzkpfw_vi_ausf_h1_tiger_west": {
+    "b": true
+  },
+  "germ_flakpanzer_iv_ostwind_2_net": {
+    "b": true
+  },
+  "germ_pz_iv_l70_a": {
+    "c": 1
+  },
+  "germ_kv_1_kwk_40": {
+    "c": 1
+  },
+  "germ_pzkpfw_vi_ausf_h1_tiger_animal_version": {
+    "b": true
+  },
+  "germ_m109g": {
+    "c": 0.5
+  },
+  "germ_le_kpz_m41": {
+    "c": 1
+  },
+  "germ_pzkpfw_vi_ausf_b_tiger_iip": {
+    "c": 1
+  },
+  "germ_pzkpfw_vi_ausf_b_tiger_iih": {
+    "c": 1
+  },
+  "germ_pzkpfw_v_ausf_a_panther": {
+    "c": 1
+  },
+  "germ_pzkpfw_v_ausf_g_panther": {
+    "c": 1
+  },
+  "germ_pzkpfw_v_ausf_f_panther": {
+    "c": 1
+  },
+  "germ_flakpanzer_zerstorer_45": {
+    "b": true
+  },
+  "germ_flakpanzer_iv_kugelblitz": {
+    "b": true
+  },
+  "germ_panzerjager_panther": {
+    "c": 1
+  },
+  "germ_kanonenjagdpanzer": {
+    "c": 1
+  },
+  "germ_panzerjager_tiger_p_ferdinand": {
+    "c": 1
+  },
+  "germ_panzerjager_tiger": {
+    "c": 0.5
+  },
+  "germ_panzerbefelhswagen_vi_p": {
+    "c": 1
+  },
+  "germ_pzkpfw_v_ersatz_m10": {
+    "b": true
+  },
+  "germ_sturmmorser_sturmtiger": {
+    "c": 0.4
+  },
+  "germ_flakpanzer_v_coelian": {
+    "c": 1
+  },
+  "germ_panzerbefelhswagen_jagdpanther": {
+    "c": 1
+  },
+  "germ_spz_12_3": {
+    "c": 1
+  },
+  "germ_panzerjager_tiger_p_elefant": {
+    "c": 1
+  },
+  "germ_pzkpfw_vi_ausf_b_tiger_iih_sla": {
+    "c": 1
+  },
+  "germ_panther_ii": {
+    "c": 1
+  },
+  "germ_pzkpfw_vi_ausf_b_tiger_iih_kwk46": {
+    "c": 1
+  },
+  "germ_panzerjager_panther_g2": {
+    "c": 1
+  },
+  "germ_ru251": {
+    "c": 1
+  },
+  "germ_marder_1a1": {
+    "c": 0.5
+  },
+  "germ_bmp_1_ddr": {
+    "c": 0.5
+  },
+  "germ_marder_1a3": {
+    "c": 0.5
+  },
+  "germ_marder_df_105": {
+    "c": 0.5
+  },
+  "germ_mkpz_m48a2c": {
+    "c": 1
+  },
+  "germ_leopard_i": {
+    "c": 1
+  },
+  "germ_wiesel_1_mk20": {
+    "c": 0.5
+  },
+  "germ_sppz2_luchs_a2": {
+    "c": 0.5
+  },
+  "germ_pzh_2000": {
+    "c": 0.5
+  },
+  "germ_spz_oerlikon_raketenautomat": {
+    "c": 0.5
+  },
+  "germ_raketenjagdpanzer_2": {
+    "c": 0.5
+  },
+  "germ_mkpz_m47": {
+    "c": 1
+  },
+  "germ_pzkpfw_e_100": {
+    "c": 1
+  },
+  "germ_marder_clovis": {
+    "b": true
+  },
+  "germ_pzkpfw_maus": {
+    "c": 1
+  },
+  "germ_erprobungstrager_3_achs_turm": {
+    "c": 1
+  },
+  "germ_thyssen_henschel_tam": {
+    "c": 1
+  },
+  "germ_sk105_a2": {
+    "c": 1
+  },
+  "germ_begleitpanzer_57": {
+    "c": 0.5
+  },
+  "germ_mkpz_m48a2ga2": {
+    "c": 1
+  },
+  "germ_kpz_70": {
+    "c": 1
+  },
+  "germ_mkpz_super_m48": {
+    "c": 1
+  },
+  "germ_kpz_t72m1": {
+    "c": 1
+  },
+  "germ_leopard_i_a1": {
+    "c": 1
+  },
+  "germ_leopard_1a5": {
+    "c": 1
+  },
+  "germ_flakpz_i_gepard": {
+    "c": 0.5
+  },
+  "germ_wiesel_2_adwc": {
+    "b": true
+  },
+  "germ_flakpz_1a2_gepard": {
+    "b": true
+  },
+  "germ_raketenjagdpanzer_2_hot": {
+    "c": 0.5
+  },
+  "germ_jaguar_2": {
+    "c": 0.5
+  },
+  "germ_thyssen_henschel_tam_2ip": {
+    "b": true
+  },
+  "germ_vt_1_2": {
+    "c": 1
+  },
+  "germ_leopard_a1a1_120": {
+    "c": 1
+  },
+  "germ_th_800_bismark": {
+    "c": 1
+  },
+  "germ_leopard_c2_mexas": {
+    "c": 1
+  },
+  "germ_th_400": {
+    "c": 1
+  },
+  "germ_radpanzer_90": {
+    "c": 1
+  },
+  "germ_thyssen_henschel_tam_2c": {
+    "c": 1
+  },
+  "germ_schutzenpanzer_puma": {
+    "c": 1
+  },
+  "germ_schutzenpanzer_puma_vjtf": {
+    "c": 0.5
+  },
+  "germ_leopard_2k": {
+    "c": 1
+  },
+  "germ_leopard_2a4": {
+    "c": 1
+  },
+  "germ_flarakpz_1": {
+    "b": true
+  },
+  "germ_9a33bm3": {
+    "b": true
+  },
+  "germ_9a35_m": {
+    "b": true
+  },
+  "germ_wiesel_1_tow": {
+    "c": 0.5
+  },
+  "germ_boxer_swatrinf": {
+    "c": 0.5
+  },
+  "germ_boxer_3105": {
+    "c": 1
+  },
+  "germ_leopard_2av": {
+    "c": 1
+  },
+  "germ_vilkas": {
+    "c": 0.5
+  },
+  "germ_leopard_2_pt14": {
+    "c": 1
+  },
+  "germ_leopard_2a4m_can": {
+    "c": 1
+  },
+  "germ_leopard_2a4_pzbtl_123": {
+    "c": 1
+  },
+  "germ_leopard_2a4m_can_sm": {
+    "c": 1
+  },
+  "germ_schutzenpanzer_puma_vjtf_mod": {
+    "b": true
+  },
+  "germ_embt": {
+    "c": 1
+  },
+  "germ_leopard_2a5": {
+    "c": 1
+  },
+  "germ_leopard_2a6": {
+    "c": 1
+  },
+  "germ_leopard_2a5_pso": {
+    "c": 1
+  },
+  "germ_leopard_2a7v": {
+    "c": 1
+  },
+  "germ_flarakrad": {
+    "b": true
+  },
+  "germ_iris_slm_fcs": {
+    "b": true
+  },
+  "germ_iris_slm_launcher": {
+    "b": true
+  },
+  "germ_leopard_2pl": {
+    "c": 1
+  },
+  "germ_leopard_2a5_yt_cup_2019": {
+    "b": true
+  },
+  "ussr_bt_5": {
+    "c": 1
+  },
+  "ussr_bt_7_1937": {
+    "c": 1
+  },
+  "ussr_bt_7_m": {
+    "c": 1
+  },
+  "ussr_t_26_1940": {
+    "c": 0.2
+  },
+  "ussr_t_28_1938": {
+    "c": 0.3
+  },
+  "ussr_t_28": {
+    "c": 0.3
+  },
+  "ussr_t_26_4": {
+    "c": 0.2
+  },
+  "ussr_t_60_1941": {
+    "c": 0.3
+  },
+  "ussr_t_70_1942": {
+    "c": 1
+  },
+  "ussr_garford_putilov": {
+    "c": 0.2
+  },
+  "ussr_su_5_1": {
+    "c": 0.2
+  },
+  "ussr_su_76m_1943": {
+    "c": 0.5
+  },
+  "ussr_gaz_4m": {
+    "b": true
+  },
+  "ussr_gaz_dshk": {
+    "c": 0.5
+  },
+  "ussr_t_26_1940_1st_gvtbr": {
+    "c": 0.2
+  },
+  "ussr_t_26e": {
+    "c": 0.2
+  },
+  "ussr_bt_7_1937_td": {
+    "b": true
+  },
+  "ussr_rbt_5": {
+    "c": 1
+  },
+  "ussr_t_35": {
+    "c": 0.5
+  },
+  "ussr_ba_11": {
+    "c": 0.3
+  },
+  "ussr_su_57": {
+    "b": true
+  },
+  "ussr_bm_8_24": {
+    "c": 0.3
+  },
+  "ussr_pzkpfw_iii_ausf_j_l42": {
+    "c": 1
+  },
+  "ussr_t_50": {
+    "c": 1
+  },
+  "ussr_t_34_1941_l_11": {
+    "c": 1
+  },
+  "ussr_t_34_1941": {
+    "c": 1
+  },
+  "ussr_t_34_1942": {
+    "c": 1
+  },
+  "ussr_t_34e_stz": {
+    "c": 1
+  },
+  "ussr_t_28e": {
+    "c": 0.5
+  },
+  "ussr_kv_1_l_11": {
+    "c": 1
+  },
+  "ussr_kv_2_1939": {
+    "c": 0.8
+  },
+  "ussr_kv_1s": {
+    "c": 1
+  },
+  "ussr_t_80": {
+    "c": 1
+  },
+  "ussr_zis_30": {
+    "c": 0.5
+  },
+  "ussr_su_57b": {
+    "c": 0.5
+  },
+  "ussr_su_122": {
+    "c": 0.5
+  },
+  "ussr_zsu_29k": {
+    "c": 0.5
+  },
+  "ussr_gaz_mm_72k": {
+    "c": 0.5
+  },
+  "ussr_btr_152a": {
+    "c": 0.5
+  },
+  "ussr_zis_43": {
+    "b": true
+  },
+  "ussr_zis_12_94km_1945": {
+    "c": 0.5
+  },
+  "ussr_zsu_37": {
+    "b": true
+  },
+  "ussr_zut_37": {
+    "c": 0.5
+  },
+  "ussr_su_76m_5st_kav_corps": {
+    "c": 0.5
+  },
+  "ussr_t_126sp": {
+    "c": 1
+  },
+  "ussr_su_76d": {
+    "b": true
+  },
+  "ussr_t_34_1940_l_11": {
+    "c": 1
+  },
+  "ussr_m3c": {
+    "b": true
+  },
+  "ussr_bt_7a_f32": {
+    "c": 1
+  },
+  "ussr_bm_13n": {
+    "c": 0.4
+  },
+  "ussr_smk": {
+    "c": 1
+  },
+  "ussr_kv_8": {
+    "c": 1
+  },
+  "ussr_t_34_1941_cast_turret": {
+    "c": 1
+  },
+  "ussr_a_12_mk_2_matilda_2a_f96": {
+    "b": true
+  },
+  "ussr_t_34e": {
+    "c": 1
+  },
+  "ussr_valentine_mk_9": {
+    "b": true
+  },
+  "ussr_su_85a": {
+    "c": 0.5
+  },
+  "ussr_t_34_1941_57": {
+    "c": 1
+  },
+  "ussr_t_34_85_d_5t": {
+    "c": 1
+  },
+  "ussr_t_34_85_zis_53": {
+    "c": 1
+  },
+  "ussr_kv_1_zis_5": {
+    "c": 1
+  },
+  "ussr_kv_85": {
+    "c": 1
+  },
+  "ussr_is_1": {
+    "c": 1
+  },
+  "ussr_asu_57": {
+    "c": 1
+  },
+  "ussr_pt_76b": {
+    "c": 1
+  },
+  "ussr_su_152": {
+    "c": 0.5
+  },
+  "ussr_su_85_1943": {
+    "c": 0.5
+  },
+  "ussr_isu_152": {
+    "c": 0.5
+  },
+  "ussr_su_85m": {
+    "c": 0.5
+  },
+  "ussr_isu_122": {
+    "c": 0.5
+  },
+  "ussr_isu_122s": {
+    "c": 0.5
+  },
+  "ussr_btr_152d": {
+    "b": true
+  },
+  "ussr_bm_31_12": {
+    "c": 0.5
+  },
+  "ussr_kv_2_1940": {
+    "b": true
+  },
+  "ussr_t_34_57_1943": {
+    "b": true
+  },
+  "ussr_kv_7_u13": {
+    "c": 0.5
+  },
+  "ussr_is_1_kit_3rank": {
+    "b": true
+  },
+  "ussr_t_34_85_zis_53_kit_3rank": {
+    "b": true
+  },
+  "ussr_sdkfz_251_21_kit_3rank": {
+    "b": true
+  },
+  "ussr_kv_1e": {
+    "c": 1
+  },
+  "ussr_m4a2_76w_sherman": {
+    "c": 1
+  },
+  "ussr_su_100y": {
+    "c": 0.4
+  },
+  "ussr_type_65_aa": {
+    "c": 0.4
+  },
+  "ussr_kv_2_zis_6": {
+    "c": 0.8
+  },
+  "ussr_t_34_85_zis_53_v80": {
+    "c": 1
+  },
+  "ussr_t_34_85_stp_s53": {
+    "c": 1
+  },
+  "ussr_t_44": {
+    "c": 1
+  },
+  "ussr_is_2_1943": {
+    "c": 0.8
+  },
+  "ussr_is_2_1944": {
+    "c": 0.8
+  },
+  "ussr_is_2_1944_321": {
+    "c": 0.8
+  },
+  "ussr_asu_85": {
+    "c": 0.5
+  },
+  "ussr_su_100p": {
+    "c": 0.5
+  },
+  "ussr_su_100_1945": {
+    "c": 0.5
+  },
+  "ussr_2s1": {
+    "c": 0.5
+  },
+  "ussr_2s3m": {
+    "c": 0.5
+  },
+  "ussr_btr_zd": {
+    "c": 0.5
+  },
+  "ussr_m53_59": {
+    "c": 0.5
+  },
+  "ussr_kv_122": {
+    "c": 1
+  },
+  "ussr_kv_220": {
+    "c": 1
+  },
+  "ussr_t_34_85e": {
+    "c": 1
+  },
+  "ussr_pzkpfw_v": {
+    "c": 1
+  },
+  "ussr_su_122p": {
+    "b": true
+  },
+  "ussr_t_44_po": {
+    "c": 1
+  },
+  "ussr_t_44_122": {
+    "b": true
+  },
+  "ussr_is_2_1944_revenge": {
+    "c": 0.8
+  },
+  "ussr_t_34_100": {
+    "c": 1
+  },
+  "ussr_object_248": {
+    "c": 1
+  },
+  "ussr_t_44_kit_4rank": {
+    "b": true
+  },
+  "ussr_is_2m_kit_4rank": {
+    "b": true
+  },
+  "ussr_m53_59_kit_4rank": {
+    "b": true
+  },
+  "ussr_type_62": {
+    "c": 1
+  },
+  "ussr_t_44_100": {
+    "c": 1
+  },
+  "ussr_t_54_1947": {
+    "c": 1
+  },
+  "ussr_t_54_1949": {
+    "c": 1
+  },
+  "ussr_t_54_1951": {
+    "c": 1
+  },
+  "ussr_is_3": {
+    "c": 0.8
+  },
+  "ussr_is_4m": {
+    "c": 0.8
+  },
+  "ussr_btr_80a": {
+    "c": 1
+  },
+  "ussr_bmp_1": {
+    "c": 0.5
+  },
+  "ussr_object_906": {
+    "c": 1
+  },
+  "ussr_su_122_54": {
+    "c": 0.5
+  },
+  "ussr_object_268": {
+    "c": 0.5
+  },
+  "ussr_2s19_m1": {
+    "c": 0.5
+  },
+  "ussr_object_416": {
+    "c": 0.5
+  },
+  "ussr_zsu_57_2": {
+    "c": 0.5
+  },
+  "ussr_zsu_23_4m2": {
+    "c": 0.5
+  },
+  "ussr_zsu_37_2": {
+    "c": 0.5
+  },
+  "ussr_is_6": {
+    "c": 0.5
+  },
+  "ussr_2s19_m2": {
+    "b": true
+  },
+  "ussr_object_120": {
+    "b": true
+  },
+  "ussr_t_10a": {
+    "c": 0.5
+  },
+  "ussr_to_55": {
+    "c": 1
+  },
+  "ussr_pt_76_57": {
+    "c": 1
+  },
+  "ussr_t_55a": {
+    "c": 1
+  },
+  "ussr_t_62": {
+    "c": 1
+  },
+  "ussr_t_55_amd_1": {
+    "c": 1
+  },
+  "ussr_t_62m1": {
+    "c": 1
+  },
+  "ussr_t_72a": {
+    "c": 1
+  },
+  "ussr_t_10m": {
+    "c": 1
+  },
+  "ussr_object_435": {
+    "c": 0.5
+  },
+  "ussr_t_64a_1971": {
+    "c": 1
+  },
+  "ussr_bmp_2": {
+    "c": 0.5
+  },
+  "ussr_object_685": {
+    "c": 1
+  },
+  "ussr_bmp_3": {
+    "c": 1
+  },
+  "ussr_2s25": {
+    "c": 1
+  },
+  "ussr_bmd_4m2": {
+    "c": 1
+  },
+  "ussr_it_1": {
+    "c": 0.5
+  },
+  "ussr_9p149": {
+    "c": 0.5
+  },
+  "ussr_btr_82at": {
+    "c": 1
+  },
+  "ussr_object_775": {
+    "c": 0.5
+  },
+  "ussr_9p157": {
+    "c": 0.5
+  },
+  "ussr_zsu_23_4": {
+    "b": true
+  },
+  "ussr_zsu_23_4m4": {
+    "b": true
+  },
+  "ussr_object_140": {
+    "b": true
+  },
+  "ussr_is_7": {
+    "b": true
+  },
+  "ussr_t_55_am": {
+    "c": 1
+  },
+  "ussr_object_279": {
+    "c": 1
+  },
+  "ussr_bmd_4m": {
+    "c": 1
+  },
+  "ussr_bmd_4": {
+    "c": 1
+  },
+  "ussr_t_72b": {
+    "c": 1
+  },
+  "ussr_t_72b_1989": {
+    "c": 1
+  },
+  "ussr_t_90a": {
+    "c": 1
+  },
+  "ussr_t_72b3_2011": {
+    "c": 1
+  },
+  "ussr_t_64_b_1984": {
+    "c": 1
+  },
+  "ussr_t_80b": {
+    "c": 1
+  },
+  "ussr_t_80u": {
+    "c": 1
+  },
+  "ussr_2s25m": {
+    "c": 1
+  },
+  "ussr_bmpt": {
+    "c": 0.5
+  },
+  "ussr_9a33bm3": {
+    "b": true
+  },
+  "ussr_9a35_m2": {
+    "b": true
+  },
+  "ussr_zprk_2s6": {
+    "c": 0.5
+  },
+  "ussr_tor_m1": {
+    "b": true
+  },
+  "ussr_2s38": {
+    "c": 0.5
+  },
+  "ussr_bmp_2m": {
+    "c": 0.5
+  },
+  "ussr_t_72av_turms": {
+    "c": 1
+  },
+  "ussr_object_292": {
+    "c": 1
+  },
+  "ussr_bmpt_72": {
+    "c": 1
+  },
+  "ussr_t_72m2_moderna": {
+    "c": 1
+  },
+  "ussr_t_80ud": {
+    "c": 1
+  },
+  "ussr_t_72b3_arena": {
+    "c": 1
+  },
+  "ussr_t_80ue1": {
+    "c": 1
+  },
+  "ussr_t_80u_yt_cup_2019": {
+    "c": 1
+  },
+  "ussr_t_80ue1_sm": {
+    "c": 1
+  },
+  "ussr_t_80um2": {
+    "c": 1
+  },
+  "ussr_t_80uk": {
+    "c": 1
+  },
+  "ussr_t_72b3_arena_m": {
+    "c": 0.5
+  },
+  "ussr_t_90m_2020": {
+    "c": 1
+  },
+  "ussr_t_90m_arena_m": {
+    "c": 0.5
+  },
+  "ussr_t_80bvm": {
+    "c": 1
+  },
+  "ussr_pantsyr_s1": {
+    "b": true
+  },
+  "ussr_buk_m3_fcs": {
+    "b": true
+  },
+  "ussr_buk_m3_launcher": {
+    "b": true
+  },
+  "ussr_pantsyr_sm_sv": {
+    "b": true
+  },
+  "uk_a_13_mk1": {
+    "c": 1
+  },
+  "uk_a_13_mk2": {
+    "c": 1
+  },
+  "uk_m3_stuart": {
+    "c": 1
+  },
+  "uk_m3a1_stuart": {
+    "c": 1
+  },
+  "uk_a17_mk_1_tetrarch": {
+    "c": 1
+  },
+  "uk_daimler_mk_2": {
+    "c": 1
+  },
+  "uk_vickers_mk_6_aa_mk_1": {
+    "b": true
+  },
+  "uk_t17e2": {
+    "b": true
+  },
+  "uk_mark_v": {
+    "c": 0.2
+  },
+  "uk_sarc_mk4_a": {
+    "c": 1
+  },
+  "uk_a_13_mk1_3rd_rtr": {
+    "c": 1
+  },
+  "uk_a_13_mk2_1939": {
+    "c": 1
+  },
+  "uk_a1e1_independent": {
+    "b": true
+  },
+  "uk_alecto_mk_1": {
+    "b": true
+  },
+  "uk_crusader_mk_2": {
+    "c": 1
+  },
+  "uk_crusader_mk_3": {
+    "c": 1
+  },
+  "uk_cruiser_ram_1": {
+    "c": 1
+  },
+  "uk_a27m_cromwell_1": {
+    "c": 1
+  },
+  "uk_sherman_ii": {
+    "c": 1
+  },
+  "uk_valentine_mk_1": {
+    "c": 0.7
+  },
+  "uk_valentine_mk_11": {
+    "c": 0.7
+  },
+  "uk_valentine_mk_9": {
+    "c": 0.7
+  },
+  "uk_a_12_mk_2_matilda_2": {
+    "c": 0.7
+  },
+  "uk_a_22_mk_1_churchill_1941": {
+    "c": 0.7
+  },
+  "uk_sp_17_pdr_valentine": {
+    "c": 0.7
+  },
+  "uk_3_inch_gun_carrier": {
+    "c": 0.5
+  },
+  "uk_17_pdr_m10_achilles": {
+    "c": 1
+  },
+  "uk_crusader_aa_mk_1": {
+    "b": true
+  },
+  "uk_armored_car_mk_2_aa": {
+    "b": true
+  },
+  "uk_marmon_herrington_mk_6_2pdr": {
+    "c": 1
+  },
+  "uk_a25_mk_8": {
+    "c": 1
+  },
+  "uk_marmon_herrington_mk_6_6pdr": {
+    "c": 1
+  },
+  "uk_crusader_mk_2_the_saint": {
+    "c": 1
+  },
+  "uk_mk1_grant": {
+    "b": true
+  },
+  "uk_armored_car_aec_mk_2": {
+    "c": 1
+  },
+  "uk_matilda_hedgehog": {
+    "c": 0.7
+  },
+  "uk_m4a5_ram_2": {
+    "b": true
+  },
+  "uk_churchill_avre": {
+    "c": 0.4
+  },
+  "uk_ac1_sentinel": {
+    "c": 1
+  },
+  "uk_a27m_cromwell_5": {
+    "c": 1
+  },
+  "uk_sherman_vc_firefly": {
+    "c": 1
+  },
+  "uk_a30_challenger": {
+    "c": 1
+  },
+  "uk_a_34_comet": {
+    "c": 1
+  },
+  "uk_a_22b_mk_3_churchill_1942": {
+    "c": 0.7
+  },
+  "uk_churchill_na75": {
+    "c": 0.7
+  },
+  "uk_a_22f_mk_7_churchill_1944": {
+    "c": 0.7
+  },
+  "uk_m44": {
+    "c": 0.5
+  },
+  "uk_a30_sp_avenger": {
+    "c": 1
+  },
+  "uk_ystervark_spaa": {
+    "b": true
+  },
+  "uk_crusader_aa_mk_2": {
+    "b": true
+  },
+  "uk_bosvark": {
+    "b": true
+  },
+  "uk_concept3_ngac": {
+    "c": 1
+  },
+  "uk_a27m_cromwell_5_rp3": {
+    "c": 1
+  },
+  "uk_a_33_excelsior": {
+    "b": true
+  },
+  "uk_17_pdr_m10_achilles_norfolk_yeomanry": {
+    "c": 1
+  },
+  "uk_a_22f_mk_7_churchill_crocodile": {
+    "c": 0.7
+  },
+  "uk_sherman_vc_firefly_kit_3rank": {
+    "b": true
+  },
+  "uk_a30_sp_avenger_kit_3rank": {
+    "b": true
+  },
+  "uk_crusader_aa_mk_2_kit_3rank": {
+    "b": true
+  },
+  "uk_a_34_comet_iron_duke": {
+    "c": 1
+  },
+  "uk_sherman_ic_firefly": {
+    "c": 1
+  },
+  "uk_tog_2": {
+    "c": 1
+  },
+  "uk_ac4_thunderbolt": {
+    "c": 1
+  },
+  "uk_ram_90mm_aa": {
+    "c": 0.5
+  },
+  "uk_centurion_mk_1": {
+    "c": 0.8
+  },
+  "uk_fv4004_conway": {
+    "c": 0.8
+  },
+  "uk_centurion_mk_3": {
+    "c": 0.8
+  },
+  "uk_charioteer_mk_7": {
+    "c": 1
+  },
+  "uk_fv4202": {
+    "c": 0.8
+  },
+  "uk_fv4005": {
+    "c": 0.4
+  },
+  "uk_m109a1": {
+    "c": 0.5
+  },
+  "uk_g6_spg": {
+    "c": 0.5
+  },
+  "uk_a39_tortoise": {
+    "c": 0.5
+  },
+  "uk_as_90_mk_2": {
+    "c": 0.5
+  },
+  "uk_skink_aa": {
+    "b": true
+  },
+  "uk_ratel_90": {
+    "c": 1
+  },
+  "uk_ratel_20": {
+    "c": 0.7
+  },
+  "uk_eland_90_mk_7": {
+    "c": 1
+  },
+  "uk_vickers_gbt_155": {
+    "b": true
+  },
+  "uk_a_43_black_prince": {
+    "c": 0.8
+  },
+  "uk_centurion_mk_3_ss11": {
+    "b": true
+  },
+  "uk_centurion_mk_2": {
+    "c": 1
+  },
+  "uk_centurion_action_x": {
+    "c": 0.8
+  },
+  "uk_fv221_caernarvon": {
+    "c": 0.8
+  },
+  "uk_conqueror_mk_2": {
+    "c": 0.8
+  },
+  "uk_centurion_mk_10": {
+    "c": 0.8
+  },
+  "uk_vickers_mbt_mk_1": {
+    "c": 1
+  },
+  "uk_fv438_swingfire": {
+    "c": 0.5
+  },
+  "uk_falcon": {
+    "c": 0.4
+  },
+  "uk_fv107_scimitar": {
+    "c": 1
+  },
+  "uk_fv721_fox": {
+    "c": 1
+  },
+  "uk_centurion_mk_5_avre_era": {
+    "c": 0.5
+  },
+  "uk_centurion_mk_5_raac": {
+    "c": 1
+  },
+  "uk_chieftain_mk_3": {
+    "c": 0.8
+  },
+  "uk_chieftain_mk_5": {
+    "c": 1
+  },
+  "uk_chieftain_mk_10": {
+    "c": 1
+  },
+  "uk_chieftain_900": {
+    "c": 1
+  },
+  "uk_vickers_mbt_mk_3": {
+    "c": 1
+  },
+  "uk_olifant_mk_1a": {
+    "c": 1
+  },
+  "uk_olifant_mk_2": {
+    "c": 1
+  },
+  "uk_fv510_isv": {
+    "c": 1
+  },
+  "uk_ratel_zt3": {
+    "c": 1
+  },
+  "uk_fv102_striker": {
+    "c": 0.5
+  },
+  "uk_chieftain_marksman": {
+    "c": 0.4
+  },
+  "uk_rooikat_za_35": {
+    "c": 1
+  },
+  "uk_tracked_rapier": {
+    "b": true
+  },
+  "uk_vickers_mk_11": {
+    "c": 1
+  },
+  "uk_rooikat_76": {
+    "c": 1
+  },
+  "uk_badger": {
+    "c": 0.5
+  },
+  "uk_vfm_5": {
+    "c": 0.5
+  },
+  "uk_rooikat_mttd": {
+    "c": 1
+  },
+  "uk_vijayanta": {
+    "b": true
+  },
+  "uk_fv107_scimitar_mk2": {
+    "c": 0.5
+  },
+  "uk_khalid": {
+    "b": true
+  },
+  "uk_centurion_shot_kal_d": {
+    "c": 1
+  },
+  "uk_rooikat_105_td": {
+    "c": 1
+  },
+  "uk_shir_2": {
+    "c": 1
+  },
+  "uk_challenger_1": {
+    "c": 1
+  },
+  "uk_challenger_mk_3": {
+    "c": 1
+  },
+  "uk_challenger_ii": {
+    "c": 1
+  },
+  "uk_challenger_2_dorchester": {
+    "c": 1
+  },
+  "uk_challenger_2_tes": {
+    "c": 1
+  },
+  "uk_ttd": {
+    "c": 1
+  },
+  "uk_vickers_mk7": {
+    "c": 1
+  },
+  "uk_arjun_mk1": {
+    "b": true
+  },
+  "uk_desert_warrior": {
+    "c": 1
+  },
+  "uk_stormer_air_defence": {
+    "c": 0.4
+  },
+  "uk_9a33bm2": {
+    "b": true
+  },
+  "uk_stormer_hvm": {
+    "b": true
+  },
+  "uk_9a35_m": {
+    "b": true
+  },
+  "uk_ajax": {
+    "c": 1
+  },
+  "uk_challenger_1_mk_3_gulf": {
+    "c": 1
+  },
+  "uk_t_90s_bheeshma": {
+    "c": 1
+  },
+  "uk_challenger_2_megatron": {
+    "c": 1
+  },
+  "uk_boxer_crv_block2": {
+    "b": true
+  },
+  "uk_challenger_2_megatron_sm": {
+    "c": 1
+  },
+  "uk_challenger_ii_yt_cup_2019": {
+    "b": true
+  },
+  "uk_m1a1_aim_abrams": {
+    "b": true
+  },
+  "uk_challenger_2_lep": {
+    "c": 1
+  },
+  "uk_challenger_2_bn": {
+    "c": 1
+  },
+  "uk_challenger_2e": {
+    "c": 1
+  },
+  "uk_m1a2_sep3_abrams": {
+    "b": true
+  },
+  "uk_adats_m113a3": {
+    "b": true
+  },
+  "uk_sky_sabre_fcs": {
+    "b": true
+  },
+  "uk_sky_sabre_launcher": {
+    "b": true
+  },
+  "jp_type_95_ha_go": {
+    "c": 0.7
+  },
+  "jp_type_89b_i_go_otsu": {
+    "c": 0.7
+  },
+  "jp_type_4_ho_ro": {
+    "c": 0.5
+  },
+  "jp_type_94": {
+    "c": 0.5
+  },
+  "jp_type_98_ke_ni": {
+    "c": 0.7
+  },
+  "jp_type_97_chi_ha": {
+    "c": 0.7
+  },
+  "jp_hiro_sha": {
+    "c": 0.5
+  },
+  "jp_type_98_ta_se": {
+    "c": 0.5
+  },
+  "jp_type_2_ka_mi": {
+    "c": 0.7
+  },
+  "jp_type_2_ho_i": {
+    "c": 1
+  },
+  "jp_type_2_ho_ni_2": {
+    "b": true
+  },
+  "jp_type_95_ha_go_commander": {
+    "c": 0.7
+  },
+  "jp_type_3_ka_chi": {
+    "c": 1
+  },
+  "jp_type_95_heavy": {
+    "c": 0.7
+  },
+  "jp_type_97_kai": {
+    "c": 1
+  },
+  "jp_type_3_ho_ni_i": {
+    "c": 0.5
+  },
+  "jp_type_3_ho_ni_iii": {
+    "c": 0.5
+  },
+  "jp_halftrack_m16": {
+    "b": true
+  },
+  "jp_type_1_chi_he": {
+    "c": 1
+  },
+  "jp_navy_120mm_spg": {
+    "c": 0.5
+  },
+  "jp_type_95_so_ki": {
+    "b": true
+  },
+  "jp_type_97_chi_ha_12cm": {
+    "c": 0.5
+  },
+  "jp_type_97_kai_td": {
+    "b": true
+  },
+  "jp_type_1_chi_he_5th_regiment": {
+    "b": true
+  },
+  "jp_m24_chaffee": {
+    "c": 1
+  },
+  "jp_type_3_chi_nu": {
+    "c": 1
+  },
+  "jp_type_5_na_to": {
+    "c": 0.5
+  },
+  "jp_m19": {
+    "b": true
+  },
+  "jp_type_4_chi_to": {
+    "c": 1
+  },
+  "jp_type_4_chi_to_late": {
+    "c": 1
+  },
+  "jp_m44": {
+    "c": 0.5
+  },
+  "jp_m42_duster": {
+    "b": true
+  },
+  "jp_type_3_chi_nu_75cm_type_5": {
+    "c": 1
+  },
+  "jp_m4a3e8_76w_sherman": {
+    "c": 1
+  },
+  "jp_type_5_chi_ri": {
+    "c": 1
+  },
+  "jp_m36b2_jgsdf": {
+    "c": 1
+  },
+  "jp_sub_i_ii_20mm": {
+    "c": 0.5
+  },
+  "jp_m41_walker_bulldog": {
+    "c": 0.5
+  },
+  "jp_st_a1": {
+    "c": 1
+  },
+  "jp_st_a2": {
+    "c": 1
+  },
+  "jp_type_75": {
+    "c": 0.5
+  },
+  "jp_type_60_sprg": {
+    "c": 1
+  },
+  "jp_type_60_atm": {
+    "c": 0.4
+  },
+  "jp_type_61": {
+    "c": 1
+  },
+  "jp_st_a3": {
+    "c": 1
+  },
+  "jp_pzkpfw_vi_ausf_e_tiger": {
+    "b": true
+  },
+  "jp_type_61_mod": {
+    "b": true
+  },
+  "jp_type_5_ho_ri_prototype": {
+    "b": true
+  },
+  "jp_type_87_rcv_prot": {
+    "c": 1
+  },
+  "jp_m47_patton_ii": {
+    "c": 1
+  },
+  "jp_type_99": {
+    "c": 0.5
+  },
+  "jp_m163_vulcan": {
+    "b": true
+  },
+  "jp_st_b1": {
+    "c": 1
+  },
+  "jp_type_74_c": {
+    "c": 0.5
+  },
+  "jp_type_75_mlrs": {
+    "c": 0.5
+  },
+  "jp_type_5_ho_ri_production": {
+    "c": 1
+  },
+  "jp_type_74_red_star": {
+    "b": true
+  },
+  "jp_type_87_rcv": {
+    "c": 1
+  },
+  "jp_type_89": {
+    "c": 1
+  },
+  "jp_type_74": {
+    "c": 0.5
+  },
+  "jp_type_74_f": {
+    "c": 0.5
+  },
+  "jp_type_16_mcv_prot": {
+    "c": 1
+  },
+  "jp_type_87": {
+    "c": 0.5
+  },
+  "jp_btr_3e1": {
+    "c": 0.5
+  },
+  "jp_m60a3_tts": {
+    "c": 0.5
+  },
+  "jp_stingray": {
+    "c": 0.5
+  },
+  "jp_type_74_mod_g_kai": {
+    "c": 1
+  },
+  "jp_type_16_mod": {
+    "c": 1
+  },
+  "jp_icv_ifv_prototype": {
+    "c": 0.5
+  },
+  "jp_type_90": {
+    "c": 1
+  },
+  "jp_type_90b": {
+    "c": 1
+  },
+  "jp_type_16": {
+    "c": 1
+  },
+  "jp_type_93": {
+    "b": true
+  },
+  "jp_type_10_prototype": {
+    "c": 1
+  },
+  "jp_harimau": {
+    "b": true
+  },
+  "jp_type_81_tansam": {
+    "b": true
+  },
+  "jp_icv_prototype": {
+    "b": true
+  },
+  "jp_type_90b_camo": {
+    "c": 1
+  },
+  "jp_type_90b_sm": {
+    "c": 1
+  },
+  "jp_leopard_2ri": {
+    "b": true
+  },
+  "jp_type_10": {
+    "c": 1
+  },
+  "jp_tkx_prot": {
+    "c": 1
+  },
+  "jp_type_81_tansam_fcs": {
+    "b": true
+  },
+  "jp_type_81_tansam_launcher": {
+    "b": true
+  },
+  "jp_type_03_chusam_fcs": {
+    "b": true
+  },
+  "jp_type_03_chusam_launcher": {
+    "b": true
+  },
+  "jp_oplot_t": {
+    "c": 0.5
+  },
+  "cn_m8_greyhound": {
+    "c": 1
+  },
+  "cn_t_26_1940": {
+    "b": true
+  },
+  "cn_sdkfz_222_early": {
+    "c": 1
+  },
+  "cn_m8_scott": {
+    "c": 0.5
+  },
+  "cn_type_97_chi_ha": {
+    "c": 1
+  },
+  "cn_su_76m_1943": {
+    "c": 0.5
+  },
+  "cn_t_26_no531": {
+    "b": true
+  },
+  "cn_m3a3_stuart": {
+    "c": 1
+  },
+  "cn_m5a1_stuart": {
+    "c": 1
+  },
+  "cn_type_97_kai": {
+    "c": 1
+  },
+  "cn_gmc_cckw_353_m45_quad": {
+    "b": true
+  },
+  "cn_lvt_4_zis_2": {
+    "c": 1
+  },
+  "cn_m4a4_sherman": {
+    "c": 1
+  },
+  "cn_m10": {
+    "c": 1
+  },
+  "cn_m3a3_stuart_1st_ptg": {
+    "b": true
+  },
+  "cn_m4a4_sherman_1st_ptg": {
+    "b": true
+  },
+  "cn_m24_chaffee": {
+    "c": 1
+  },
+  "cn_t_34_1942": {
+    "c": 1
+  },
+  "cn_m4a1_76w_sherman": {
+    "c": 1
+  },
+  "cn_m42_duster": {
+    "b": true
+  },
+  "cn_m55": {
+    "b": true
+  },
+  "cn_object_211": {
+    "c": 1
+  },
+  "cn_pt_76": {
+    "c": 1
+  },
+  "cn_t_34_85_d_5t": {
+    "c": 1
+  },
+  "cn_type_58": {
+    "c": 1
+  },
+  "cn_type_65_aa": {
+    "c": 0.4
+  },
+  "cn_isu_152": {
+    "c": 0.5
+  },
+  "cn_m36": {
+    "c": 1
+  },
+  "cn_isu_122": {
+    "c": 0.5
+  },
+  "cn_m41_a3_walker_bulldog": {
+    "b": true
+  },
+  "cn_m18_hellcat": {
+    "c": 1
+  },
+  "cn_is_2_1943": {
+    "c": 1
+  },
+  "cn_is_2_1944": {
+    "c": 1
+  },
+  "cn_zsd63_pg87": {
+    "b": true
+  },
+  "cn_su_100_1945": {
+    "c": 0.5
+  },
+  "cn_type_63_i": {
+    "c": 1
+  },
+  "cn_type_62": {
+    "c": 1
+  },
+  "cn_zsl_92": {
+    "c": 0.5
+  },
+  "cn_plz_83": {
+    "c": 0.5
+  },
+  "cn_type_64": {
+    "c": 1
+  },
+  "cn_plz_45": {
+    "b": true
+  },
+  "cn_t_34_85_zis_53_no215": {
+    "b": true
+  },
+  "cn_wz_141": {
+    "c": 1
+  },
+  "cn_is_2_1943_no402": {
+    "b": true
+  },
+  "cn_zts_63_1980": {
+    "c": 1
+  },
+  "cn_type_86": {
+    "c": 0.5
+  },
+  "cn_m48a1_patton_iii": {
+    "c": 1
+  },
+  "cn_pgz_88": {
+    "b": true
+  },
+  "cn_plz_05": {
+    "c": 0.5
+  },
+  "cn_type_59": {
+    "c": 1
+  },
+  "cn_type_69": {
+    "c": 0.5
+  },
+  "cn_wz_305": {
+    "b": true
+  },
+  "cn_m113a1_tow": {
+    "c": 0.5
+  },
+  "cn_ztz_59a": {
+    "c": 1
+  },
+  "cn_plz_83_130": {
+    "c": 0.5
+  },
+  "cn_type_69_2a": {
+    "c": 1
+  },
+  "cn_m_41d": {
+    "c": 1
+  },
+  "cn_type_59d": {
+    "c": 1
+  },
+  "cn_pgz_09": {
+    "b": true
+  },
+  "cn_cm_25": {
+    "c": 0.5
+  },
+  "cn_ptz_89": {
+    "c": 0.5
+  },
+  "cn_m60a3_tts": {
+    "c": 1
+  },
+  "cn_ztz_88b": {
+    "b": true
+  },
+  "cn_ztz_88a": {
+    "b": true
+  },
+  "cn_pgz_04a": {
+    "b": true
+  },
+  "cn_ptl_02": {
+    "c": 0.5
+  },
+  "cn_hj_9": {
+    "b": true
+  },
+  "cn_cm11": {
+    "c": 1
+  },
+  "cn_ztz_96": {
+    "c": 1
+  },
+  "cn_cm_34": {
+    "c": 1
+  },
+  "cn_object_122tm": {
+    "c": 1
+  },
+  "cn_t_62": {
+    "b": true
+  },
+  "cn_wma_301": {
+    "c": 0.8
+  },
+  "cn_type_69_2g": {
+    "c": 0.8
+  },
+  "cn_mbt2000": {
+    "c": 1
+  },
+  "cn_ztz_96a": {
+    "c": 1
+  },
+  "cn_antelope_tc_1l_ads": {
+    "b": true
+  },
+  "cn_ztl_11": {
+    "c": 1
+  },
+  "cn_ztz_99": {
+    "c": 1
+  },
+  "cn_ztz_99_w": {
+    "c": 1
+  },
+  "cn_tor_m1": {
+    "b": true
+  },
+  "cn_hq_17": {
+    "b": true
+  },
+  "cn_zbd_04a": {
+    "c": 1
+  },
+  "cn_ztz_96a_prot": {
+    "b": true
+  },
+  "cn_t_80ud_478be": {
+    "c": 1
+  },
+  "cn_qn506": {
+    "c": 0.8
+  },
+  "cn_al_khalid_1": {
+    "c": 1
+  },
+  "cn_vt_5": {
+    "c": 1
+  },
+  "cn_mbt2000_sm": {
+    "c": 1
+  },
+  "cn_ztz_96b": {
+    "b": true
+  },
+  "cn_vt_4": {
+    "c": 0.5
+  },
+  "cn_wz_1001": {
+    "c": 1
+  },
+  "cn_pgz_625_fb10": {
+    "b": true
+  },
+  "cn_vt_4b": {
+    "c": 1
+  },
+  "cn_ztz_99a": {
+    "c": 1
+  },
+  "cn_fk_2000": {
+    "b": true
+  },
+  "cn_m1a2t": {
+    "b": true
+  },
+  "cn_hq_11": {
+    "b": true
+  },
+  "cn_oplot_t": {
+    "c": 0.5
+  },
+  "it_ab_41": {
+    "c": 1
+  },
+  "it_l6": {
+    "c": 0.5
+  },
+  "it_as_42_metropolitana": {
+    "c": 0.5
+  },
+  "it_l3_cc": {
+    "c": 0.5
+  },
+  "it_39m_csaba": {
+    "c": 0.5
+  },
+  "it_m11_39": {
+    "c": 1
+  },
+  "it_m13_40_serie_1": {
+    "c": 0.5
+  },
+  "it_m13_40_serie_3": {
+    "c": 0.5
+  },
+  "it_semovente_l40": {
+    "c": 0.5
+  },
+  "it_as_42_47": {
+    "c": 1
+  },
+  "it_m14_41": {
+    "c": 0.5
+  },
+  "it_lancia3ro_100": {
+    "c": 0.5
+  },
+  "it_l6_leone": {
+    "b": true
+  },
+  "it_toldi_ii_a": {
+    "c": 0.5
+  },
+  "it_m13_40_serie_2": {
+    "c": 1
+  },
+  "it_ab_43": {
+    "c": 1
+  },
+  "it_m15_42": {
+    "c": 1
+  },
+  "it_pzkpfw_iii_ausf_n": {
+    "c": 1
+  },
+  "it_fiat_cm52": {
+    "b": true
+  },
+  "it_semovente_m41_75_18": {
+    "c": 0.5
+  },
+  "it_semovente_m41_75_32": {
+    "c": 0.5
+  },
+  "it_semovente_m42_75_34": {
+    "c": 0.5
+  },
+  "it_40m_turan_1": {
+    "c": 1
+  },
+  "it_m3a3_stuart": {
+    "c": 1
+  },
+  "it_p_40": {
+    "c": 1
+  },
+  "it_semovente_m43_105": {
+    "c": 0.5
+  },
+  "it_semovente_m43_75_34": {
+    "c": 0.5
+  },
+  "it_40_43m_zrinyi_2": {
+    "c": 0.5
+  },
+  "it_m14_41_47_40": {
+    "b": true
+  },
+  "it_41m_turan_2": {
+    "c": 1
+  },
+  "it_sahariano": {
+    "c": 1
+  },
+  "it_p_26_40": {
+    "c": 1
+  },
+  "it_m24_chaffee": {
+    "c": 1
+  },
+  "it_m4a4_sherman": {
+    "c": 1
+  },
+  "it_m15_42_contraereo": {
+    "b": true
+  },
+  "it_m44": {
+    "c": 0.5
+  },
+  "it_m55": {
+    "b": true
+  },
+  "it_43m_turan_3": {
+    "c": 1
+  },
+  "it_semovente_breda_501": {
+    "c": 1
+  },
+  "it_sherman_vii": {
+    "c": 1
+  },
+  "it_semovente_m41m_90": {
+    "c": 0.5
+  },
+  "it_stug_iii_ausf_g": {
+    "c": 1
+  },
+  "it_semovente_m43_75_46": {
+    "c": 1
+  },
+  "it_semovente_m43_105_leoncello": {
+    "c": 1
+  },
+  "it_44m_zrinyi_1": {
+    "c": 1
+  },
+  "it_sherman_75_37": {
+    "c": 1
+  },
+  "it_breda_52_autocannone": {
+    "c": 0.5
+  },
+  "it_pzkpfw_iv_ausf_g": {
+    "b": true
+  },
+  "it_m18_hellcat": {
+    "c": 1
+  },
+  "it_sherman_vc_firefly": {
+    "c": 1
+  },
+  "it_leopard_bofors": {
+    "c": 0.5
+  },
+  "it_m36b1": {
+    "c": 1
+  },
+  "it_2s1": {
+    "c": 0.5
+  },
+  "it_fiat_6616_cockerill": {
+    "c": 1
+  },
+  "it_fiat_6614_106sr": {
+    "c": 1
+  },
+  "it_m26a1_pershing": {
+    "c": 1
+  },
+  "it_oto_r3_t20_fa": {
+    "c": 0.5
+  },
+  "it_m109g": {
+    "c": 0.5
+  },
+  "it_palmaria": {
+    "c": 0.5
+  },
+  "it_pzkpfw_vi_ausf_e_tiger": {
+    "c": 1
+  },
+  "it_fiat_6616_ub": {
+    "b": true
+  },
+  "it_m26_ariete": {
+    "b": true
+  },
+  "it_c13_t90": {
+    "c": 1
+  },
+  "it_m47_105": {
+    "c": 1
+  },
+  "it_zsu_57_2": {
+    "c": 1
+  },
+  "it_pzh_2000": {
+    "b": true
+  },
+  "it_btr_80a_hungary": {
+    "c": 1
+  },
+  "it_oto_r3_106sr": {
+    "c": 1
+  },
+  "it_of_40_mk_1": {
+    "c": 1
+  },
+  "it_leopard_1a2": {
+    "c": 1
+  },
+  "it_zsu_23_4": {
+    "c": 0.5
+  },
+  "it_pzh_2000_hu": {
+    "b": true
+  },
+  "it_fiat_6614_firos": {
+    "c": 0.5
+  },
+  "it_m60a1_ariete": {
+    "b": true
+  },
+  "it_aubl_74_60_70m": {
+    "c": 1
+  },
+  "it_vcc_80_hitfist_60": {
+    "c": 1
+  },
+  "it_of_40_mk_2a": {
+    "c": 1
+  },
+  "it_otobreda_sidam_25": {
+    "b": true
+  },
+  "it_m113a1_tow": {
+    "c": 0.5
+  },
+  "it_t_72m1": {
+    "c": 1
+  },
+  "it_b1_centauro": {
+    "c": 1
+  },
+  "it_b1_centauro_romor": {
+    "c": 1
+  },
+  "it_leopard_1a5": {
+    "c": 1
+  },
+  "it_otobreda_sidam_25_mistral": {
+    "b": true
+  },
+  "it_vbc_pt2": {
+    "c": 1
+  },
+  "it_of_40_mtca": {
+    "c": 1
+  },
+  "it_c13_tua": {
+    "b": true
+  },
+  "it_vrcc_centauro": {
+    "b": true
+  },
+  "it_centauro_mgs_120": {
+    "c": 1
+  },
+  "it_c1_ariete_preserie": {
+    "c": 1
+  },
+  "it_9a33bm3": {
+    "b": true
+  },
+  "it_9a35_m": {
+    "b": true
+  },
+  "it_dardo_vcc": {
+    "c": 1
+  },
+  "it_vcc_80_hitfist_30": {
+    "c": 1
+  },
+  "it_leopard_2a4": {
+    "c": 1
+  },
+  "it_c1_ariete_pso": {
+    "c": 1
+  },
+  "it_c1_ariete": {
+    "c": 1
+  },
+  "it_otomatic": {
+    "c": 0.5
+  },
+  "it_freccia": {
+    "c": 0.5
+  },
+  "it_kf_41": {
+    "c": 0.5
+  },
+  "it_centauro_rgo_120": {
+    "b": true
+  },
+  "it_freccia_hitfist_ows": {
+    "b": true
+  },
+  "it_c1_ariete_certezza": {
+    "b": true
+  },
+  "it_centauro_2": {
+    "b": true
+  },
+  "it_ariete_amv_pt1": {
+    "c": 1
+  },
+  "it_samp_t_fcs": {
+    "b": true
+  },
+  "it_samp_t_launcher": {
+    "b": true
+  },
+  "it_leopard_2a7_hungary": {
+    "c": 1
+  },
+  "fr_amc_34": {
+    "c": 0.2
+  },
+  "fr_hotchkiss_h35": {
+    "c": 0.2
+  },
+  "fr_fcm_36": {
+    "c": 0.2
+  },
+  "fr_saint_chamond": {
+    "c": 0.2
+  },
+  "fr_renault_r39": {
+    "c": 0.2
+  },
+  "fr_citroen_kegresse_p4t": {
+    "b": true
+  },
+  "fr_amr_35_zt3": {
+    "c": 0.2
+  },
+  "fr_amd_35": {
+    "c": 1
+  },
+  "fr_hotchkiss_h39": {
+    "c": 0.2
+  },
+  "fr_renault_d2": {
+    "c": 0.5
+  },
+  "fr_lorraine_37l": {
+    "c": 0.2
+  },
+  "fr_amc_35": {
+    "c": 0.5
+  },
+  "fr_somua_s35": {
+    "c": 0.5
+  },
+  "fr_somua_sau40": {
+    "c": 0.5
+  },
+  "fr_hotchkiss_h39_cambronne": {
+    "c": 0.5
+  },
+  "fr_amd_35_sa35": {
+    "c": 1
+  },
+  "fr_char_2c_bis": {
+    "c": 0.5
+  },
+  "fr_amd_35_kwk39": {
+    "c": 1
+  },
+  "fr_m3a3_stuart": {
+    "c": 1
+  },
+  "fr_b1_bis": {
+    "c": 0.5
+  },
+  "fr_char_2c": {
+    "c": 0.5
+  },
+  "fr_cckw_353_bofors": {
+    "c": 0.5
+  },
+  "fr_m4a3_105_sherman": {
+    "c": 0.5
+  },
+  "fr_crusader_mk_2": {
+    "c": 1
+  },
+  "fr_m4a1_sherman": {
+    "c": 1
+  },
+  "fr_amx_vtt_dca": {
+    "b": true
+  },
+  "fr_m10": {
+    "c": 1
+  },
+  "fr_b1_ter": {
+    "c": 1
+  },
+  "fr_lvt_bofors": {
+    "c": 0.5
+  },
+  "fr_amx_13_chaffee": {
+    "c": 1
+  },
+  "fr_amx_13_fl_11": {
+    "c": 1
+  },
+  "fr_m4a4_sherman": {
+    "c": 1
+  },
+  "fr_arl_44_acl1": {
+    "c": 0.5
+  },
+  "fr_amx_13_dca_40": {
+    "c": 0.5
+  },
+  "fr_m44": {
+    "c": 0.5
+  },
+  "fr_m55": {
+    "b": true
+  },
+  "fr_panhard_ebr_1951": {
+    "c": 1
+  },
+  "fr_m4a4_cn_75_50": {
+    "c": 1
+  },
+  "fr_arl_44": {
+    "c": 0.5
+  },
+  "fr_m4a3e2_sherman_jumbo": {
+    "c": 1
+  },
+  "fr_tpk_641_vpc": {
+    "c": 0.3
+  },
+  "fr_m36b2_cefeo": {
+    "c": 1
+  },
+  "fr_m4a1_sherman_fl_10": {
+    "b": true
+  },
+  "fr_lorraine_155": {
+    "b": true
+  },
+  "fr_arl_44_mod": {
+    "b": true
+  },
+  "fr_amx_elc_bis": {
+    "c": 1
+  },
+  "fr_m26_pershing": {
+    "c": 1
+  },
+  "fr_amx_m4": {
+    "c": 1
+  },
+  "fr_amx_10p": {
+    "c": 0.3
+  },
+  "fr_lorraine_100": {
+    "c": 0.5
+  },
+  "fr_amx_13_75": {
+    "c": 1
+  },
+  "fr_amx_30_auf_1": {
+    "c": 0.5
+  },
+  "fr_pzkpfw_v_panther_dauphine": {
+    "c": 1
+  },
+  "fr_amx_elc_901": {
+    "b": true
+  },
+  "fr_amx_13_75_ss11": {
+    "c": 1
+  },
+  "fr_panhard_ebr_1954": {
+    "c": 1
+  },
+  "fr_m46_patton": {
+    "c": 1
+  },
+  "fr_aml_90": {
+    "c": 1
+  },
+  "fr_amx_13_90": {
+    "c": 1
+  },
+  "fr_lorraine_40t": {
+    "c": 1
+  },
+  "fr_bat_chat_25t": {
+    "c": 1
+  },
+  "fr_amx_50": {
+    "c": 1
+  },
+  "fr_amx_50_foch": {
+    "c": 0.7
+  },
+  "fr_amx_10m_acra": {
+    "c": 0.5
+  },
+  "fr_marder_df_105": {
+    "c": 0.5
+  },
+  "fr_amx_30_1972": {
+    "c": 1
+  },
+  "fr_amx_50_surbaisse": {
+    "c": 1
+  },
+  "fr_somua_sm": {
+    "b": true
+  },
+  "fr_panhard_ebr_1963": {
+    "c": 1
+  },
+  "fr_marder_clovis": {
+    "b": true
+  },
+  "fr_amx_50_surblinde": {
+    "b": true
+  },
+  "fr_amx_30": {
+    "b": true
+  },
+  "fr_amx_50_1950": {
+    "b": true
+  },
+  "fr_mars_15": {
+    "c": 1
+  },
+  "fr_amx_13_hot": {
+    "c": 0.5
+  },
+  "fr_amx_30_b2": {
+    "c": 1
+  },
+  "fr_amx_30_b2_brenus": {
+    "c": 1
+  },
+  "fr_amx_32_105": {
+    "c": 1
+  },
+  "fr_amx_32": {
+    "c": 1
+  },
+  "fr_amx_30_dca": {
+    "c": 0.5
+  },
+  "fr_amx_30_acra": {
+    "c": 0.5
+  },
+  "fr_amx_10rc": {
+    "c": 1
+  },
+  "fr_sk105_a2": {
+    "c": 1
+  },
+  "fr_leopard_1a5be": {
+    "c": 1
+  },
+  "fr_vab_santal": {
+    "b": true
+  },
+  "fr_vcac_mephisto": {
+    "c": 1
+  },
+  "fr_vbci": {
+    "c": 0.5
+  },
+  "fr_amx_30_super": {
+    "b": true
+  },
+  "fr_vbci2_mct30": {
+    "c": 1
+  },
+  "fr_vextra_105": {
+    "c": 1
+  },
+  "fr_msc": {
+    "c": 1
+  },
+  "fr_amx_40": {
+    "c": 1
+  },
+  "fr_amx_30_roland": {
+    "b": true
+  },
+  "fr_jaguar_ebrc": {
+    "c": 0.5
+  },
+  "fr_leopard_2a4nl": {
+    "b": true
+  },
+  "fr_cv_9035_nl": {
+    "b": true
+  },
+  "fr_leopard_2a4nl_les": {
+    "b": true
+  },
+  "fr_leclerc_s1": {
+    "c": 1
+  },
+  "fr_leclerc_s2": {
+    "c": 0.5
+  },
+  "fr_leopard_2a5nl": {
+    "b": true
+  },
+  "fr_crotale_ng": {
+    "b": true
+  },
+  "fr_samp_t_fcs": {
+    "b": true
+  },
+  "fr_samp_t_launcher": {
+    "b": true
+  },
+  "fr_leclerc_sxxi": {
+    "b": true
+  },
+  "fr_leopard_2a6nl": {
+    "b": true
+  },
+  "fr_leclerc_azur": {
+    "c": 1
+  },
+  "fr_embt": {
+    "b": true
+  },
+  "sw_strv_m31": {
+    "c": 1
+  },
+  "sw_strv_m38": {
+    "c": 1
+  },
+  "sw_pvlvv_fm42": {
+    "c": 0.5
+  },
+  "sw_ikv_72": {
+    "c": 0.5
+  },
+  "sw_vickers_mk_e_37": {
+    "c": 0.2
+  },
+  "sw_bt_42": {
+    "c": 0.5
+  },
+  "sw_strv_m40l": {
+    "c": 1
+  },
+  "sw_sav_m43_1944": {
+    "c": 0.5
+  },
+  "sw_t_28": {
+    "c": 1
+  },
+  "sw_strv_m39": {
+    "c": 1
+  },
+  "sw_strv_m39_td": {
+    "c": 1
+  },
+  "sw_vickers_mk_e_45": {
+    "b": true
+  },
+  "sw_pbil_m40": {
+    "c": 1
+  },
+  "sw_strv_m41_s2": {
+    "c": 1
+  },
+  "sw_lago_1": {
+    "c": 1
+  },
+  "sw_pbv_301": {
+    "c": 0.5
+  },
+  "sw_stormpjas_fm43_44": {
+    "c": 0.2
+  },
+  "sw_pvkv_iii": {
+    "c": 1
+  },
+  "sw_strv_m42_eh": {
+    "c": 1
+  },
+  "sw_tgdgb_m40_lv": {
+    "c": 0.5
+  },
+  "sw_sav_m43_1946": {
+    "c": 0.5
+  },
+  "sw_strv_m41_s1": {
+    "b": true
+  },
+  "sw_t_50_fin": {
+    "b": true
+  },
+  "sw_ikv_73": {
+    "c": 1
+  },
+  "sw_m24_chaffee_dk": {
+    "c": 1
+  },
+  "sw_pvkv_iv": {
+    "c": 1
+  },
+  "sw_l_62_anti_ii": {
+    "c": 0.5
+  },
+  "sw_pvkv_m43_1946": {
+    "c": 0.5
+  },
+  "sw_ikv_103": {
+    "c": 0.5
+  },
+  "sw_t_34_1941": {
+    "c": 1
+  },
+  "sw_pzkpfw_iv_ausf_j": {
+    "c": 1
+  },
+  "sw_pvkv_ii": {
+    "c": 1
+  },
+  "sw_strv_m42_delat_torn": {
+    "c": 1
+  },
+  "sw_lvkv_42": {
+    "c": 0.5
+  },
+  "sw_pvkv_m43_1963": {
+    "c": 0.5
+  },
+  "sw_pt_76b": {
+    "c": 1
+  },
+  "sw_a_34_comet": {
+    "c": 1
+  },
+  "sw_sav_fm48": {
+    "c": 0.5
+  },
+  "sw_kv_1_1942_fin": {
+    "b": true
+  },
+  "sw_sherman_3_4": {
+    "c": 1
+  },
+  "sw_pbv_501": {
+    "c": 1
+  },
+  "sw_strv_74": {
+    "c": 1
+  },
+  "sw_landsverk_ush_204_gk": {
+    "c": 0.2
+  },
+  "sw_bkan_1c": {
+    "c": 0.5
+  },
+  "sw_t_34_85_zis_53": {
+    "c": 1
+  },
+  "sw_charioteer_mk_7": {
+    "c": 1
+  },
+  "sw_kungstiger": {
+    "c": 1
+  },
+  "sw_ikv_91": {
+    "c": 1
+  },
+  "sw_strv_81": {
+    "c": 0.8
+  },
+  "sw_zsu_57_2": {
+    "c": 1
+  },
+  "sw_pvrbv_551": {
+    "c": 0.5
+  },
+  "sw_t_54_1951": {
+    "c": 1
+  },
+  "sw_landsverk_ush_405": {
+    "c": 1
+  },
+  "sw_strv_101": {
+    "c": 0.8
+  },
+  "sw_strv_103a": {
+    "c": 1
+  },
+  "sw_veak_40": {
+    "b": true
+  },
+  "sw_strv_81_rb52": {
+    "b": true
+  },
+  "sw_k9_vidar": {
+    "b": true
+  },
+  "sw_strv_103_0": {
+    "c": 1
+  },
+  "sw_cv_90105": {
+    "c": 1
+  },
+  "sw_strv_104": {
+    "c": 1
+  },
+  "sw_strv_103c": {
+    "c": 1
+  },
+  "sw_itpsv_90": {
+    "c": 1
+  },
+  "sw_udes_33": {
+    "c": 0.5
+  },
+  "sw_pbv_302_bill": {
+    "c": 0.5
+  },
+  "sw_t_55m": {
+    "c": 1
+  },
+  "sw_ikv_91_105": {
+    "c": 1
+  },
+  "sw_strv_105": {
+    "c": 1
+  },
+  "sw_lvrbv_701": {
+    "c": 0.2
+  },
+  "sw_t_72m1": {
+    "c": 1
+  },
+  "sw_cv_9030_fin": {
+    "c": 1
+  },
+  "sw_strf_90b": {
+    "c": 1
+  },
+  "sw_leopard_1a5no": {
+    "b": true
+  },
+  "sw_bmp_2md": {
+    "c": 1
+  },
+  "sw_cv_9035_dk": {
+    "b": true
+  },
+  "sw_patria_bmp_3": {
+    "c": 0.7
+  },
+  "sw_strf_90c": {
+    "c": 1
+  },
+  "sw_strv_121": {
+    "c": 1
+  },
+  "sw_lvkv_90c": {
+    "c": 0.5
+  },
+  "sw_asrad_r": {
+    "b": true
+  },
+  "sw_strf_9056": {
+    "c": 0.5
+  },
+  "sw_leopard_2a4_fin": {
+    "c": 1
+  },
+  "sw_cv_90105_tml": {
+    "c": 1
+  },
+  "sw_patria_amv_ctcv_105": {
+    "c": 1
+  },
+  "sw_strv121b_christian2": {
+    "b": true
+  },
+  "sw_cv_90120": {
+    "c": 1
+  },
+  "sw_strv_122": {
+    "c": 1
+  },
+  "sw_strv_122b_plss": {
+    "c": 1
+  },
+  "sw_crotale_ng": {
+    "b": true
+  },
+  "sw_cv_90_mk4": {
+    "c": 0.5
+  },
+  "sw_leopard_2a6nl": {
+    "c": 1
+  },
+  "sw_strv_122b_plus": {
+    "c": 1
+  },
+  "sw_eldenhet_98": {
+    "b": true
+  },
+  "sw_nomads": {
+    "b": true
+  },
+  "sw_nasams_fcs": {
+    "b": true
+  },
+  "sw_nasams_launcher": {
+    "b": true
+  },
+  "sw_t_80u": {
+    "c": 1
+  },
+  "il_m_51": {
+    "c": 1
+  },
+  "il_amx_13_75": {
+    "c": 1
+  },
+  "il_tcm_20": {
+    "b": true
+  },
+  "il_m109": {
+    "b": true
+  },
+  "il_m48a1_patton_iii": {
+    "c": 1
+  },
+  "il_magach_2": {
+    "c": 1
+  },
+  "il_aml_90": {
+    "c": 1
+  },
+  "il_zsu_57_2": {
+    "b": true
+  },
+  "il_m109a1": {
+    "b": true
+  },
+  "il_ss_11_halftrack": {
+    "c": 0.5
+  },
+  "il_centurion_mk_5_shot": {
+    "c": 0.8
+  },
+  "il_m163_vulcan": {
+    "b": true
+  },
+  "il_m_51_w": {
+    "b": true
+  },
+  "il_sholef": {
+    "c": 0.5
+  },
+  "il_magach_3_idf": {
+    "c": 1
+  },
+  "il_magach_6": {
+    "b": true
+  },
+  "il_tiran_4": {
+    "c": 1
+  },
+  "il_tiran_4_sh": {
+    "c": 1
+  },
+  "il_zsu_23_4": {
+    "b": true
+  },
+  "il_m113_hvms": {
+    "b": true
+  },
+  "il_magach_6a": {
+    "c": 1
+  },
+  "il_magach_5": {
+    "c": 1
+  },
+  "il_centurion_shot_kal_alef": {
+    "c": 0.8
+  },
+  "il_magach_3": {
+    "b": true
+  },
+  "il_magach_6r": {
+    "c": 1
+  },
+  "il_magach_6b": {
+    "c": 1
+  },
+  "il_magach_6_rocket": {
+    "c": 1
+  },
+  "il_centurion_shot_kal_gimel": {
+    "c": 1
+  },
+  "il_tiran_6": {
+    "c": 1
+  },
+  "il_machbet": {
+    "b": true
+  },
+  "il_m113a1_tow": {
+    "c": 0.5
+  },
+  "il_magach_6m": {
+    "c": 1
+  },
+  "il_magach_6c": {
+    "b": true
+  },
+  "il_merkava_mk_1": {
+    "c": 0.5
+  },
+  "il_mim_72_chaparral": {
+    "b": true
+  },
+  "il_magach_6b_gal_batash": {
+    "c": 1
+  },
+  "il_magach_7c": {
+    "b": true
+  },
+  "il_merkava_mk_1b": {
+    "c": 1
+  },
+  "il_merkava_mk_2b_early": {
+    "c": 1
+  },
+  "il_centurion_shot_kal_d": {
+    "c": 1
+  },
+  "il_magach_6b_gal": {
+    "c": 1
+  },
+  "il_merkava_mk_2d": {
+    "b": true
+  },
+  "il_sabra_mk1": {
+    "b": true
+  },
+  "il_merkava_mk_3b": {
+    "c": 1
+  },
+  "il_merkava_mk_3c": {
+    "c": 1
+  },
+  "il_9a33bm3": {
+    "b": true
+  },
+  "il_hunter_afv": {
+    "b": true
+  },
+  "il_tor_m1": {
+    "b": true
+  },
+  "il_eitan": {
+    "c": 0.5
+  },
+  "il_namer_rcws_30": {
+    "c": 0.5
+  },
+  "il_namer_tsrikhon": {
+    "c": 0.5
+  },
+  "il_merkava_mk_3_raam_segol": {
+    "c": 1
+  },
+  "il_leopard_2a6_hel": {
+    "b": true
+  },
+  "il_merkava_mk_4b": {
+    "c": 1
+  },
+  "il_merkava_mk_4_lic": {
+    "b": true
+  },
+  "il_spyder_aio": {
+    "b": true
+  },
+  "il_merkava_mk_4m": {
+    "c": 1
+  }
+}
