@@ -2,6 +2,7 @@ import { afterEach, beforeEach, describe, expect, it, vi } from 'vitest';
 import { fake, resetFake } from './fake-api';
 import { card, closePage, openPage } from './harness';
 import { waitFor } from '@testing-library/preact';
+import { nameSize } from '../../src/format';
 
 vi.mock('../../src/api', () => import('./fake-api'));
 
@@ -46,5 +47,22 @@ describe('карточка машины', () => {
     const noSlot = card('ussr_t_80u_yt_cup_2019');
     expect(noSlot.querySelector('img')).toBeNull();
     expect(noSlot.querySelector('.card-noicon')).toBeTruthy();
+  });
+
+  it('название в одну строку: длинное — мельче, чтобы не уходить под цифру', async () => {
+    await openWith({});
+    expect(card('ussr_t_26').querySelector('.card-name')?.className).toBe('card-name');
+    // «ИС-2 обр. 1944» — 14 символов
+    expect(card('ussr_is_2_1944').querySelector('.card-name')?.className).toBe('card-name card-name--s');
+  });
+});
+
+describe('размер названия на карточке', () => {
+  it('до 13 символов — обычный, 14–17 — s, от 18 — xs', () => {
+    expect(nameSize('M4A3E2 (76) W')).toBe('m');
+    expect(nameSize('Ha-Go Commander')).toBe('s');
+    expect(nameSize('Bfw. Jagdpanther G')).toBe('xs');
+    expect(nameSize('СУ-76М (5гв.Кав.Корп)')).toBe('xs');
+    expect(nameSize('FSAF SAMP/T (Mamba) (TADS)')).toBe('xs');
   });
 });

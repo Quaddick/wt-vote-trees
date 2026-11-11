@@ -1,5 +1,5 @@
 /** Режим правки: кнопки в шапке, панель значения, окна входа и загрузки, тост, «Отменить». */
-import { useEffect, useRef, useState } from 'preact/hooks';
+import { useEffect, useLayoutEffect, useRef, useState } from 'preact/hooks';
 import type { Change } from '../../shared/types';
 import { PRESETS, formatValue, parseCoefficient, sameValue, undoableItems, valueOf } from '../../shared/values';
 import { brRb, vehiclesCount } from '../format';
@@ -293,6 +293,16 @@ function EditSheet() {
 // ── окно загрузки ───────────────────────────────────────────────────────
 function ImportDialog() {
   const preview = importPreview.value;
+  const open = preview !== null;
+  // layout — чтобы Escape работал сразу, как окно появилось
+  useLayoutEffect(() => {
+    if (!open) return;
+    const onKey = (e: KeyboardEvent) => {
+      if (e.key === 'Escape') cancelImport();
+    };
+    document.addEventListener('keydown', onKey);
+    return () => document.removeEventListener('keydown', onKey);
+  }, [open]);
   if (!preview) return null;
   const nothing = preview.count === 0;
   return (

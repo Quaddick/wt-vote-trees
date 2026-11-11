@@ -502,6 +502,7 @@ img {
 }
 
 .card-icon {
+  grid-column: 1;
   grid-row: 1 / 3;
   display: flex;
   align-items: center;
@@ -525,6 +526,11 @@ img {
 }
 
 .card-name {
+  /* одна строка на всю ширину карточки: вторая строка ушла бы под цифру в центре;
+     длинное название (nameSize в format.ts) мельче и может зайти на верх иконки */
+  grid-column: 1 / -1;
+  grid-row: 1;
+  position: relative;
   align-self: start;
   justify-self: end;
   max-width: 100%;
@@ -532,14 +538,25 @@ img {
   font-weight: 600;
   line-height: 1.15;
   text-align: right;
-  text-shadow: 0 1px 2px #000;
+  text-shadow:
+    0 1px 2px #000,
+    0 0 3px #000;
+  white-space: nowrap;
   overflow: hidden;
-  display: -webkit-box;
-  -webkit-line-clamp: 2;
-  -webkit-box-orient: vertical;
+  text-overflow: ellipsis;
+}
+
+.card-name--s {
+  font-size: 11px;
+}
+
+.card-name--xs {
+  font-size: 10px;
 }
 
 .card-br {
+  grid-column: 2;
+  grid-row: 2;
   justify-self: end;
   font-size: 11px;
   color: #c9d3da;

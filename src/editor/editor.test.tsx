@@ -343,6 +343,15 @@ describe('файл значений', () => {
     expect(fake.state.changes).toHaveLength(1);
   });
 
+  it('окно загрузки закрывается по Escape, ничего не применяя', async () => {
+    await openAsEditor({ ussr_t_26: { c: 0.5 } });
+    chooseFile(JSON.stringify({ values: { ussr_t_26: { c: 0.3 } } }));
+    await screen.findByRole('dialog', { name: 'Загрузить значения' });
+    fireEvent.keyDown(document, { key: 'Escape' });
+    await waitFor(() => expect(screen.queryByRole('dialog', { name: 'Загрузить значения' })).toBeNull());
+    expect(sendEdit).not.toHaveBeenCalled();
+  });
+
   it('битый файл — «Файл не похож на значения сайта», ничего не меняется', async () => {
     await openAsEditor();
     chooseFile('{"hello": "world"}');

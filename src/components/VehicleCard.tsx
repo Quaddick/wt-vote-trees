@@ -3,7 +3,7 @@
  * Состояния: приглушена фильтром, блок, недавно изменена («было …»), выделена, сохраняется, вспышка.
  */
 import { formatValue, valueOf } from '../../shared/values';
-import { brRb, slotUrl } from '../format';
+import { brRb, nameSize, slotUrl } from '../format';
 import { cardClick, catalog, flash, pending, recent, selection, valueFilter, values } from '../state';
 
 export function SlotIcon({ id, hasSlot }: { id: string; hasSlot: boolean }) {
@@ -47,6 +47,11 @@ export function ValueMark({ text, blocked }: { text: string; blocked: boolean })
   );
 }
 
+function nameClass(name: string): string {
+  const size = nameSize(name);
+  return size === 'm' ? 'card-name' : `card-name card-name--${size}`;
+}
+
 export function VehicleCard({ id }: { id: string }) {
   const v = catalog.value?.vehicles[id];
   const state = useVehicleView(id);
@@ -64,7 +69,7 @@ export function VehicleCard({ id }: { id: string }) {
       <span class="card-icon">
         <SlotIcon id={id} hasSlot={v.hasSlot} />
       </span>
-      <span class="card-name">{v.name}</span>
+      <span class={nameClass(v.name)}>{v.name}</span>
       <span class="card-br">{brRb(v.br)}</span>
       <ValueMark text={text} blocked={blocked} />
       {saving && <span class="card-saving">сохраняю…</span>}
